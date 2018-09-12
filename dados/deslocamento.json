@@ -1,0 +1,23 @@
+[
+	{
+		"origem":"Barcelona",
+		"destino":"Milan",
+		"meios":[
+			{
+				"companhia":"A",
+				"precos":[
+					{
+						"data": "data 1",
+						"valor":" EUR 0.00"
+					},
+					{
+						"data": "data 2",
+						"valor":" EUR 0.00"
+					}
+				],
+				"modal":"",
+				"duracao":""
+			}
+		]
+	}
+]

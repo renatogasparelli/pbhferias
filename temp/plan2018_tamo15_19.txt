@@ -1,0 +1,588 @@
+
+2 de Maio de 2018
+
+	Posição geral[001]
+	15 dias tirados com 25 dias aproveitados e 23 dias esperados [alavancagem:1.08696]
+		Oficialmente: início  das férias 2 de Maio de 2018
+		Oficialmente: termino das férias 22 de Maio de 2018
+		Realmente   : início  das férias 28 de Abril de 2018
+		Realmente   : termino das férias 22 de Maio de 2018
+
+	Posição geral[002]
+	16 dias tirados com 26 dias aproveitados e 24 dias esperados [alavancagem:1.08333]
+		Oficialmente: início  das férias 2 de Maio de 2018
+		Oficialmente: termino das férias 23 de Maio de 2018
+		Realmente   : início  das férias 28 de Abril de 2018
+		Realmente   : termino das férias 23 de Maio de 2018
+
+	Posição geral[003]
+	17 dias tirados com 27 dias aproveitados e 25 dias esperados [alavancagem:1.08000]
+		Oficialmente: início  das férias 2 de Maio de 2018
+		Oficialmente: termino das férias 24 de Maio de 2018
+		Realmente   : início  das férias 28 de Abril de 2018
+		Realmente   : termino das férias 24 de Maio de 2018
+
+	Posição geral[004]
+	18 dias tirados com 30 dias aproveitados e 26 dias esperados [alavancagem:1.15385]
+		Oficialmente: início  das férias 2 de Maio de 2018
+		Oficialmente: termino das férias 25 de Maio de 2018
+		Realmente   : início  das férias 28 de Abril de 2018
+		Realmente   : termino das férias 27 de Maio de 2018
+
+	Posição geral[005]
+	19 dias tirados com 31 dias aproveitados e 27 dias esperados [alavancagem:1.14815]
+		Oficialmente: início  das férias 2 de Maio de 2018
+		Oficialmente: termino das férias 28 de Maio de 2018
+		Realmente   : início  das férias 28 de Abril de 2018
+		Realmente   : termino das férias 28 de Maio de 2018
+
+4 de Maio de 2018
+
+	Posição geral[006]
+	19 dias tirados com 31 dias aproveitados e 27 dias esperados [alavancagem:1.14815]
+		Oficialmente: início  das férias 4 de Maio de 2018
+		Oficialmente: termino das férias 30 de Maio de 2018
+		Realmente   : início  das férias 4 de Maio de 2018
+		Realmente   : termino das férias 3 de Junho de 2018
+
+7 de Maio de 2018
+
+	Posição geral[007]
+	18 dias tirados com 30 dias aproveitados e 26 dias esperados [alavancagem:1.15385]
+		Oficialmente: início  das férias 7 de Maio de 2018
+		Oficialmente: termino das férias 30 de Maio de 2018
+		Realmente   : início  das férias 5 de Maio de 2018
+		Realmente   : termino das férias 3 de Junho de 2018
+
+	Posição geral[008]
+	19 dias tirados com 30 dias aproveitados e 27 dias esperados [alavancagem:1.11111]
+		Oficialmente: início  das férias 7 de Maio de 2018
+		Oficialmente: termino das férias 1 de Junho de 2018
+		Realmente   : início  das férias 5 de Maio de 2018
+		Realmente   : termino das férias 3 de Junho de 2018
+
+8 de Maio de 2018
+
+	Posição geral[009]
+	17 dias tirados com 27 dias aproveitados e 25 dias esperados [alavancagem:1.08000]
+		Oficialmente: início  das férias 8 de Maio de 2018
+		Oficialmente: termino das férias 30 de Maio de 2018
+		Realmente   : início  das férias 8 de Maio de 2018
+		Realmente   : termino das férias 3 de Junho de 2018
+
+	Posição geral[010]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 8 de Maio de 2018
+		Oficialmente: termino das férias 1 de Junho de 2018
+		Realmente   : início  das férias 8 de Maio de 2018
+		Realmente   : termino das férias 3 de Junho de 2018
+
+	Posição geral[011]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 8 de Maio de 2018
+		Oficialmente: termino das férias 4 de Junho de 2018
+		Realmente   : início  das férias 8 de Maio de 2018
+		Realmente   : termino das férias 4 de Junho de 2018
+
+9 de Maio de 2018
+
+	Posição geral[012]
+	16 dias tirados com 26 dias aproveitados e 24 dias esperados [alavancagem:1.08333]
+		Oficialmente: início  das férias 9 de Maio de 2018
+		Oficialmente: termino das férias 30 de Maio de 2018
+		Realmente   : início  das férias 9 de Maio de 2018
+		Realmente   : termino das férias 3 de Junho de 2018
+
+	Posição geral[013]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 9 de Maio de 2018
+		Oficialmente: termino das férias 1 de Junho de 2018
+		Realmente   : início  das férias 9 de Maio de 2018
+		Realmente   : termino das férias 3 de Junho de 2018
+
+	Posição geral[014]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 9 de Maio de 2018
+		Oficialmente: termino das férias 4 de Junho de 2018
+		Realmente   : início  das férias 9 de Maio de 2018
+		Realmente   : termino das férias 4 de Junho de 2018
+
+	Posição geral[015]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 9 de Maio de 2018
+		Oficialmente: termino das férias 5 de Junho de 2018
+		Realmente   : início  das férias 9 de Maio de 2018
+		Realmente   : termino das férias 5 de Junho de 2018
+
+10 de Maio de 2018
+
+	Posição geral[016]
+	15 dias tirados com 25 dias aproveitados e 23 dias esperados [alavancagem:1.08696]
+		Oficialmente: início  das férias 10 de Maio de 2018
+		Oficialmente: termino das férias 30 de Maio de 2018
+		Realmente   : início  das férias 10 de Maio de 2018
+		Realmente   : termino das férias 3 de Junho de 2018
+
+	Posição geral[017]
+	16 dias tirados com 25 dias aproveitados e 24 dias esperados [alavancagem:1.04167]
+		Oficialmente: início  das férias 10 de Maio de 2018
+		Oficialmente: termino das férias 1 de Junho de 2018
+		Realmente   : início  das férias 10 de Maio de 2018
+		Realmente   : termino das férias 3 de Junho de 2018
+
+	Posição geral[018]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 10 de Maio de 2018
+		Oficialmente: termino das férias 4 de Junho de 2018
+		Realmente   : início  das férias 10 de Maio de 2018
+		Realmente   : termino das férias 4 de Junho de 2018
+
+	Posição geral[019]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 10 de Maio de 2018
+		Oficialmente: termino das férias 5 de Junho de 2018
+		Realmente   : início  das férias 10 de Maio de 2018
+		Realmente   : termino das férias 5 de Junho de 2018
+
+	Posição geral[020]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 10 de Maio de 2018
+		Oficialmente: termino das férias 6 de Junho de 2018
+		Realmente   : início  das férias 10 de Maio de 2018
+		Realmente   : termino das férias 6 de Junho de 2018
+
+11 de Maio de 2018
+
+	Posição geral[021]
+	15 dias tirados com 24 dias aproveitados e 23 dias esperados [alavancagem:1.04348]
+		Oficialmente: início  das férias 11 de Maio de 2018
+		Oficialmente: termino das férias 1 de Junho de 2018
+		Realmente   : início  das férias 11 de Maio de 2018
+		Realmente   : termino das férias 3 de Junho de 2018
+
+	Posição geral[022]
+	16 dias tirados com 25 dias aproveitados e 24 dias esperados [alavancagem:1.04167]
+		Oficialmente: início  das férias 11 de Maio de 2018
+		Oficialmente: termino das férias 4 de Junho de 2018
+		Realmente   : início  das férias 11 de Maio de 2018
+		Realmente   : termino das férias 4 de Junho de 2018
+
+	Posição geral[023]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 11 de Maio de 2018
+		Oficialmente: termino das férias 5 de Junho de 2018
+		Realmente   : início  das férias 11 de Maio de 2018
+		Realmente   : termino das férias 5 de Junho de 2018
+
+	Posição geral[024]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 11 de Maio de 2018
+		Oficialmente: termino das férias 6 de Junho de 2018
+		Realmente   : início  das férias 11 de Maio de 2018
+		Realmente   : termino das férias 6 de Junho de 2018
+
+	Posição geral[025]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 11 de Maio de 2018
+		Oficialmente: termino das férias 7 de Junho de 2018
+		Realmente   : início  das férias 11 de Maio de 2018
+		Realmente   : termino das férias 7 de Junho de 2018
+
+14 de Maio de 2018
+
+	Posição geral[026]
+	15 dias tirados com 24 dias aproveitados e 23 dias esperados [alavancagem:1.04348]
+		Oficialmente: início  das férias 14 de Maio de 2018
+		Oficialmente: termino das férias 4 de Junho de 2018
+		Realmente   : início  das férias 12 de Maio de 2018
+		Realmente   : termino das férias 4 de Junho de 2018
+
+	Posição geral[027]
+	16 dias tirados com 25 dias aproveitados e 24 dias esperados [alavancagem:1.04167]
+		Oficialmente: início  das férias 14 de Maio de 2018
+		Oficialmente: termino das férias 5 de Junho de 2018
+		Realmente   : início  das férias 12 de Maio de 2018
+		Realmente   : termino das férias 5 de Junho de 2018
+
+	Posição geral[028]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 14 de Maio de 2018
+		Oficialmente: termino das férias 6 de Junho de 2018
+		Realmente   : início  das férias 12 de Maio de 2018
+		Realmente   : termino das férias 6 de Junho de 2018
+
+	Posição geral[029]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 14 de Maio de 2018
+		Oficialmente: termino das férias 7 de Junho de 2018
+		Realmente   : início  das férias 12 de Maio de 2018
+		Realmente   : termino das férias 7 de Junho de 2018
+
+	Posição geral[030]
+	19 dias tirados com 30 dias aproveitados e 27 dias esperados [alavancagem:1.11111]
+		Oficialmente: início  das férias 14 de Maio de 2018
+		Oficialmente: termino das férias 8 de Junho de 2018
+		Realmente   : início  das férias 12 de Maio de 2018
+		Realmente   : termino das férias 10 de Junho de 2018
+
+15 de Maio de 2018
+
+	Posição geral[031]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 15 de Maio de 2018
+		Oficialmente: termino das férias 8 de Junho de 2018
+		Realmente   : início  das férias 15 de Maio de 2018
+		Realmente   : termino das férias 10 de Junho de 2018
+
+	Posição geral[032]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 15 de Maio de 2018
+		Oficialmente: termino das férias 11 de Junho de 2018
+		Realmente   : início  das férias 15 de Maio de 2018
+		Realmente   : termino das férias 11 de Junho de 2018
+
+16 de Maio de 2018
+
+	Posição geral[033]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 16 de Maio de 2018
+		Oficialmente: termino das férias 8 de Junho de 2018
+		Realmente   : início  das férias 16 de Maio de 2018
+		Realmente   : termino das férias 10 de Junho de 2018
+
+	Posição geral[034]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 16 de Maio de 2018
+		Oficialmente: termino das férias 11 de Junho de 2018
+		Realmente   : início  das férias 16 de Maio de 2018
+		Realmente   : termino das férias 11 de Junho de 2018
+
+	Posição geral[035]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 16 de Maio de 2018
+		Oficialmente: termino das férias 12 de Junho de 2018
+		Realmente   : início  das férias 16 de Maio de 2018
+		Realmente   : termino das férias 12 de Junho de 2018
+
+17 de Maio de 2018
+
+	Posição geral[036]
+	16 dias tirados com 25 dias aproveitados e 24 dias esperados [alavancagem:1.04167]
+		Oficialmente: início  das férias 17 de Maio de 2018
+		Oficialmente: termino das férias 8 de Junho de 2018
+		Realmente   : início  das férias 17 de Maio de 2018
+		Realmente   : termino das férias 10 de Junho de 2018
+
+	Posição geral[037]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 17 de Maio de 2018
+		Oficialmente: termino das férias 11 de Junho de 2018
+		Realmente   : início  das férias 17 de Maio de 2018
+		Realmente   : termino das férias 11 de Junho de 2018
+
+	Posição geral[038]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 17 de Maio de 2018
+		Oficialmente: termino das férias 12 de Junho de 2018
+		Realmente   : início  das férias 17 de Maio de 2018
+		Realmente   : termino das férias 12 de Junho de 2018
+
+	Posição geral[039]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 17 de Maio de 2018
+		Oficialmente: termino das férias 13 de Junho de 2018
+		Realmente   : início  das férias 17 de Maio de 2018
+		Realmente   : termino das férias 13 de Junho de 2018
+
+18 de Maio de 2018
+
+	Posição geral[040]
+	15 dias tirados com 24 dias aproveitados e 23 dias esperados [alavancagem:1.04348]
+		Oficialmente: início  das férias 18 de Maio de 2018
+		Oficialmente: termino das férias 8 de Junho de 2018
+		Realmente   : início  das férias 18 de Maio de 2018
+		Realmente   : termino das férias 10 de Junho de 2018
+
+	Posição geral[041]
+	16 dias tirados com 25 dias aproveitados e 24 dias esperados [alavancagem:1.04167]
+		Oficialmente: início  das férias 18 de Maio de 2018
+		Oficialmente: termino das férias 11 de Junho de 2018
+		Realmente   : início  das férias 18 de Maio de 2018
+		Realmente   : termino das férias 11 de Junho de 2018
+
+	Posição geral[042]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 18 de Maio de 2018
+		Oficialmente: termino das férias 12 de Junho de 2018
+		Realmente   : início  das férias 18 de Maio de 2018
+		Realmente   : termino das férias 12 de Junho de 2018
+
+	Posição geral[043]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 18 de Maio de 2018
+		Oficialmente: termino das férias 13 de Junho de 2018
+		Realmente   : início  das férias 18 de Maio de 2018
+		Realmente   : termino das férias 13 de Junho de 2018
+
+	Posição geral[044]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 18 de Maio de 2018
+		Oficialmente: termino das férias 14 de Junho de 2018
+		Realmente   : início  das férias 18 de Maio de 2018
+		Realmente   : termino das férias 14 de Junho de 2018
+
+21 de Maio de 2018
+
+	Posição geral[045]
+	15 dias tirados com 24 dias aproveitados e 23 dias esperados [alavancagem:1.04348]
+		Oficialmente: início  das férias 21 de Maio de 2018
+		Oficialmente: termino das férias 11 de Junho de 2018
+		Realmente   : início  das férias 19 de Maio de 2018
+		Realmente   : termino das férias 11 de Junho de 2018
+
+	Posição geral[046]
+	16 dias tirados com 25 dias aproveitados e 24 dias esperados [alavancagem:1.04167]
+		Oficialmente: início  das férias 21 de Maio de 2018
+		Oficialmente: termino das férias 12 de Junho de 2018
+		Realmente   : início  das férias 19 de Maio de 2018
+		Realmente   : termino das férias 12 de Junho de 2018
+
+	Posição geral[047]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 21 de Maio de 2018
+		Oficialmente: termino das férias 13 de Junho de 2018
+		Realmente   : início  das férias 19 de Maio de 2018
+		Realmente   : termino das férias 13 de Junho de 2018
+
+	Posição geral[048]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 21 de Maio de 2018
+		Oficialmente: termino das férias 14 de Junho de 2018
+		Realmente   : início  das férias 19 de Maio de 2018
+		Realmente   : termino das férias 14 de Junho de 2018
+
+	Posição geral[049]
+	19 dias tirados com 30 dias aproveitados e 27 dias esperados [alavancagem:1.11111]
+		Oficialmente: início  das férias 21 de Maio de 2018
+		Oficialmente: termino das férias 15 de Junho de 2018
+		Realmente   : início  das férias 19 de Maio de 2018
+		Realmente   : termino das férias 17 de Junho de 2018
+
+22 de Maio de 2018
+
+	Posição geral[050]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 22 de Maio de 2018
+		Oficialmente: termino das férias 15 de Junho de 2018
+		Realmente   : início  das férias 22 de Maio de 2018
+		Realmente   : termino das férias 17 de Junho de 2018
+
+	Posição geral[051]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 22 de Maio de 2018
+		Oficialmente: termino das férias 18 de Junho de 2018
+		Realmente   : início  das férias 22 de Maio de 2018
+		Realmente   : termino das férias 18 de Junho de 2018
+
+23 de Maio de 2018
+
+	Posição geral[052]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 23 de Maio de 2018
+		Oficialmente: termino das férias 15 de Junho de 2018
+		Realmente   : início  das férias 23 de Maio de 2018
+		Realmente   : termino das férias 17 de Junho de 2018
+
+	Posição geral[053]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 23 de Maio de 2018
+		Oficialmente: termino das férias 18 de Junho de 2018
+		Realmente   : início  das férias 23 de Maio de 2018
+		Realmente   : termino das férias 18 de Junho de 2018
+
+	Posição geral[054]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 23 de Maio de 2018
+		Oficialmente: termino das férias 19 de Junho de 2018
+		Realmente   : início  das férias 23 de Maio de 2018
+		Realmente   : termino das férias 19 de Junho de 2018
+
+24 de Maio de 2018
+
+	Posição geral[055]
+	16 dias tirados com 25 dias aproveitados e 24 dias esperados [alavancagem:1.04167]
+		Oficialmente: início  das férias 24 de Maio de 2018
+		Oficialmente: termino das férias 15 de Junho de 2018
+		Realmente   : início  das férias 24 de Maio de 2018
+		Realmente   : termino das férias 17 de Junho de 2018
+
+	Posição geral[056]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 24 de Maio de 2018
+		Oficialmente: termino das férias 18 de Junho de 2018
+		Realmente   : início  das férias 24 de Maio de 2018
+		Realmente   : termino das férias 18 de Junho de 2018
+
+	Posição geral[057]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 24 de Maio de 2018
+		Oficialmente: termino das férias 19 de Junho de 2018
+		Realmente   : início  das férias 24 de Maio de 2018
+		Realmente   : termino das férias 19 de Junho de 2018
+
+	Posição geral[058]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 24 de Maio de 2018
+		Oficialmente: termino das férias 20 de Junho de 2018
+		Realmente   : início  das férias 24 de Maio de 2018
+		Realmente   : termino das férias 20 de Junho de 2018
+
+25 de Maio de 2018
+
+	Posição geral[059]
+	15 dias tirados com 24 dias aproveitados e 23 dias esperados [alavancagem:1.04348]
+		Oficialmente: início  das férias 25 de Maio de 2018
+		Oficialmente: termino das férias 15 de Junho de 2018
+		Realmente   : início  das férias 25 de Maio de 2018
+		Realmente   : termino das férias 17 de Junho de 2018
+
+	Posição geral[060]
+	16 dias tirados com 25 dias aproveitados e 24 dias esperados [alavancagem:1.04167]
+		Oficialmente: início  das férias 25 de Maio de 2018
+		Oficialmente: termino das férias 18 de Junho de 2018
+		Realmente   : início  das férias 25 de Maio de 2018
+		Realmente   : termino das férias 18 de Junho de 2018
+
+	Posição geral[061]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 25 de Maio de 2018
+		Oficialmente: termino das férias 19 de Junho de 2018
+		Realmente   : início  das férias 25 de Maio de 2018
+		Realmente   : termino das férias 19 de Junho de 2018
+
+	Posição geral[062]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 25 de Maio de 2018
+		Oficialmente: termino das férias 20 de Junho de 2018
+		Realmente   : início  das férias 25 de Maio de 2018
+		Realmente   : termino das férias 20 de Junho de 2018
+
+	Posição geral[063]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 25 de Maio de 2018
+		Oficialmente: termino das férias 21 de Junho de 2018
+		Realmente   : início  das férias 25 de Maio de 2018
+		Realmente   : termino das férias 21 de Junho de 2018
+
+28 de Maio de 2018
+
+	Posição geral[064]
+	15 dias tirados com 24 dias aproveitados e 23 dias esperados [alavancagem:1.04348]
+		Oficialmente: início  das férias 28 de Maio de 2018
+		Oficialmente: termino das férias 18 de Junho de 2018
+		Realmente   : início  das férias 26 de Maio de 2018
+		Realmente   : termino das férias 18 de Junho de 2018
+
+	Posição geral[065]
+	16 dias tirados com 25 dias aproveitados e 24 dias esperados [alavancagem:1.04167]
+		Oficialmente: início  das férias 28 de Maio de 2018
+		Oficialmente: termino das férias 19 de Junho de 2018
+		Realmente   : início  das férias 26 de Maio de 2018
+		Realmente   : termino das férias 19 de Junho de 2018
+
+	Posição geral[066]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 28 de Maio de 2018
+		Oficialmente: termino das férias 20 de Junho de 2018
+		Realmente   : início  das férias 26 de Maio de 2018
+		Realmente   : termino das férias 20 de Junho de 2018
+
+	Posição geral[067]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 28 de Maio de 2018
+		Oficialmente: termino das férias 21 de Junho de 2018
+		Realmente   : início  das férias 26 de Maio de 2018
+		Realmente   : termino das férias 21 de Junho de 2018
+
+	Posição geral[068]
+	19 dias tirados com 30 dias aproveitados e 27 dias esperados [alavancagem:1.11111]
+		Oficialmente: início  das férias 28 de Maio de 2018
+		Oficialmente: termino das férias 22 de Junho de 2018
+		Realmente   : início  das férias 26 de Maio de 2018
+		Realmente   : termino das férias 24 de Junho de 2018
+
+29 de Maio de 2018
+
+	Posição geral[069]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 29 de Maio de 2018
+		Oficialmente: termino das férias 22 de Junho de 2018
+		Realmente   : início  das férias 29 de Maio de 2018
+		Realmente   : termino das férias 24 de Junho de 2018
+
+	Posição geral[070]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 29 de Maio de 2018
+		Oficialmente: termino das férias 25 de Junho de 2018
+		Realmente   : início  das férias 29 de Maio de 2018
+		Realmente   : termino das férias 25 de Junho de 2018
+
+30 de Maio de 2018
+
+	Posição geral[071]
+	17 dias tirados com 26 dias aproveitados e 25 dias esperados [alavancagem:1.04000]
+		Oficialmente: início  das férias 30 de Maio de 2018
+		Oficialmente: termino das férias 22 de Junho de 2018
+		Realmente   : início  das férias 30 de Maio de 2018
+		Realmente   : termino das férias 24 de Junho de 2018
+
+	Posição geral[072]
+	18 dias tirados com 27 dias aproveitados e 26 dias esperados [alavancagem:1.03846]
+		Oficialmente: início  das férias 30 de Maio de 2018
+		Oficialmente: termino das férias 25 de Junho de 2018
+		Realmente   : início  das férias 30 de Maio de 2018
+		Realmente   : termino das férias 25 de Junho de 2018
+
+	Posição geral[073]
+	19 dias tirados com 28 dias aproveitados e 27 dias esperados [alavancagem:1.03704]
+		Oficialmente: início  das férias 30 de Maio de 2018
+		Oficialmente: termino das férias 26 de Junho de 2018
+		Realmente   : início  das férias 30 de Maio de 2018
+		Realmente   : termino das férias 26 de Junho de 2018
+
+4 de Junho de 2018
+
+	Posição geral[074]
+	15 dias tirados com 25 dias aproveitados e 23 dias esperados [alavancagem:1.08696]
+		Oficialmente: início  das férias 4 de Junho de 2018
+		Oficialmente: termino das férias 22 de Junho de 2018
+		Realmente   : início  das férias 31 de Maio de 2018
+		Realmente   : termino das férias 24 de Junho de 2018
+
+	Posição geral[075]
+	16 dias tirados com 26 dias aproveitados e 24 dias esperados [alavancagem:1.08333]
+		Oficialmente: início  das férias 4 de Junho de 2018
+		Oficialmente: termino das férias 25 de Junho de 2018
+		Realmente   : início  das férias 31 de Maio de 2018
+		Realmente   : termino das férias 25 de Junho de 2018
+
+	Posição geral[076]
+	17 dias tirados com 27 dias aproveitados e 25 dias esperados [alavancagem:1.08000]
+		Oficialmente: início  das férias 4 de Junho de 2018
+		Oficialmente: termino das férias 26 de Junho de 2018
+		Realmente   : início  das férias 31 de Maio de 2018
+		Realmente   : termino das férias 26 de Junho de 2018
+
+	Posição geral[077]
+	18 dias tirados com 28 dias aproveitados e 26 dias esperados [alavancagem:1.07692]
+		Oficialmente: início  das férias 4 de Junho de 2018
+		Oficialmente: termino das férias 27 de Junho de 2018
+		Realmente   : início  das férias 31 de Maio de 2018
+		Realmente   : termino das férias 27 de Junho de 2018
+
+	Posição geral[078]
+	19 dias tirados com 29 dias aproveitados e 27 dias esperados [alavancagem:1.07407]
+		Oficialmente: início  das férias 4 de Junho de 2018
+		Oficialmente: termino das férias 28 de Junho de 2018
+		Realmente   : início  das férias 31 de Maio de 2018
+		Realmente   : termino das férias 28 de Junho de 2018

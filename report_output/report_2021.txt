@@ -1,0 +1,340 @@
+
+2021-01-01 - Sexta - Confraternização Universal
+2021-02-15 - Segunda - Carnaval - vespera (**)
+2021-02-16 - Terça - Carnaval
+2021-02-17 - Quarta - Carnaval, quarta-feira de cinzas (*)
+2021-04-01 - Quinta - Paixão de Cristo, vespera (*) - Nanan
+2021-04-02 - Sexta - Paixão de Cristo
+2021-04-21 - Quarta - Tiradentes
+2021-05-01 - Sábado - Dia do Trabalho
+2021-06-03 - Quinta - Corpus Christi
+2021-06-04 - Sexta - Corpus Christi - seguida (**)
+2021-08-15 - Domingo - Assunção de Nossa Senhora
+2021-09-06 - Segunda - Independência do Brasil - vespera (**)
+2021-09-07 - Terça - Independência do Brasil
+2021-10-11 - Segunda - Nossa Senhora Aparecida - vespera (**)
+2021-10-12 - Terça - Nossa Senhora Aparecida
+2021-10-28 - Quinta - Dia do Servidor Público (***)
+2021-11-01 - Segunda - Finados - vespera (**)
+2021-11-02 - Terça - Finados
+2021-11-15 - Segunda - Proclamação da República
+2021-12-08 - Quarta - Imaculada Conceição
+2021-12-24 - Sexta - Natal, véspera (*)
+2021-12-25 - Sábado - Natal
+2021-12-31 - Sexta - Confraternização Universal, véspera (*)
+
+      * facultativo comum
+     ** facultativo desejado
+    *** facultativo flutuante
+    
+
+********************************************************************************
+(001): 79 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+	12 dias tirados com 20 dias aproveitados e 18 dias esperados [alavancagem:1.11111]
+		Oficialmente: início  das férias 7 de Dezembro de 2021
+		Oficialmente: termino das férias 23 de Dezembro de 2021
+		Realmente   : início  das férias 7 de Dezembro de 2021
+		Realmente   : termino das férias 26 de Dezembro de 2021
+
+********************************************************************************
+(002): 78 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 3 de Março de 2021
+		Oficialmente: termino das férias 1 de Abril de 2021
+		Realmente   : início  das férias 3 de Março de 2021
+		Realmente   : termino das férias 4 de Abril de 2021
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+	12 dias tirados com 20 dias aproveitados e 18 dias esperados [alavancagem:1.11111]
+		Oficialmente: início  das férias 7 de Dezembro de 2021
+		Oficialmente: termino das férias 23 de Dezembro de 2021
+		Realmente   : início  das férias 7 de Dezembro de 2021
+		Realmente   : termino das férias 26 de Dezembro de 2021
+
+********************************************************************************
+(003): 78 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 22 de Março de 2021
+		Oficialmente: termino das férias 20 de Abril de 2021
+		Realmente   : início  das férias 20 de Março de 2021
+		Realmente   : termino das férias 21 de Abril de 2021
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+	12 dias tirados com 20 dias aproveitados e 18 dias esperados [alavancagem:1.11111]
+		Oficialmente: início  das férias 7 de Dezembro de 2021
+		Oficialmente: termino das férias 23 de Dezembro de 2021
+		Realmente   : início  das férias 7 de Dezembro de 2021
+		Realmente   : termino das férias 26 de Dezembro de 2021
+
+********************************************************************************
+(004): 78 dias corridos reais.
+	12 dias tirados com 19 dias aproveitados e 18 dias esperados [alavancagem:1.05556]
+		Oficialmente: início  das férias 17 de Março de 2021
+		Oficialmente: termino das férias 1 de Abril de 2021
+		Realmente   : início  das férias 17 de Março de 2021
+		Realmente   : termino das férias 4 de Abril de 2021
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+
+********************************************************************************
+(005): 78 dias corridos reais.
+	12 dias tirados com 19 dias aproveitados e 18 dias esperados [alavancagem:1.05556]
+		Oficialmente: início  das férias 18 de Março de 2021
+		Oficialmente: termino das férias 5 de Abril de 2021
+		Realmente   : início  das férias 18 de Março de 2021
+		Realmente   : termino das férias 5 de Abril de 2021
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+
+********************************************************************************
+(006): 78 dias corridos reais.
+	12 dias tirados com 19 dias aproveitados e 18 dias esperados [alavancagem:1.05556]
+		Oficialmente: início  das férias 19 de Março de 2021
+		Oficialmente: termino das férias 6 de Abril de 2021
+		Realmente   : início  das férias 19 de Março de 2021
+		Realmente   : termino das férias 6 de Abril de 2021
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+
+********************************************************************************
+(007): 78 dias corridos reais.
+	12 dias tirados com 19 dias aproveitados e 18 dias esperados [alavancagem:1.05556]
+		Oficialmente: início  das férias 22 de Março de 2021
+		Oficialmente: termino das férias 7 de Abril de 2021
+		Realmente   : início  das férias 20 de Março de 2021
+		Realmente   : termino das férias 7 de Abril de 2021
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+
+********************************************************************************
+(008): 78 dias corridos reais.
+	12 dias tirados com 19 dias aproveitados e 18 dias esperados [alavancagem:1.05556]
+		Oficialmente: início  das férias 24 de Março de 2021
+		Oficialmente: termino das férias 9 de Abril de 2021
+		Realmente   : início  das férias 24 de Março de 2021
+		Realmente   : termino das férias 11 de Abril de 2021
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+
+********************************************************************************
+(009): 78 dias corridos reais.
+	12 dias tirados com 19 dias aproveitados e 18 dias esperados [alavancagem:1.05556]
+		Oficialmente: início  das férias 25 de Março de 2021
+		Oficialmente: termino das férias 12 de Abril de 2021
+		Realmente   : início  das férias 25 de Março de 2021
+		Realmente   : termino das férias 12 de Abril de 2021
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+
+********************************************************************************
+(010): 78 dias corridos reais.
+	17 dias tirados com 27 dias aproveitados e 25 dias esperados [alavancagem:1.08000]
+		Oficialmente: início  das férias 26 de Março de 2021
+		Oficialmente: termino das férias 20 de Abril de 2021
+		Realmente   : início  das férias 26 de Março de 2021
+		Realmente   : termino das férias 21 de Abril de 2021
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	08 dias tirados com 17 dias aproveitados e 12 dias esperados [alavancagem:1.41667]
+		Oficialmente: início  das férias 3 de Novembro de 2021
+		Oficialmente: termino das férias 12 de Novembro de 2021
+		Realmente   : início  das férias 30 de Outubro de 2021
+		Realmente   : termino das férias 15 de Novembro de 2021
+
+********************************************************************************
+(011): 75 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 18 de Novembro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 18 de Novembro de 2021
+
+********************************************************************************
+(012): 75 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 3 de Novembro de 2021
+		Oficialmente: termino das férias 9 de Dezembro de 2021
+		Realmente   : início  das férias 30 de Outubro de 2021
+		Realmente   : termino das férias 9 de Dezembro de 2021
+
+********************************************************************************
+(013): 74 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 3 de Março de 2021
+		Oficialmente: termino das férias 1 de Abril de 2021
+		Realmente   : início  das férias 3 de Março de 2021
+		Realmente   : termino das férias 4 de Abril de 2021
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 18 de Novembro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 18 de Novembro de 2021
+
+********************************************************************************
+(014): 74 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 22 de Março de 2021
+		Oficialmente: termino das férias 20 de Abril de 2021
+		Realmente   : início  das férias 20 de Março de 2021
+		Realmente   : termino das férias 21 de Abril de 2021
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 18 de Novembro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 18 de Novembro de 2021
+
+********************************************************************************
+(015): 74 dias corridos reais.
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 18 de Novembro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 18 de Novembro de 2021
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 27 de Dezembro de 2021
+		Oficialmente: termino das férias 25 de Janeiro de 2022
+		Realmente   : início  das férias 24 de Dezembro de 2021
+		Realmente   : termino das férias 25 de Janeiro de 2022
+
+********************************************************************************
+(016): 74 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 3 de Março de 2021
+		Oficialmente: termino das férias 1 de Abril de 2021
+		Realmente   : início  das férias 3 de Março de 2021
+		Realmente   : termino das férias 4 de Abril de 2021
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 3 de Novembro de 2021
+		Oficialmente: termino das férias 9 de Dezembro de 2021
+		Realmente   : início  das férias 30 de Outubro de 2021
+		Realmente   : termino das férias 9 de Dezembro de 2021
+
+********************************************************************************
+(017): 74 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 22 de Março de 2021
+		Oficialmente: termino das férias 20 de Abril de 2021
+		Realmente   : início  das férias 20 de Março de 2021
+		Realmente   : termino das férias 21 de Abril de 2021
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 3 de Novembro de 2021
+		Oficialmente: termino das férias 9 de Dezembro de 2021
+		Realmente   : início  das férias 30 de Outubro de 2021
+		Realmente   : termino das férias 9 de Dezembro de 2021
+
+********************************************************************************
+(018): 74 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 3 de Setembro de 2021
+		Oficialmente: termino das férias 8 de Outubro de 2021
+		Realmente   : início  das férias 3 de Setembro de 2021
+		Realmente   : termino das férias 12 de Outubro de 2021
+
+********************************************************************************
+(019): 74 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 8 de Setembro de 2021
+		Oficialmente: termino das férias 13 de Outubro de 2021
+		Realmente   : início  das férias 4 de Setembro de 2021
+		Realmente   : termino das férias 13 de Outubro de 2021
+
+********************************************************************************
+(020): 74 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 24 de Setembro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 24 de Setembro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+

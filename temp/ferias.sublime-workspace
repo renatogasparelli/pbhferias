@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"dias_corridos_oficiais"
+			],
+			[
+				"per",
+				"perido_anual"
+			],
+			[
+				"pf",
+				"pff"
+			],
+			[
+				"st",
+				"set"
+			],
+			[
+				"spa",
+				"spans_calculados"
+			],
+			[
+				"dias",
+				"dias_uteis_reais"
+			],
+			[
+				"range",
+				"range_dias"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"Do",
+				"Download_Dir"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "planferias.py",
+			"settings":
+			{
+				"buffer_size": 5930,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/model.py",
+			"settings":
+			{
+				"buffer_size": 6826,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/lib",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados"
+	],
+	"file_history":
+	[
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_aproveitamento_2017.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_15.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_10.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/lib/feriados.py",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/lib/model.py",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_05.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_06.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_07.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_08.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_09.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_11.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_12.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_13.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_14.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_16.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_17.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_18.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_19.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_20.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2017_25.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/lib/datetime_util.py",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/lib/orbitz_old.py",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/resultados/opcao_2016_05.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/planferias.py",
+		"/J/project_env_support/videos_compare.py",
+		"/J/project_env_support/lib/functions.py",
+		"/J/project_env_support/addcacerts.py",
+		"/I/candidatos.txt",
+		"/I/filtra_candidatos_vereadores_bh_2016.py",
+		"/I/candidatos_vereadores_bh_2016.txt",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/teste.py",
+		"/E/Pessoal/Renato/google_drive/workspace_komodo/project_ferias/gestacao.py",
+		"/C/Users/Renato/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/legendas.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"11-17, 2017-12",
+			"11-17, 2017-11",
+			"11-17, 2017-1",
+			"11-17, 2017-11-",
+			"11-17,"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "planferias.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1607,
+								1607
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/model.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5565,
+								5565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3021.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ferias.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

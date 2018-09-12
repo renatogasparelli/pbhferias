@@ -1,0 +1,569 @@
+
+2020-01-01 - Quarta - Confraternização Universal
+2020-02-24 - Segunda - Carnaval - vespera (**)
+2020-02-25 - Terça - Carnaval
+2020-02-26 - Quarta - Carnaval, quarta-feira de cinzas (*)
+2020-04-09 - Quinta - Paixão de Cristo, vespera (*) - Nanan
+2020-04-10 - Sexta - Paixão de Cristo
+2020-04-20 - Segunda - Tiradentes - vespera (**)
+2020-04-21 - Terça - Tiradentes
+2020-05-01 - Sexta - Dia do Trabalho
+2020-06-11 - Quinta - Corpus Christi
+2020-06-12 - Sexta - Corpus Christi - seguida (**)
+2020-08-15 - Sábado - Assunção de Nossa Senhora
+2020-09-07 - Segunda - Independência do Brasil
+2020-10-12 - Segunda - Nossa Senhora Aparecida
+2020-10-28 - Quarta - Dia do Servidor Público (***)
+2020-11-02 - Segunda - Finados
+2020-11-15 - Domingo - Proclamação da República
+2020-12-07 - Segunda - Imaculada Conceição - vespera (**)
+2020-12-08 - Terça - Imaculada Conceição
+2020-12-24 - Quinta - Natal, véspera (*)
+2020-12-25 - Sexta - Natal
+2020-12-31 - Quinta - Confraternização Universal, véspera (*)
+
+      * facultativo comum
+     ** facultativo desejado
+    *** facultativo flutuante
+    
+
+********************************************************************************
+(001): 84 dias corridos reais.
+	08 dias tirados com 16 dias aproveitados e 12 dias esperados [alavancagem:1.33333]
+		Oficialmente: início  das férias 30 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 28 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	06 dias tirados com 11 dias aproveitados e 10 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 9 de Outubro de 2020
+		Oficialmente: termino das férias 19 de Outubro de 2020
+		Realmente   : início  das férias 9 de Outubro de 2020
+		Realmente   : termino das férias 19 de Outubro de 2020
+	11 dias tirados com 23 dias aproveitados e 17 dias esperados [alavancagem:1.35294]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 23 de Dezembro de 2020
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 27 de Dezembro de 2020
+
+********************************************************************************
+(002): 83 dias corridos reais.
+	09 dias tirados com 17 dias aproveitados e 13 dias esperados [alavancagem:1.30769]
+		Oficialmente: início  das férias 27 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 27 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	09 dias tirados com 16 dias aproveitados e 13 dias esperados [alavancagem:1.23077]
+		Oficialmente: início  das férias 13 de Outubro de 2020
+		Oficialmente: termino das férias 23 de Outubro de 2020
+		Realmente   : início  das férias 10 de Outubro de 2020
+		Realmente   : termino das férias 25 de Outubro de 2020
+	07 dias tirados com 16 dias aproveitados e 11 dias esperados [alavancagem:1.45455]
+		Oficialmente: início  das férias 21 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 19 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(003): 83 dias corridos reais.
+	09 dias tirados com 17 dias aproveitados e 13 dias esperados [alavancagem:1.30769]
+		Oficialmente: início  das férias 27 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 27 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	09 dias tirados com 16 dias aproveitados e 13 dias esperados [alavancagem:1.23077]
+		Oficialmente: início  das férias 5 de Outubro de 2020
+		Oficialmente: termino das férias 16 de Outubro de 2020
+		Realmente   : início  das férias 3 de Outubro de 2020
+		Realmente   : termino das férias 18 de Outubro de 2020
+	07 dias tirados com 16 dias aproveitados e 11 dias esperados [alavancagem:1.45455]
+		Oficialmente: início  das férias 21 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 19 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(004): 83 dias corridos reais.
+	09 dias tirados com 17 dias aproveitados e 13 dias esperados [alavancagem:1.30769]
+		Oficialmente: início  das férias 27 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 27 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	09 dias tirados com 16 dias aproveitados e 13 dias esperados [alavancagem:1.23077]
+		Oficialmente: início  das férias 26 de Outubro de 2020
+		Oficialmente: termino das férias 6 de Novembro de 2020
+		Realmente   : início  das férias 24 de Outubro de 2020
+		Realmente   : termino das férias 8 de Novembro de 2020
+	07 dias tirados com 16 dias aproveitados e 11 dias esperados [alavancagem:1.45455]
+		Oficialmente: início  das férias 21 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 19 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(005): 83 dias corridos reais.
+	09 dias tirados com 17 dias aproveitados e 13 dias esperados [alavancagem:1.30769]
+		Oficialmente: início  das férias 27 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 27 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	09 dias tirados com 16 dias aproveitados e 13 dias esperados [alavancagem:1.23077]
+		Oficialmente: início  das férias 3 de Novembro de 2020
+		Oficialmente: termino das férias 13 de Novembro de 2020
+		Realmente   : início  das férias 31 de Outubro de 2020
+		Realmente   : termino das férias 15 de Novembro de 2020
+	07 dias tirados com 16 dias aproveitados e 11 dias esperados [alavancagem:1.45455]
+		Oficialmente: início  das férias 21 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 19 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(006): 83 dias corridos reais.
+	08 dias tirados com 16 dias aproveitados e 12 dias esperados [alavancagem:1.33333]
+		Oficialmente: início  das férias 30 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 28 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	10 dias tirados com 17 dias aproveitados e 16 dias esperados [alavancagem:1.06250]
+		Oficialmente: início  das férias 5 de Outubro de 2020
+		Oficialmente: termino das férias 19 de Outubro de 2020
+		Realmente   : início  das férias 3 de Outubro de 2020
+		Realmente   : termino das férias 19 de Outubro de 2020
+	07 dias tirados com 16 dias aproveitados e 11 dias esperados [alavancagem:1.45455]
+		Oficialmente: início  das férias 21 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 19 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(007): 83 dias corridos reais.
+	08 dias tirados com 16 dias aproveitados e 12 dias esperados [alavancagem:1.33333]
+		Oficialmente: início  das férias 30 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 28 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	09 dias tirados com 16 dias aproveitados e 13 dias esperados [alavancagem:1.23077]
+		Oficialmente: início  das férias 13 de Outubro de 2020
+		Oficialmente: termino das férias 23 de Outubro de 2020
+		Realmente   : início  das férias 10 de Outubro de 2020
+		Realmente   : termino das férias 25 de Outubro de 2020
+	08 dias tirados com 17 dias aproveitados e 12 dias esperados [alavancagem:1.41667]
+		Oficialmente: início  das férias 18 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 18 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(008): 83 dias corridos reais.
+	08 dias tirados com 16 dias aproveitados e 12 dias esperados [alavancagem:1.33333]
+		Oficialmente: início  das férias 30 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 28 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	09 dias tirados com 16 dias aproveitados e 13 dias esperados [alavancagem:1.23077]
+		Oficialmente: início  das férias 26 de Outubro de 2020
+		Oficialmente: termino das férias 6 de Novembro de 2020
+		Realmente   : início  das férias 24 de Outubro de 2020
+		Realmente   : termino das férias 8 de Novembro de 2020
+	08 dias tirados com 17 dias aproveitados e 12 dias esperados [alavancagem:1.41667]
+		Oficialmente: início  das férias 18 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 18 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(009): 83 dias corridos reais.
+	08 dias tirados com 16 dias aproveitados e 12 dias esperados [alavancagem:1.33333]
+		Oficialmente: início  das férias 30 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 28 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	10 dias tirados com 17 dias aproveitados e 16 dias esperados [alavancagem:1.06250]
+		Oficialmente: início  das férias 9 de Outubro de 2020
+		Oficialmente: termino das férias 23 de Outubro de 2020
+		Realmente   : início  das férias 9 de Outubro de 2020
+		Realmente   : termino das férias 25 de Outubro de 2020
+	07 dias tirados com 16 dias aproveitados e 11 dias esperados [alavancagem:1.45455]
+		Oficialmente: início  das férias 21 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 19 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(010): 83 dias corridos reais.
+	08 dias tirados com 16 dias aproveitados e 12 dias esperados [alavancagem:1.33333]
+		Oficialmente: início  das férias 30 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 28 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	10 dias tirados com 17 dias aproveitados e 16 dias esperados [alavancagem:1.06250]
+		Oficialmente: início  das férias 30 de Outubro de 2020
+		Oficialmente: termino das férias 13 de Novembro de 2020
+		Realmente   : início  das férias 30 de Outubro de 2020
+		Realmente   : termino das férias 15 de Novembro de 2020
+	07 dias tirados com 16 dias aproveitados e 11 dias esperados [alavancagem:1.45455]
+		Oficialmente: início  das férias 21 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 19 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(011): 82 dias corridos reais.
+	10 dias tirados com 18 dias aproveitados e 16 dias esperados [alavancagem:1.12500]
+		Oficialmente: início  das férias 26 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 26 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	15 dias tirados com 30 dias aproveitados e 23 dias esperados [alavancagem:1.30435]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(012): 82 dias corridos reais.
+	14 dias tirados com 25 dias aproveitados e 20 dias esperados [alavancagem:1.25000]
+		Oficialmente: início  das férias 30 de Março de 2020
+		Oficialmente: termino das férias 17 de Abril de 2020
+		Realmente   : início  das férias 28 de Março de 2020
+		Realmente   : termino das férias 21 de Abril de 2020
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	11 dias tirados com 23 dias aproveitados e 17 dias esperados [alavancagem:1.35294]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 23 de Dezembro de 2020
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 27 de Dezembro de 2020
+
+********************************************************************************
+(013): 81 dias corridos reais.
+	10 dias tirados com 18 dias aproveitados e 16 dias esperados [alavancagem:1.12500]
+		Oficialmente: início  das férias 26 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 26 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 8 de Setembro de 2020
+		Oficialmente: termino das férias 7 de Outubro de 2020
+		Realmente   : início  das férias 5 de Setembro de 2020
+		Realmente   : termino das férias 7 de Outubro de 2020
+	15 dias tirados com 30 dias aproveitados e 23 dias esperados [alavancagem:1.30435]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(014): 81 dias corridos reais.
+	10 dias tirados com 18 dias aproveitados e 16 dias esperados [alavancagem:1.12500]
+		Oficialmente: início  das férias 26 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 26 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 10 de Setembro de 2020
+		Oficialmente: termino das férias 9 de Outubro de 2020
+		Realmente   : início  das férias 10 de Setembro de 2020
+		Realmente   : termino das férias 12 de Outubro de 2020
+	15 dias tirados com 30 dias aproveitados e 23 dias esperados [alavancagem:1.30435]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(015): 81 dias corridos reais.
+	10 dias tirados com 18 dias aproveitados e 16 dias esperados [alavancagem:1.12500]
+		Oficialmente: início  das férias 26 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 26 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 28 de Setembro de 2020
+		Oficialmente: termino das férias 27 de Outubro de 2020
+		Realmente   : início  das férias 26 de Setembro de 2020
+		Realmente   : termino das férias 28 de Outubro de 2020
+	15 dias tirados com 30 dias aproveitados e 23 dias esperados [alavancagem:1.30435]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(016): 81 dias corridos reais.
+	10 dias tirados com 18 dias aproveitados e 16 dias esperados [alavancagem:1.12500]
+		Oficialmente: início  das férias 26 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 26 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 1 de Outubro de 2020
+		Oficialmente: termino das férias 30 de Outubro de 2020
+		Realmente   : início  das férias 1 de Outubro de 2020
+		Realmente   : termino das férias 2 de Novembro de 2020
+	15 dias tirados com 30 dias aproveitados e 23 dias esperados [alavancagem:1.30435]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(017): 81 dias corridos reais.
+	14 dias tirados com 25 dias aproveitados e 20 dias esperados [alavancagem:1.25000]
+		Oficialmente: início  das férias 30 de Março de 2020
+		Oficialmente: termino das férias 17 de Abril de 2020
+		Realmente   : início  das férias 28 de Março de 2020
+		Realmente   : termino das férias 21 de Abril de 2020
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 8 de Setembro de 2020
+		Oficialmente: termino das férias 7 de Outubro de 2020
+		Realmente   : início  das férias 5 de Setembro de 2020
+		Realmente   : termino das férias 7 de Outubro de 2020
+	11 dias tirados com 23 dias aproveitados e 17 dias esperados [alavancagem:1.35294]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 23 de Dezembro de 2020
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 27 de Dezembro de 2020
+
+********************************************************************************
+(018): 81 dias corridos reais.
+	14 dias tirados com 25 dias aproveitados e 20 dias esperados [alavancagem:1.25000]
+		Oficialmente: início  das férias 30 de Março de 2020
+		Oficialmente: termino das férias 17 de Abril de 2020
+		Realmente   : início  das férias 28 de Março de 2020
+		Realmente   : termino das férias 21 de Abril de 2020
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 10 de Setembro de 2020
+		Oficialmente: termino das férias 9 de Outubro de 2020
+		Realmente   : início  das férias 10 de Setembro de 2020
+		Realmente   : termino das férias 12 de Outubro de 2020
+	11 dias tirados com 23 dias aproveitados e 17 dias esperados [alavancagem:1.35294]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 23 de Dezembro de 2020
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 27 de Dezembro de 2020
+
+********************************************************************************
+(019): 81 dias corridos reais.
+	14 dias tirados com 25 dias aproveitados e 20 dias esperados [alavancagem:1.25000]
+		Oficialmente: início  das férias 30 de Março de 2020
+		Oficialmente: termino das férias 17 de Abril de 2020
+		Realmente   : início  das férias 28 de Março de 2020
+		Realmente   : termino das férias 21 de Abril de 2020
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 28 de Setembro de 2020
+		Oficialmente: termino das férias 27 de Outubro de 2020
+		Realmente   : início  das férias 26 de Setembro de 2020
+		Realmente   : termino das férias 28 de Outubro de 2020
+	11 dias tirados com 23 dias aproveitados e 17 dias esperados [alavancagem:1.35294]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 23 de Dezembro de 2020
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 27 de Dezembro de 2020
+
+********************************************************************************
+(020): 81 dias corridos reais.
+	14 dias tirados com 25 dias aproveitados e 20 dias esperados [alavancagem:1.25000]
+		Oficialmente: início  das férias 30 de Março de 2020
+		Oficialmente: termino das férias 17 de Abril de 2020
+		Realmente   : início  das férias 28 de Março de 2020
+		Realmente   : termino das férias 21 de Abril de 2020
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 1 de Outubro de 2020
+		Oficialmente: termino das férias 30 de Outubro de 2020
+		Realmente   : início  das férias 1 de Outubro de 2020
+		Realmente   : termino das férias 2 de Novembro de 2020
+	11 dias tirados com 23 dias aproveitados e 17 dias esperados [alavancagem:1.35294]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 23 de Dezembro de 2020
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 27 de Dezembro de 2020
+
+********************************************************************************
+(021): 75 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 10 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 10 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 24 de Novembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 24 de Novembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(022): 75 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 19 de Março de 2020
+		Oficialmente: termino das férias 17 de Abril de 2020
+		Realmente   : início  das férias 19 de Março de 2020
+		Realmente   : termino das férias 21 de Abril de 2020
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 24 de Novembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 24 de Novembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(023): 75 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 24 de Novembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 24 de Novembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(024): 75 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 10 de Março de 2020
+		Oficialmente: termino das férias 8 de Abril de 2020
+		Realmente   : início  das férias 10 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 14 de Janeiro de 2021
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 14 de Janeiro de 2021
+
+********************************************************************************
+(025): 75 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 19 de Março de 2020
+		Oficialmente: termino das férias 17 de Abril de 2020
+		Realmente   : início  das férias 19 de Março de 2020
+		Realmente   : termino das férias 21 de Abril de 2020
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 14 de Janeiro de 2021
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 14 de Janeiro de 2021
+
+********************************************************************************
+(026): 75 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 15 de Junho de 2020
+		Oficialmente: termino das férias 14 de Julho de 2020
+		Realmente   : início  das férias 11 de Junho de 2020
+		Realmente   : termino das férias 14 de Julho de 2020
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 9 de Dezembro de 2020
+		Oficialmente: termino das férias 14 de Janeiro de 2021
+		Realmente   : início  das férias 5 de Dezembro de 2020
+		Realmente   : termino das férias 14 de Janeiro de 2021
+
+********************************************************************************
+(027): 74 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 11 de Março de 2020
+		Oficialmente: termino das férias 9 de Abril de 2020
+		Realmente   : início  das férias 11 de Março de 2020
+		Realmente   : termino das férias 12 de Abril de 2020
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 24 de Novembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 24 de Novembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(028): 74 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 20 de Março de 2020
+		Oficialmente: termino das férias 18 de Abril de 2020
+		Realmente   : início  das férias 20 de Março de 2020
+		Realmente   : termino das férias 21 de Abril de 2020
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 24 de Novembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 24 de Novembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(029): 74 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 8 de Setembro de 2020
+		Oficialmente: termino das férias 7 de Outubro de 2020
+		Realmente   : início  das férias 5 de Setembro de 2020
+		Realmente   : termino das férias 7 de Outubro de 2020
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 24 de Novembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 24 de Novembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+
+********************************************************************************
+(030): 74 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 10 de Setembro de 2020
+		Oficialmente: termino das férias 9 de Outubro de 2020
+		Realmente   : início  das férias 10 de Setembro de 2020
+		Realmente   : termino das férias 12 de Outubro de 2020
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 24 de Novembro de 2020
+		Oficialmente: termino das férias 30 de Dezembro de 2020
+		Realmente   : início  das férias 24 de Novembro de 2020
+		Realmente   : termino das férias 3 de Janeiro de 2021
+

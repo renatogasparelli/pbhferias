@@ -1,0 +1,1871 @@
+
+2019-01-01 - Terça - Confraternização Universal
+2019-03-04 - Segunda - Carnaval - vespera (**)
+2019-03-05 - Terça - Carnaval
+2019-03-06 - Quarta - Carnaval, quarta-feira de cinzas (*)
+2019-04-18 - Quinta - Paixão de Cristo, vespera (*) - Nanan
+2019-04-19 - Sexta - Paixão de Cristo
+2019-04-21 - Domingo - Tiradentes
+2019-05-01 - Quarta - Dia do Trabalho
+2019-06-20 - Quinta - Corpus Christi
+2019-06-21 - Sexta - Corpus Christi - seguida (**)
+2019-08-15 - Quinta - Assunção de Nossa Senhora
+2019-08-16 - Sexta - Assunção de Nossa Senhora - seguida (**)
+2019-09-07 - Sábado - Independência do Brasil
+2019-10-12 - Sábado - Nossa Senhora Aparecida
+2019-10-28 - Segunda - Dia do Servidor Público (***)
+2019-11-02 - Sábado - Finados
+2019-11-15 - Sexta - Proclamação da República
+2019-12-08 - Domingo - Imaculada Conceição
+2019-12-24 - Terça - Natal, véspera (*)
+2019-12-25 - Quarta - Natal
+2019-12-31 - Terça - Confraternização Universal, véspera (*)
+
+      * facultativo comum
+     ** facultativo desejado
+    *** facultativo flutuante
+    
+
+********************************************************************************
+(001): 81 dias corridos reais.
+	30 dias tirados com 37 dias aproveitados e 30 dias esperados [alavancagem:1.23333]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 5 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 7 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador faltas prêmio 01
+			Sexta,8 de Março de 2019 Contador faltas prêmio 02
+			Sábado,9 de Março de 2019 Final de semana - Contador faltas prêmio 03
+			Domingo,10 de Março de 2019 Final de semana - Contador faltas prêmio 04
+			Segunda,11 de Março de 2019 Contador faltas prêmio 05
+			Terça,12 de Março de 2019 Contador faltas prêmio 06
+			Quarta,13 de Março de 2019 Contador faltas prêmio 07
+			Quinta,14 de Março de 2019 Contador faltas prêmio 08
+			Sexta,15 de Março de 2019 Contador faltas prêmio 09
+			Sábado,16 de Março de 2019 Final de semana - Contador faltas prêmio 10
+			Domingo,17 de Março de 2019 Final de semana - Contador faltas prêmio 11
+			Segunda,18 de Março de 2019 Contador faltas prêmio 12
+			Terça,19 de Março de 2019 Contador faltas prêmio 13
+			Quarta,20 de Março de 2019 Contador faltas prêmio 14
+			Quinta,21 de Março de 2019 Contador faltas prêmio 15
+			Sexta,22 de Março de 2019 Contador faltas prêmio 16
+			Sábado,23 de Março de 2019 Final de semana - Contador faltas prêmio 17
+			Domingo,24 de Março de 2019 Final de semana - Contador faltas prêmio 18
+			Segunda,25 de Março de 2019 Contador faltas prêmio 19
+			Terça,26 de Março de 2019 Contador faltas prêmio 20
+			Quarta,27 de Março de 2019 Contador faltas prêmio 21
+			Quinta,28 de Março de 2019 Contador faltas prêmio 22
+			Sexta,29 de Março de 2019 Contador faltas prêmio 23
+			Sábado,30 de Março de 2019 Final de semana - Contador faltas prêmio 24
+			Domingo,31 de Março de 2019 Final de semana - Contador faltas prêmio 25
+			Segunda,1 de Abril de 2019 Contador faltas prêmio 26
+			Terça,2 de Abril de 2019 Contador faltas prêmio 27
+			Quarta,3 de Abril de 2019 Contador faltas prêmio 28
+			Quinta,4 de Abril de 2019 Contador faltas prêmio 29
+			Sexta,5 de Abril de 2019 Contador faltas prêmio 30
+			Sábado,6 de Abril de 2019 Final de semana
+			Domingo,7 de Abril de 2019 Final de semana
+	15 dias tirados com 25 dias aproveitados e 23 dias esperados [alavancagem:1.08696]
+		Oficialmente: início  das férias 24 de Junho de 2019
+		Oficialmente: termino das férias 12 de Julho de 2019
+		Realmente   : início  das férias 20 de Junho de 2019
+		Realmente   : termino das férias 14 de Julho de 2019
+			Quinta,20 de Junho de 2019 Corpus Christi
+			Sexta,21 de Junho de 2019 Corpus Christi - seguida (**)
+			Sábado,22 de Junho de 2019 Final de semana
+			Domingo,23 de Junho de 2019 Final de semana
+			Segunda,24 de Junho de 2019 Contador férias 01
+			Terça,25 de Junho de 2019 Contador férias 02
+			Quarta,26 de Junho de 2019 Contador férias 03
+			Quinta,27 de Junho de 2019 Contador férias 04
+			Sexta,28 de Junho de 2019 Contador férias 05
+			Sábado,29 de Junho de 2019 Final de semana
+			Domingo,30 de Junho de 2019 Final de semana
+			Segunda,1 de Julho de 2019 Contador férias 06
+			Terça,2 de Julho de 2019 Contador férias 07
+			Quarta,3 de Julho de 2019 Contador férias 08
+			Quinta,4 de Julho de 2019 Contador férias 09
+			Sexta,5 de Julho de 2019 Contador férias 10
+			Sábado,6 de Julho de 2019 Final de semana
+			Domingo,7 de Julho de 2019 Final de semana
+			Segunda,8 de Julho de 2019 Contador férias 11
+			Terça,9 de Julho de 2019 Contador férias 12
+			Quarta,10 de Julho de 2019 Contador férias 13
+			Quinta,11 de Julho de 2019 Contador férias 14
+			Sexta,12 de Julho de 2019 Contador férias 15
+			Sábado,13 de Julho de 2019 Final de semana
+			Domingo,14 de Julho de 2019 Final de semana
+	10 dias tirados com 19 dias aproveitados e 16 dias esperados [alavancagem:1.18750]
+		Oficialmente: início  das férias 16 de Dezembro de 2019
+		Oficialmente: termino das férias 30 de Dezembro de 2019
+		Realmente   : início  das férias 14 de Dezembro de 2019
+		Realmente   : termino das férias 1 de Janeiro de 2020
+			Sábado,14 de Dezembro de 2019 Final de semana
+			Domingo,15 de Dezembro de 2019 Final de semana
+			Segunda,16 de Dezembro de 2019 Contador férias 01
+			Terça,17 de Dezembro de 2019 Contador férias 02
+			Quarta,18 de Dezembro de 2019 Contador férias 03
+			Quinta,19 de Dezembro de 2019 Contador férias 04
+			Sexta,20 de Dezembro de 2019 Contador férias 05
+			Sábado,21 de Dezembro de 2019 Final de semana
+			Domingo,22 de Dezembro de 2019 Final de semana
+			Segunda,23 de Dezembro de 2019 Contador férias 06
+			Terça,24 de Dezembro de 2019 Natal, véspera (*) - Contador férias 07
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 08
+			Sexta,27 de Dezembro de 2019 Contador férias 09
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 10
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*)
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+
+********************************************************************************
+(002): 81 dias corridos reais.
+	30 dias tirados com 37 dias aproveitados e 30 dias esperados [alavancagem:1.23333]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 5 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 7 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador faltas prêmio 01
+			Sexta,8 de Março de 2019 Contador faltas prêmio 02
+			Sábado,9 de Março de 2019 Final de semana - Contador faltas prêmio 03
+			Domingo,10 de Março de 2019 Final de semana - Contador faltas prêmio 04
+			Segunda,11 de Março de 2019 Contador faltas prêmio 05
+			Terça,12 de Março de 2019 Contador faltas prêmio 06
+			Quarta,13 de Março de 2019 Contador faltas prêmio 07
+			Quinta,14 de Março de 2019 Contador faltas prêmio 08
+			Sexta,15 de Março de 2019 Contador faltas prêmio 09
+			Sábado,16 de Março de 2019 Final de semana - Contador faltas prêmio 10
+			Domingo,17 de Março de 2019 Final de semana - Contador faltas prêmio 11
+			Segunda,18 de Março de 2019 Contador faltas prêmio 12
+			Terça,19 de Março de 2019 Contador faltas prêmio 13
+			Quarta,20 de Março de 2019 Contador faltas prêmio 14
+			Quinta,21 de Março de 2019 Contador faltas prêmio 15
+			Sexta,22 de Março de 2019 Contador faltas prêmio 16
+			Sábado,23 de Março de 2019 Final de semana - Contador faltas prêmio 17
+			Domingo,24 de Março de 2019 Final de semana - Contador faltas prêmio 18
+			Segunda,25 de Março de 2019 Contador faltas prêmio 19
+			Terça,26 de Março de 2019 Contador faltas prêmio 20
+			Quarta,27 de Março de 2019 Contador faltas prêmio 21
+			Quinta,28 de Março de 2019 Contador faltas prêmio 22
+			Sexta,29 de Março de 2019 Contador faltas prêmio 23
+			Sábado,30 de Março de 2019 Final de semana - Contador faltas prêmio 24
+			Domingo,31 de Março de 2019 Final de semana - Contador faltas prêmio 25
+			Segunda,1 de Abril de 2019 Contador faltas prêmio 26
+			Terça,2 de Abril de 2019 Contador faltas prêmio 27
+			Quarta,3 de Abril de 2019 Contador faltas prêmio 28
+			Quinta,4 de Abril de 2019 Contador faltas prêmio 29
+			Sexta,5 de Abril de 2019 Contador faltas prêmio 30
+			Sábado,6 de Abril de 2019 Final de semana
+			Domingo,7 de Abril de 2019 Final de semana
+	10 dias tirados com 18 dias aproveitados e 16 dias esperados [alavancagem:1.12500]
+		Oficialmente: início  das férias 24 de Junho de 2019
+		Oficialmente: termino das férias 5 de Julho de 2019
+		Realmente   : início  das férias 20 de Junho de 2019
+		Realmente   : termino das férias 7 de Julho de 2019
+			Quinta,20 de Junho de 2019 Corpus Christi
+			Sexta,21 de Junho de 2019 Corpus Christi - seguida (**)
+			Sábado,22 de Junho de 2019 Final de semana
+			Domingo,23 de Junho de 2019 Final de semana
+			Segunda,24 de Junho de 2019 Contador férias 01
+			Terça,25 de Junho de 2019 Contador férias 02
+			Quarta,26 de Junho de 2019 Contador férias 03
+			Quinta,27 de Junho de 2019 Contador férias 04
+			Sexta,28 de Junho de 2019 Contador férias 05
+			Sábado,29 de Junho de 2019 Final de semana
+			Domingo,30 de Junho de 2019 Final de semana
+			Segunda,1 de Julho de 2019 Contador férias 06
+			Terça,2 de Julho de 2019 Contador férias 07
+			Quarta,3 de Julho de 2019 Contador férias 08
+			Quinta,4 de Julho de 2019 Contador férias 09
+			Sexta,5 de Julho de 2019 Contador férias 10
+			Sábado,6 de Julho de 2019 Final de semana
+			Domingo,7 de Julho de 2019 Final de semana
+	15 dias tirados com 26 dias aproveitados e 23 dias esperados [alavancagem:1.13043]
+		Oficialmente: início  das férias 9 de Dezembro de 2019
+		Oficialmente: termino das férias 30 de Dezembro de 2019
+		Realmente   : início  das férias 7 de Dezembro de 2019
+		Realmente   : termino das férias 1 de Janeiro de 2020
+			Sábado,7 de Dezembro de 2019 Final de semana
+			Domingo,8 de Dezembro de 2019 Imaculada Conceição - Final de semana
+			Segunda,9 de Dezembro de 2019 Contador férias 01
+			Terça,10 de Dezembro de 2019 Contador férias 02
+			Quarta,11 de Dezembro de 2019 Contador férias 03
+			Quinta,12 de Dezembro de 2019 Contador férias 04
+			Sexta,13 de Dezembro de 2019 Contador férias 05
+			Sábado,14 de Dezembro de 2019 Final de semana
+			Domingo,15 de Dezembro de 2019 Final de semana
+			Segunda,16 de Dezembro de 2019 Contador férias 06
+			Terça,17 de Dezembro de 2019 Contador férias 07
+			Quarta,18 de Dezembro de 2019 Contador férias 08
+			Quinta,19 de Dezembro de 2019 Contador férias 09
+			Sexta,20 de Dezembro de 2019 Contador férias 10
+			Sábado,21 de Dezembro de 2019 Final de semana
+			Domingo,22 de Dezembro de 2019 Final de semana
+			Segunda,23 de Dezembro de 2019 Contador férias 11
+			Terça,24 de Dezembro de 2019 Natal, véspera (*) - Contador férias 12
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 13
+			Sexta,27 de Dezembro de 2019 Contador férias 14
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 15
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*)
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+
+********************************************************************************
+(003): 81 dias corridos reais.
+	30 dias tirados com 37 dias aproveitados e 30 dias esperados [alavancagem:1.23333]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 5 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 7 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador faltas prêmio 01
+			Sexta,8 de Março de 2019 Contador faltas prêmio 02
+			Sábado,9 de Março de 2019 Final de semana - Contador faltas prêmio 03
+			Domingo,10 de Março de 2019 Final de semana - Contador faltas prêmio 04
+			Segunda,11 de Março de 2019 Contador faltas prêmio 05
+			Terça,12 de Março de 2019 Contador faltas prêmio 06
+			Quarta,13 de Março de 2019 Contador faltas prêmio 07
+			Quinta,14 de Março de 2019 Contador faltas prêmio 08
+			Sexta,15 de Março de 2019 Contador faltas prêmio 09
+			Sábado,16 de Março de 2019 Final de semana - Contador faltas prêmio 10
+			Domingo,17 de Março de 2019 Final de semana - Contador faltas prêmio 11
+			Segunda,18 de Março de 2019 Contador faltas prêmio 12
+			Terça,19 de Março de 2019 Contador faltas prêmio 13
+			Quarta,20 de Março de 2019 Contador faltas prêmio 14
+			Quinta,21 de Março de 2019 Contador faltas prêmio 15
+			Sexta,22 de Março de 2019 Contador faltas prêmio 16
+			Sábado,23 de Março de 2019 Final de semana - Contador faltas prêmio 17
+			Domingo,24 de Março de 2019 Final de semana - Contador faltas prêmio 18
+			Segunda,25 de Março de 2019 Contador faltas prêmio 19
+			Terça,26 de Março de 2019 Contador faltas prêmio 20
+			Quarta,27 de Março de 2019 Contador faltas prêmio 21
+			Quinta,28 de Março de 2019 Contador faltas prêmio 22
+			Sexta,29 de Março de 2019 Contador faltas prêmio 23
+			Sábado,30 de Março de 2019 Final de semana - Contador faltas prêmio 24
+			Domingo,31 de Março de 2019 Final de semana - Contador faltas prêmio 25
+			Segunda,1 de Abril de 2019 Contador faltas prêmio 26
+			Terça,2 de Abril de 2019 Contador faltas prêmio 27
+			Quarta,3 de Abril de 2019 Contador faltas prêmio 28
+			Quinta,4 de Abril de 2019 Contador faltas prêmio 29
+			Sexta,5 de Abril de 2019 Contador faltas prêmio 30
+			Sábado,6 de Abril de 2019 Final de semana
+			Domingo,7 de Abril de 2019 Final de semana
+	14 dias tirados com 24 dias aproveitados e 20 dias esperados [alavancagem:1.20000]
+		Oficialmente: início  das férias 29 de Outubro de 2019
+		Oficialmente: termino das férias 18 de Novembro de 2019
+		Realmente   : início  das férias 26 de Outubro de 2019
+		Realmente   : termino das férias 18 de Novembro de 2019
+			Sábado,26 de Outubro de 2019 Final de semana
+			Domingo,27 de Outubro de 2019 Final de semana
+			Segunda,28 de Outubro de 2019 Dia do Servidor Público (***)
+			Terça,29 de Outubro de 2019 Contador férias 01
+			Quarta,30 de Outubro de 2019 Contador férias 02
+			Quinta,31 de Outubro de 2019 Contador férias 03
+			Sexta,1 de Novembro de 2019 Contador férias 04
+			Sábado,2 de Novembro de 2019 Finados - Final de semana
+			Domingo,3 de Novembro de 2019 Final de semana
+			Segunda,4 de Novembro de 2019 Contador férias 05
+			Terça,5 de Novembro de 2019 Contador férias 06
+			Quarta,6 de Novembro de 2019 Contador férias 07
+			Quinta,7 de Novembro de 2019 Contador férias 08
+			Sexta,8 de Novembro de 2019 Contador férias 09
+			Sábado,9 de Novembro de 2019 Final de semana
+			Domingo,10 de Novembro de 2019 Final de semana
+			Segunda,11 de Novembro de 2019 Contador férias 10
+			Terça,12 de Novembro de 2019 Contador férias 11
+			Quarta,13 de Novembro de 2019 Contador férias 12
+			Quinta,14 de Novembro de 2019 Contador férias 13
+			Sexta,15 de Novembro de 2019 Proclamação da República
+			Sábado,16 de Novembro de 2019 Final de semana
+			Domingo,17 de Novembro de 2019 Final de semana
+			Segunda,18 de Novembro de 2019 Contador férias 14
+	11 dias tirados com 20 dias aproveitados e 17 dias esperados [alavancagem:1.17647]
+		Oficialmente: início  das férias 26 de Dezembro de 2019
+		Oficialmente: termino das férias 10 de Janeiro de 2020
+		Realmente   : início  das férias 24 de Dezembro de 2019
+		Realmente   : termino das férias 12 de Janeiro de 2020
+			Terça,24 de Dezembro de 2019 Natal, véspera (*)
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 01
+			Sexta,27 de Dezembro de 2019 Contador férias 02
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 03
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*) - Contador férias 04
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+			Quinta,2 de Janeiro de 2020 Contador férias 05
+			Sexta,3 de Janeiro de 2020 Contador férias 06
+			Sábado,4 de Janeiro de 2020 Final de semana
+			Domingo,5 de Janeiro de 2020 Final de semana
+			Segunda,6 de Janeiro de 2020 Contador férias 07
+			Terça,7 de Janeiro de 2020 Contador férias 08
+			Quarta,8 de Janeiro de 2020 Contador férias 09
+			Quinta,9 de Janeiro de 2020 Contador férias 10
+			Sexta,10 de Janeiro de 2020 Contador férias 11
+			Sábado,11 de Janeiro de 2020 Final de semana
+			Domingo,12 de Janeiro de 2020 Final de semana
+
+********************************************************************************
+(004): 81 dias corridos reais.
+	30 dias tirados com 37 dias aproveitados e 30 dias esperados [alavancagem:1.23333]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 5 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 7 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador faltas prêmio 01
+			Sexta,8 de Março de 2019 Contador faltas prêmio 02
+			Sábado,9 de Março de 2019 Final de semana - Contador faltas prêmio 03
+			Domingo,10 de Março de 2019 Final de semana - Contador faltas prêmio 04
+			Segunda,11 de Março de 2019 Contador faltas prêmio 05
+			Terça,12 de Março de 2019 Contador faltas prêmio 06
+			Quarta,13 de Março de 2019 Contador faltas prêmio 07
+			Quinta,14 de Março de 2019 Contador faltas prêmio 08
+			Sexta,15 de Março de 2019 Contador faltas prêmio 09
+			Sábado,16 de Março de 2019 Final de semana - Contador faltas prêmio 10
+			Domingo,17 de Março de 2019 Final de semana - Contador faltas prêmio 11
+			Segunda,18 de Março de 2019 Contador faltas prêmio 12
+			Terça,19 de Março de 2019 Contador faltas prêmio 13
+			Quarta,20 de Março de 2019 Contador faltas prêmio 14
+			Quinta,21 de Março de 2019 Contador faltas prêmio 15
+			Sexta,22 de Março de 2019 Contador faltas prêmio 16
+			Sábado,23 de Março de 2019 Final de semana - Contador faltas prêmio 17
+			Domingo,24 de Março de 2019 Final de semana - Contador faltas prêmio 18
+			Segunda,25 de Março de 2019 Contador faltas prêmio 19
+			Terça,26 de Março de 2019 Contador faltas prêmio 20
+			Quarta,27 de Março de 2019 Contador faltas prêmio 21
+			Quinta,28 de Março de 2019 Contador faltas prêmio 22
+			Sexta,29 de Março de 2019 Contador faltas prêmio 23
+			Sábado,30 de Março de 2019 Final de semana - Contador faltas prêmio 24
+			Domingo,31 de Março de 2019 Final de semana - Contador faltas prêmio 25
+			Segunda,1 de Abril de 2019 Contador faltas prêmio 26
+			Terça,2 de Abril de 2019 Contador faltas prêmio 27
+			Quarta,3 de Abril de 2019 Contador faltas prêmio 28
+			Quinta,4 de Abril de 2019 Contador faltas prêmio 29
+			Sexta,5 de Abril de 2019 Contador faltas prêmio 30
+			Sábado,6 de Abril de 2019 Final de semana
+			Domingo,7 de Abril de 2019 Final de semana
+	13 dias tirados com 23 dias aproveitados e 19 dias esperados [alavancagem:1.21053]
+		Oficialmente: início  das férias 29 de Outubro de 2019
+		Oficialmente: termino das férias 14 de Novembro de 2019
+		Realmente   : início  das férias 26 de Outubro de 2019
+		Realmente   : termino das férias 17 de Novembro de 2019
+			Sábado,26 de Outubro de 2019 Final de semana
+			Domingo,27 de Outubro de 2019 Final de semana
+			Segunda,28 de Outubro de 2019 Dia do Servidor Público (***)
+			Terça,29 de Outubro de 2019 Contador férias 01
+			Quarta,30 de Outubro de 2019 Contador férias 02
+			Quinta,31 de Outubro de 2019 Contador férias 03
+			Sexta,1 de Novembro de 2019 Contador férias 04
+			Sábado,2 de Novembro de 2019 Finados - Final de semana
+			Domingo,3 de Novembro de 2019 Final de semana
+			Segunda,4 de Novembro de 2019 Contador férias 05
+			Terça,5 de Novembro de 2019 Contador férias 06
+			Quarta,6 de Novembro de 2019 Contador férias 07
+			Quinta,7 de Novembro de 2019 Contador férias 08
+			Sexta,8 de Novembro de 2019 Contador férias 09
+			Sábado,9 de Novembro de 2019 Final de semana
+			Domingo,10 de Novembro de 2019 Final de semana
+			Segunda,11 de Novembro de 2019 Contador férias 10
+			Terça,12 de Novembro de 2019 Contador férias 11
+			Quarta,13 de Novembro de 2019 Contador férias 12
+			Quinta,14 de Novembro de 2019 Contador férias 13
+			Sexta,15 de Novembro de 2019 Proclamação da República
+			Sábado,16 de Novembro de 2019 Final de semana
+			Domingo,17 de Novembro de 2019 Final de semana
+	12 dias tirados com 21 dias aproveitados e 18 dias esperados [alavancagem:1.16667]
+		Oficialmente: início  das férias 26 de Dezembro de 2019
+		Oficialmente: termino das férias 13 de Janeiro de 2020
+		Realmente   : início  das férias 24 de Dezembro de 2019
+		Realmente   : termino das férias 13 de Janeiro de 2020
+			Terça,24 de Dezembro de 2019 Natal, véspera (*)
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 01
+			Sexta,27 de Dezembro de 2019 Contador férias 02
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 03
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*) - Contador férias 04
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+			Quinta,2 de Janeiro de 2020 Contador férias 05
+			Sexta,3 de Janeiro de 2020 Contador férias 06
+			Sábado,4 de Janeiro de 2020 Final de semana
+			Domingo,5 de Janeiro de 2020 Final de semana
+			Segunda,6 de Janeiro de 2020 Contador férias 07
+			Terça,7 de Janeiro de 2020 Contador férias 08
+			Quarta,8 de Janeiro de 2020 Contador férias 09
+			Quinta,9 de Janeiro de 2020 Contador férias 10
+			Sexta,10 de Janeiro de 2020 Contador férias 11
+			Sábado,11 de Janeiro de 2020 Final de semana
+			Domingo,12 de Janeiro de 2020 Final de semana
+			Segunda,13 de Janeiro de 2020 Contador férias 12
+
+********************************************************************************
+(005): 79 dias corridos reais.
+	19 dias tirados com 32 dias aproveitados e 27 dias esperados [alavancagem:1.18519]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 2 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 2 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+			Terça,2 de Abril de 2019 Contador férias 19
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 24 de Junho de 2019
+		Oficialmente: termino das férias 23 de Julho de 2019
+		Realmente   : início  das férias 20 de Junho de 2019
+		Realmente   : termino das férias 23 de Julho de 2019
+			Quinta,20 de Junho de 2019 Corpus Christi
+			Sexta,21 de Junho de 2019 Corpus Christi - seguida (**)
+			Sábado,22 de Junho de 2019 Final de semana
+			Domingo,23 de Junho de 2019 Final de semana
+			Segunda,24 de Junho de 2019 Contador faltas prêmio 01
+			Terça,25 de Junho de 2019 Contador faltas prêmio 02
+			Quarta,26 de Junho de 2019 Contador faltas prêmio 03
+			Quinta,27 de Junho de 2019 Contador faltas prêmio 04
+			Sexta,28 de Junho de 2019 Contador faltas prêmio 05
+			Sábado,29 de Junho de 2019 Final de semana - Contador faltas prêmio 06
+			Domingo,30 de Junho de 2019 Final de semana - Contador faltas prêmio 07
+			Segunda,1 de Julho de 2019 Contador faltas prêmio 08
+			Terça,2 de Julho de 2019 Contador faltas prêmio 09
+			Quarta,3 de Julho de 2019 Contador faltas prêmio 10
+			Quinta,4 de Julho de 2019 Contador faltas prêmio 11
+			Sexta,5 de Julho de 2019 Contador faltas prêmio 12
+			Sábado,6 de Julho de 2019 Final de semana - Contador faltas prêmio 13
+			Domingo,7 de Julho de 2019 Final de semana - Contador faltas prêmio 14
+			Segunda,8 de Julho de 2019 Contador faltas prêmio 15
+			Terça,9 de Julho de 2019 Contador faltas prêmio 16
+			Quarta,10 de Julho de 2019 Contador faltas prêmio 17
+			Quinta,11 de Julho de 2019 Contador faltas prêmio 18
+			Sexta,12 de Julho de 2019 Contador faltas prêmio 19
+			Sábado,13 de Julho de 2019 Final de semana - Contador faltas prêmio 20
+			Domingo,14 de Julho de 2019 Final de semana - Contador faltas prêmio 21
+			Segunda,15 de Julho de 2019 Contador faltas prêmio 22
+			Terça,16 de Julho de 2019 Contador faltas prêmio 23
+			Quarta,17 de Julho de 2019 Contador faltas prêmio 24
+			Quinta,18 de Julho de 2019 Contador faltas prêmio 25
+			Sexta,19 de Julho de 2019 Contador faltas prêmio 26
+			Sábado,20 de Julho de 2019 Final de semana - Contador faltas prêmio 27
+			Domingo,21 de Julho de 2019 Final de semana - Contador faltas prêmio 28
+			Segunda,22 de Julho de 2019 Contador faltas prêmio 29
+			Terça,23 de Julho de 2019 Contador faltas prêmio 30
+	06 dias tirados com 13 dias aproveitados e 10 dias esperados [alavancagem:1.30000]
+		Oficialmente: início  das férias 20 de Dezembro de 2019
+		Oficialmente: termino das férias 30 de Dezembro de 2019
+		Realmente   : início  das férias 20 de Dezembro de 2019
+		Realmente   : termino das férias 1 de Janeiro de 2020
+			Sexta,20 de Dezembro de 2019 Contador férias 01
+			Sábado,21 de Dezembro de 2019 Final de semana
+			Domingo,22 de Dezembro de 2019 Final de semana
+			Segunda,23 de Dezembro de 2019 Contador férias 02
+			Terça,24 de Dezembro de 2019 Natal, véspera (*) - Contador férias 03
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 04
+			Sexta,27 de Dezembro de 2019 Contador férias 05
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 06
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*)
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+
+********************************************************************************
+(006): 79 dias corridos reais.
+	18 dias tirados com 31 dias aproveitados e 26 dias esperados [alavancagem:1.19231]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 1 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 1 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 24 de Junho de 2019
+		Oficialmente: termino das férias 23 de Julho de 2019
+		Realmente   : início  das férias 20 de Junho de 2019
+		Realmente   : termino das férias 23 de Julho de 2019
+			Quinta,20 de Junho de 2019 Corpus Christi
+			Sexta,21 de Junho de 2019 Corpus Christi - seguida (**)
+			Sábado,22 de Junho de 2019 Final de semana
+			Domingo,23 de Junho de 2019 Final de semana
+			Segunda,24 de Junho de 2019 Contador faltas prêmio 01
+			Terça,25 de Junho de 2019 Contador faltas prêmio 02
+			Quarta,26 de Junho de 2019 Contador faltas prêmio 03
+			Quinta,27 de Junho de 2019 Contador faltas prêmio 04
+			Sexta,28 de Junho de 2019 Contador faltas prêmio 05
+			Sábado,29 de Junho de 2019 Final de semana - Contador faltas prêmio 06
+			Domingo,30 de Junho de 2019 Final de semana - Contador faltas prêmio 07
+			Segunda,1 de Julho de 2019 Contador faltas prêmio 08
+			Terça,2 de Julho de 2019 Contador faltas prêmio 09
+			Quarta,3 de Julho de 2019 Contador faltas prêmio 10
+			Quinta,4 de Julho de 2019 Contador faltas prêmio 11
+			Sexta,5 de Julho de 2019 Contador faltas prêmio 12
+			Sábado,6 de Julho de 2019 Final de semana - Contador faltas prêmio 13
+			Domingo,7 de Julho de 2019 Final de semana - Contador faltas prêmio 14
+			Segunda,8 de Julho de 2019 Contador faltas prêmio 15
+			Terça,9 de Julho de 2019 Contador faltas prêmio 16
+			Quarta,10 de Julho de 2019 Contador faltas prêmio 17
+			Quinta,11 de Julho de 2019 Contador faltas prêmio 18
+			Sexta,12 de Julho de 2019 Contador faltas prêmio 19
+			Sábado,13 de Julho de 2019 Final de semana - Contador faltas prêmio 20
+			Domingo,14 de Julho de 2019 Final de semana - Contador faltas prêmio 21
+			Segunda,15 de Julho de 2019 Contador faltas prêmio 22
+			Terça,16 de Julho de 2019 Contador faltas prêmio 23
+			Quarta,17 de Julho de 2019 Contador faltas prêmio 24
+			Quinta,18 de Julho de 2019 Contador faltas prêmio 25
+			Sexta,19 de Julho de 2019 Contador faltas prêmio 26
+			Sábado,20 de Julho de 2019 Final de semana - Contador faltas prêmio 27
+			Domingo,21 de Julho de 2019 Final de semana - Contador faltas prêmio 28
+			Segunda,22 de Julho de 2019 Contador faltas prêmio 29
+			Terça,23 de Julho de 2019 Contador faltas prêmio 30
+	07 dias tirados com 14 dias aproveitados e 11 dias esperados [alavancagem:1.27273]
+		Oficialmente: início  das férias 19 de Dezembro de 2019
+		Oficialmente: termino das férias 30 de Dezembro de 2019
+		Realmente   : início  das férias 19 de Dezembro de 2019
+		Realmente   : termino das férias 1 de Janeiro de 2020
+			Quinta,19 de Dezembro de 2019 Contador férias 01
+			Sexta,20 de Dezembro de 2019 Contador férias 02
+			Sábado,21 de Dezembro de 2019 Final de semana
+			Domingo,22 de Dezembro de 2019 Final de semana
+			Segunda,23 de Dezembro de 2019 Contador férias 03
+			Terça,24 de Dezembro de 2019 Natal, véspera (*) - Contador férias 04
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 05
+			Sexta,27 de Dezembro de 2019 Contador férias 06
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 07
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*)
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+
+********************************************************************************
+(007): 79 dias corridos reais.
+	18 dias tirados com 31 dias aproveitados e 26 dias esperados [alavancagem:1.19231]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 1 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 1 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 24 de Junho de 2019
+		Oficialmente: termino das férias 23 de Julho de 2019
+		Realmente   : início  das férias 20 de Junho de 2019
+		Realmente   : termino das férias 23 de Julho de 2019
+			Quinta,20 de Junho de 2019 Corpus Christi
+			Sexta,21 de Junho de 2019 Corpus Christi - seguida (**)
+			Sábado,22 de Junho de 2019 Final de semana
+			Domingo,23 de Junho de 2019 Final de semana
+			Segunda,24 de Junho de 2019 Contador faltas prêmio 01
+			Terça,25 de Junho de 2019 Contador faltas prêmio 02
+			Quarta,26 de Junho de 2019 Contador faltas prêmio 03
+			Quinta,27 de Junho de 2019 Contador faltas prêmio 04
+			Sexta,28 de Junho de 2019 Contador faltas prêmio 05
+			Sábado,29 de Junho de 2019 Final de semana - Contador faltas prêmio 06
+			Domingo,30 de Junho de 2019 Final de semana - Contador faltas prêmio 07
+			Segunda,1 de Julho de 2019 Contador faltas prêmio 08
+			Terça,2 de Julho de 2019 Contador faltas prêmio 09
+			Quarta,3 de Julho de 2019 Contador faltas prêmio 10
+			Quinta,4 de Julho de 2019 Contador faltas prêmio 11
+			Sexta,5 de Julho de 2019 Contador faltas prêmio 12
+			Sábado,6 de Julho de 2019 Final de semana - Contador faltas prêmio 13
+			Domingo,7 de Julho de 2019 Final de semana - Contador faltas prêmio 14
+			Segunda,8 de Julho de 2019 Contador faltas prêmio 15
+			Terça,9 de Julho de 2019 Contador faltas prêmio 16
+			Quarta,10 de Julho de 2019 Contador faltas prêmio 17
+			Quinta,11 de Julho de 2019 Contador faltas prêmio 18
+			Sexta,12 de Julho de 2019 Contador faltas prêmio 19
+			Sábado,13 de Julho de 2019 Final de semana - Contador faltas prêmio 20
+			Domingo,14 de Julho de 2019 Final de semana - Contador faltas prêmio 21
+			Segunda,15 de Julho de 2019 Contador faltas prêmio 22
+			Terça,16 de Julho de 2019 Contador faltas prêmio 23
+			Quarta,17 de Julho de 2019 Contador faltas prêmio 24
+			Quinta,18 de Julho de 2019 Contador faltas prêmio 25
+			Sexta,19 de Julho de 2019 Contador faltas prêmio 26
+			Sábado,20 de Julho de 2019 Final de semana - Contador faltas prêmio 27
+			Domingo,21 de Julho de 2019 Final de semana - Contador faltas prêmio 28
+			Segunda,22 de Julho de 2019 Contador faltas prêmio 29
+			Terça,23 de Julho de 2019 Contador faltas prêmio 30
+	07 dias tirados com 14 dias aproveitados e 11 dias esperados [alavancagem:1.27273]
+		Oficialmente: início  das férias 26 de Dezembro de 2019
+		Oficialmente: termino das férias 6 de Janeiro de 2020
+		Realmente   : início  das férias 24 de Dezembro de 2019
+		Realmente   : termino das férias 6 de Janeiro de 2020
+			Terça,24 de Dezembro de 2019 Natal, véspera (*)
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 01
+			Sexta,27 de Dezembro de 2019 Contador férias 02
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 03
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*) - Contador férias 04
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+			Quinta,2 de Janeiro de 2020 Contador férias 05
+			Sexta,3 de Janeiro de 2020 Contador férias 06
+			Sábado,4 de Janeiro de 2020 Final de semana
+			Domingo,5 de Janeiro de 2020 Final de semana
+			Segunda,6 de Janeiro de 2020 Contador férias 07
+
+********************************************************************************
+(008): 78 dias corridos reais.
+	19 dias tirados com 32 dias aproveitados e 27 dias esperados [alavancagem:1.18519]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 2 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 2 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+			Terça,2 de Abril de 2019 Contador férias 19
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 26 de Setembro de 2019
+		Oficialmente: termino das férias 25 de Outubro de 2019
+		Realmente   : início  das férias 26 de Setembro de 2019
+		Realmente   : termino das férias 28 de Outubro de 2019
+			Quinta,26 de Setembro de 2019 Contador faltas prêmio 01
+			Sexta,27 de Setembro de 2019 Contador faltas prêmio 02
+			Sábado,28 de Setembro de 2019 Final de semana - Contador faltas prêmio 03
+			Domingo,29 de Setembro de 2019 Final de semana - Contador faltas prêmio 04
+			Segunda,30 de Setembro de 2019 Contador faltas prêmio 05
+			Terça,1 de Outubro de 2019 Contador faltas prêmio 06
+			Quarta,2 de Outubro de 2019 Contador faltas prêmio 07
+			Quinta,3 de Outubro de 2019 Contador faltas prêmio 08
+			Sexta,4 de Outubro de 2019 Contador faltas prêmio 09
+			Sábado,5 de Outubro de 2019 Final de semana - Contador faltas prêmio 10
+			Domingo,6 de Outubro de 2019 Final de semana - Contador faltas prêmio 11
+			Segunda,7 de Outubro de 2019 Contador faltas prêmio 12
+			Terça,8 de Outubro de 2019 Contador faltas prêmio 13
+			Quarta,9 de Outubro de 2019 Contador faltas prêmio 14
+			Quinta,10 de Outubro de 2019 Contador faltas prêmio 15
+			Sexta,11 de Outubro de 2019 Contador faltas prêmio 16
+			Sábado,12 de Outubro de 2019 Nossa Senhora Aparecida - Final de semana - Contador faltas prêmio 17
+			Domingo,13 de Outubro de 2019 Final de semana - Contador faltas prêmio 18
+			Segunda,14 de Outubro de 2019 Contador faltas prêmio 19
+			Terça,15 de Outubro de 2019 Contador faltas prêmio 20
+			Quarta,16 de Outubro de 2019 Contador faltas prêmio 21
+			Quinta,17 de Outubro de 2019 Contador faltas prêmio 22
+			Sexta,18 de Outubro de 2019 Contador faltas prêmio 23
+			Sábado,19 de Outubro de 2019 Final de semana - Contador faltas prêmio 24
+			Domingo,20 de Outubro de 2019 Final de semana - Contador faltas prêmio 25
+			Segunda,21 de Outubro de 2019 Contador faltas prêmio 26
+			Terça,22 de Outubro de 2019 Contador faltas prêmio 27
+			Quarta,23 de Outubro de 2019 Contador faltas prêmio 28
+			Quinta,24 de Outubro de 2019 Contador faltas prêmio 29
+			Sexta,25 de Outubro de 2019 Contador faltas prêmio 30
+			Sábado,26 de Outubro de 2019 Final de semana
+			Domingo,27 de Outubro de 2019 Final de semana
+			Segunda,28 de Outubro de 2019 Dia do Servidor Público (***)
+	06 dias tirados com 13 dias aproveitados e 10 dias esperados [alavancagem:1.30000]
+		Oficialmente: início  das férias 20 de Dezembro de 2019
+		Oficialmente: termino das férias 30 de Dezembro de 2019
+		Realmente   : início  das férias 20 de Dezembro de 2019
+		Realmente   : termino das férias 1 de Janeiro de 2020
+			Sexta,20 de Dezembro de 2019 Contador férias 01
+			Sábado,21 de Dezembro de 2019 Final de semana
+			Domingo,22 de Dezembro de 2019 Final de semana
+			Segunda,23 de Dezembro de 2019 Contador férias 02
+			Terça,24 de Dezembro de 2019 Natal, véspera (*) - Contador férias 03
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 04
+			Sexta,27 de Dezembro de 2019 Contador férias 05
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 06
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*)
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+
+********************************************************************************
+(009): 78 dias corridos reais.
+	19 dias tirados com 32 dias aproveitados e 27 dias esperados [alavancagem:1.18519]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 2 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 2 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+			Terça,2 de Abril de 2019 Contador férias 19
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 16 de Outubro de 2019
+		Oficialmente: termino das férias 14 de Novembro de 2019
+		Realmente   : início  das férias 16 de Outubro de 2019
+		Realmente   : termino das férias 17 de Novembro de 2019
+			Quarta,16 de Outubro de 2019 Contador faltas prêmio 01
+			Quinta,17 de Outubro de 2019 Contador faltas prêmio 02
+			Sexta,18 de Outubro de 2019 Contador faltas prêmio 03
+			Sábado,19 de Outubro de 2019 Final de semana - Contador faltas prêmio 04
+			Domingo,20 de Outubro de 2019 Final de semana - Contador faltas prêmio 05
+			Segunda,21 de Outubro de 2019 Contador faltas prêmio 06
+			Terça,22 de Outubro de 2019 Contador faltas prêmio 07
+			Quarta,23 de Outubro de 2019 Contador faltas prêmio 08
+			Quinta,24 de Outubro de 2019 Contador faltas prêmio 09
+			Sexta,25 de Outubro de 2019 Contador faltas prêmio 10
+			Sábado,26 de Outubro de 2019 Final de semana - Contador faltas prêmio 11
+			Domingo,27 de Outubro de 2019 Final de semana - Contador faltas prêmio 12
+			Segunda,28 de Outubro de 2019 Dia do Servidor Público (***) - Contador faltas prêmio 13
+			Terça,29 de Outubro de 2019 Contador faltas prêmio 14
+			Quarta,30 de Outubro de 2019 Contador faltas prêmio 15
+			Quinta,31 de Outubro de 2019 Contador faltas prêmio 16
+			Sexta,1 de Novembro de 2019 Contador faltas prêmio 17
+			Sábado,2 de Novembro de 2019 Finados - Final de semana - Contador faltas prêmio 18
+			Domingo,3 de Novembro de 2019 Final de semana - Contador faltas prêmio 19
+			Segunda,4 de Novembro de 2019 Contador faltas prêmio 20
+			Terça,5 de Novembro de 2019 Contador faltas prêmio 21
+			Quarta,6 de Novembro de 2019 Contador faltas prêmio 22
+			Quinta,7 de Novembro de 2019 Contador faltas prêmio 23
+			Sexta,8 de Novembro de 2019 Contador faltas prêmio 24
+			Sábado,9 de Novembro de 2019 Final de semana - Contador faltas prêmio 25
+			Domingo,10 de Novembro de 2019 Final de semana - Contador faltas prêmio 26
+			Segunda,11 de Novembro de 2019 Contador faltas prêmio 27
+			Terça,12 de Novembro de 2019 Contador faltas prêmio 28
+			Quarta,13 de Novembro de 2019 Contador faltas prêmio 29
+			Quinta,14 de Novembro de 2019 Contador faltas prêmio 30
+			Sexta,15 de Novembro de 2019 Proclamação da República
+			Sábado,16 de Novembro de 2019 Final de semana
+			Domingo,17 de Novembro de 2019 Final de semana
+	06 dias tirados com 13 dias aproveitados e 10 dias esperados [alavancagem:1.30000]
+		Oficialmente: início  das férias 20 de Dezembro de 2019
+		Oficialmente: termino das férias 30 de Dezembro de 2019
+		Realmente   : início  das férias 20 de Dezembro de 2019
+		Realmente   : termino das férias 1 de Janeiro de 2020
+			Sexta,20 de Dezembro de 2019 Contador férias 01
+			Sábado,21 de Dezembro de 2019 Final de semana
+			Domingo,22 de Dezembro de 2019 Final de semana
+			Segunda,23 de Dezembro de 2019 Contador férias 02
+			Terça,24 de Dezembro de 2019 Natal, véspera (*) - Contador férias 03
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 04
+			Sexta,27 de Dezembro de 2019 Contador férias 05
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 06
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*)
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+
+********************************************************************************
+(010): 78 dias corridos reais.
+	18 dias tirados com 31 dias aproveitados e 26 dias esperados [alavancagem:1.19231]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 1 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 1 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 26 de Setembro de 2019
+		Oficialmente: termino das férias 25 de Outubro de 2019
+		Realmente   : início  das férias 26 de Setembro de 2019
+		Realmente   : termino das férias 28 de Outubro de 2019
+			Quinta,26 de Setembro de 2019 Contador faltas prêmio 01
+			Sexta,27 de Setembro de 2019 Contador faltas prêmio 02
+			Sábado,28 de Setembro de 2019 Final de semana - Contador faltas prêmio 03
+			Domingo,29 de Setembro de 2019 Final de semana - Contador faltas prêmio 04
+			Segunda,30 de Setembro de 2019 Contador faltas prêmio 05
+			Terça,1 de Outubro de 2019 Contador faltas prêmio 06
+			Quarta,2 de Outubro de 2019 Contador faltas prêmio 07
+			Quinta,3 de Outubro de 2019 Contador faltas prêmio 08
+			Sexta,4 de Outubro de 2019 Contador faltas prêmio 09
+			Sábado,5 de Outubro de 2019 Final de semana - Contador faltas prêmio 10
+			Domingo,6 de Outubro de 2019 Final de semana - Contador faltas prêmio 11
+			Segunda,7 de Outubro de 2019 Contador faltas prêmio 12
+			Terça,8 de Outubro de 2019 Contador faltas prêmio 13
+			Quarta,9 de Outubro de 2019 Contador faltas prêmio 14
+			Quinta,10 de Outubro de 2019 Contador faltas prêmio 15
+			Sexta,11 de Outubro de 2019 Contador faltas prêmio 16
+			Sábado,12 de Outubro de 2019 Nossa Senhora Aparecida - Final de semana - Contador faltas prêmio 17
+			Domingo,13 de Outubro de 2019 Final de semana - Contador faltas prêmio 18
+			Segunda,14 de Outubro de 2019 Contador faltas prêmio 19
+			Terça,15 de Outubro de 2019 Contador faltas prêmio 20
+			Quarta,16 de Outubro de 2019 Contador faltas prêmio 21
+			Quinta,17 de Outubro de 2019 Contador faltas prêmio 22
+			Sexta,18 de Outubro de 2019 Contador faltas prêmio 23
+			Sábado,19 de Outubro de 2019 Final de semana - Contador faltas prêmio 24
+			Domingo,20 de Outubro de 2019 Final de semana - Contador faltas prêmio 25
+			Segunda,21 de Outubro de 2019 Contador faltas prêmio 26
+			Terça,22 de Outubro de 2019 Contador faltas prêmio 27
+			Quarta,23 de Outubro de 2019 Contador faltas prêmio 28
+			Quinta,24 de Outubro de 2019 Contador faltas prêmio 29
+			Sexta,25 de Outubro de 2019 Contador faltas prêmio 30
+			Sábado,26 de Outubro de 2019 Final de semana
+			Domingo,27 de Outubro de 2019 Final de semana
+			Segunda,28 de Outubro de 2019 Dia do Servidor Público (***)
+	07 dias tirados com 14 dias aproveitados e 11 dias esperados [alavancagem:1.27273]
+		Oficialmente: início  das férias 19 de Dezembro de 2019
+		Oficialmente: termino das férias 30 de Dezembro de 2019
+		Realmente   : início  das férias 19 de Dezembro de 2019
+		Realmente   : termino das férias 1 de Janeiro de 2020
+			Quinta,19 de Dezembro de 2019 Contador férias 01
+			Sexta,20 de Dezembro de 2019 Contador férias 02
+			Sábado,21 de Dezembro de 2019 Final de semana
+			Domingo,22 de Dezembro de 2019 Final de semana
+			Segunda,23 de Dezembro de 2019 Contador férias 03
+			Terça,24 de Dezembro de 2019 Natal, véspera (*) - Contador férias 04
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 05
+			Sexta,27 de Dezembro de 2019 Contador férias 06
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 07
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*)
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+
+********************************************************************************
+(011): 77 dias corridos reais.
+	30 dias tirados com 37 dias aproveitados e 30 dias esperados [alavancagem:1.23333]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 5 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 7 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador faltas prêmio 01
+			Sexta,8 de Março de 2019 Contador faltas prêmio 02
+			Sábado,9 de Março de 2019 Final de semana - Contador faltas prêmio 03
+			Domingo,10 de Março de 2019 Final de semana - Contador faltas prêmio 04
+			Segunda,11 de Março de 2019 Contador faltas prêmio 05
+			Terça,12 de Março de 2019 Contador faltas prêmio 06
+			Quarta,13 de Março de 2019 Contador faltas prêmio 07
+			Quinta,14 de Março de 2019 Contador faltas prêmio 08
+			Sexta,15 de Março de 2019 Contador faltas prêmio 09
+			Sábado,16 de Março de 2019 Final de semana - Contador faltas prêmio 10
+			Domingo,17 de Março de 2019 Final de semana - Contador faltas prêmio 11
+			Segunda,18 de Março de 2019 Contador faltas prêmio 12
+			Terça,19 de Março de 2019 Contador faltas prêmio 13
+			Quarta,20 de Março de 2019 Contador faltas prêmio 14
+			Quinta,21 de Março de 2019 Contador faltas prêmio 15
+			Sexta,22 de Março de 2019 Contador faltas prêmio 16
+			Sábado,23 de Março de 2019 Final de semana - Contador faltas prêmio 17
+			Domingo,24 de Março de 2019 Final de semana - Contador faltas prêmio 18
+			Segunda,25 de Março de 2019 Contador faltas prêmio 19
+			Terça,26 de Março de 2019 Contador faltas prêmio 20
+			Quarta,27 de Março de 2019 Contador faltas prêmio 21
+			Quinta,28 de Março de 2019 Contador faltas prêmio 22
+			Sexta,29 de Março de 2019 Contador faltas prêmio 23
+			Sábado,30 de Março de 2019 Final de semana - Contador faltas prêmio 24
+			Domingo,31 de Março de 2019 Final de semana - Contador faltas prêmio 25
+			Segunda,1 de Abril de 2019 Contador faltas prêmio 26
+			Terça,2 de Abril de 2019 Contador faltas prêmio 27
+			Quarta,3 de Abril de 2019 Contador faltas prêmio 28
+			Quinta,4 de Abril de 2019 Contador faltas prêmio 29
+			Sexta,5 de Abril de 2019 Contador faltas prêmio 30
+			Sábado,6 de Abril de 2019 Final de semana
+			Domingo,7 de Abril de 2019 Final de semana
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 25 de Novembro de 2019
+		Oficialmente: termino das férias 30 de Dezembro de 2019
+		Realmente   : início  das férias 23 de Novembro de 2019
+		Realmente   : termino das férias 1 de Janeiro de 2020
+			Sábado,23 de Novembro de 2019 Final de semana
+			Domingo,24 de Novembro de 2019 Final de semana
+			Segunda,25 de Novembro de 2019 Contador férias 01
+			Terça,26 de Novembro de 2019 Contador férias 02
+			Quarta,27 de Novembro de 2019 Contador férias 03
+			Quinta,28 de Novembro de 2019 Contador férias 04
+			Sexta,29 de Novembro de 2019 Contador férias 05
+			Sábado,30 de Novembro de 2019 Final de semana
+			Domingo,1 de Dezembro de 2019 Final de semana
+			Segunda,2 de Dezembro de 2019 Contador férias 06
+			Terça,3 de Dezembro de 2019 Contador férias 07
+			Quarta,4 de Dezembro de 2019 Contador férias 08
+			Quinta,5 de Dezembro de 2019 Contador férias 09
+			Sexta,6 de Dezembro de 2019 Contador férias 10
+			Sábado,7 de Dezembro de 2019 Final de semana
+			Domingo,8 de Dezembro de 2019 Imaculada Conceição - Final de semana
+			Segunda,9 de Dezembro de 2019 Contador férias 11
+			Terça,10 de Dezembro de 2019 Contador férias 12
+			Quarta,11 de Dezembro de 2019 Contador férias 13
+			Quinta,12 de Dezembro de 2019 Contador férias 14
+			Sexta,13 de Dezembro de 2019 Contador férias 15
+			Sábado,14 de Dezembro de 2019 Final de semana
+			Domingo,15 de Dezembro de 2019 Final de semana
+			Segunda,16 de Dezembro de 2019 Contador férias 16
+			Terça,17 de Dezembro de 2019 Contador férias 17
+			Quarta,18 de Dezembro de 2019 Contador férias 18
+			Quinta,19 de Dezembro de 2019 Contador férias 19
+			Sexta,20 de Dezembro de 2019 Contador férias 20
+			Sábado,21 de Dezembro de 2019 Final de semana
+			Domingo,22 de Dezembro de 2019 Final de semana
+			Segunda,23 de Dezembro de 2019 Contador férias 21
+			Terça,24 de Dezembro de 2019 Natal, véspera (*) - Contador férias 22
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 23
+			Sexta,27 de Dezembro de 2019 Contador férias 24
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 25
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*)
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+
+********************************************************************************
+(012): 74 dias corridos reais.
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 10 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 10 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+			Terça,2 de Abril de 2019 Contador férias 19
+			Quarta,3 de Abril de 2019 Contador férias 20
+			Quinta,4 de Abril de 2019 Contador férias 21
+			Sexta,5 de Abril de 2019 Contador férias 22
+			Sábado,6 de Abril de 2019 Final de semana
+			Domingo,7 de Abril de 2019 Final de semana
+			Segunda,8 de Abril de 2019 Contador férias 23
+			Terça,9 de Abril de 2019 Contador férias 24
+			Quarta,10 de Abril de 2019 Contador férias 25
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 24 de Junho de 2019
+		Oficialmente: termino das férias 23 de Julho de 2019
+		Realmente   : início  das férias 20 de Junho de 2019
+		Realmente   : termino das férias 23 de Julho de 2019
+			Quinta,20 de Junho de 2019 Corpus Christi
+			Sexta,21 de Junho de 2019 Corpus Christi - seguida (**)
+			Sábado,22 de Junho de 2019 Final de semana
+			Domingo,23 de Junho de 2019 Final de semana
+			Segunda,24 de Junho de 2019 Contador faltas prêmio 01
+			Terça,25 de Junho de 2019 Contador faltas prêmio 02
+			Quarta,26 de Junho de 2019 Contador faltas prêmio 03
+			Quinta,27 de Junho de 2019 Contador faltas prêmio 04
+			Sexta,28 de Junho de 2019 Contador faltas prêmio 05
+			Sábado,29 de Junho de 2019 Final de semana - Contador faltas prêmio 06
+			Domingo,30 de Junho de 2019 Final de semana - Contador faltas prêmio 07
+			Segunda,1 de Julho de 2019 Contador faltas prêmio 08
+			Terça,2 de Julho de 2019 Contador faltas prêmio 09
+			Quarta,3 de Julho de 2019 Contador faltas prêmio 10
+			Quinta,4 de Julho de 2019 Contador faltas prêmio 11
+			Sexta,5 de Julho de 2019 Contador faltas prêmio 12
+			Sábado,6 de Julho de 2019 Final de semana - Contador faltas prêmio 13
+			Domingo,7 de Julho de 2019 Final de semana - Contador faltas prêmio 14
+			Segunda,8 de Julho de 2019 Contador faltas prêmio 15
+			Terça,9 de Julho de 2019 Contador faltas prêmio 16
+			Quarta,10 de Julho de 2019 Contador faltas prêmio 17
+			Quinta,11 de Julho de 2019 Contador faltas prêmio 18
+			Sexta,12 de Julho de 2019 Contador faltas prêmio 19
+			Sábado,13 de Julho de 2019 Final de semana - Contador faltas prêmio 20
+			Domingo,14 de Julho de 2019 Final de semana - Contador faltas prêmio 21
+			Segunda,15 de Julho de 2019 Contador faltas prêmio 22
+			Terça,16 de Julho de 2019 Contador faltas prêmio 23
+			Quarta,17 de Julho de 2019 Contador faltas prêmio 24
+			Quinta,18 de Julho de 2019 Contador faltas prêmio 25
+			Sexta,19 de Julho de 2019 Contador faltas prêmio 26
+			Sábado,20 de Julho de 2019 Final de semana - Contador faltas prêmio 27
+			Domingo,21 de Julho de 2019 Final de semana - Contador faltas prêmio 28
+			Segunda,22 de Julho de 2019 Contador faltas prêmio 29
+			Terça,23 de Julho de 2019 Contador faltas prêmio 30
+
+********************************************************************************
+(013): 74 dias corridos reais.
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 10 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 10 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+			Terça,2 de Abril de 2019 Contador férias 19
+			Quarta,3 de Abril de 2019 Contador férias 20
+			Quinta,4 de Abril de 2019 Contador férias 21
+			Sexta,5 de Abril de 2019 Contador férias 22
+			Sábado,6 de Abril de 2019 Final de semana
+			Domingo,7 de Abril de 2019 Final de semana
+			Segunda,8 de Abril de 2019 Contador férias 23
+			Terça,9 de Abril de 2019 Contador férias 24
+			Quarta,10 de Abril de 2019 Contador férias 25
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 26 de Dezembro de 2019
+		Oficialmente: termino das férias 24 de Janeiro de 2020
+		Realmente   : início  das férias 24 de Dezembro de 2019
+		Realmente   : termino das férias 26 de Janeiro de 2020
+			Terça,24 de Dezembro de 2019 Natal, véspera (*)
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador faltas prêmio 01
+			Sexta,27 de Dezembro de 2019 Contador faltas prêmio 02
+			Sábado,28 de Dezembro de 2019 Final de semana - Contador faltas prêmio 03
+			Domingo,29 de Dezembro de 2019 Final de semana - Contador faltas prêmio 04
+			Segunda,30 de Dezembro de 2019 Contador faltas prêmio 05
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*) - Contador faltas prêmio 06
+			Quarta,1 de Janeiro de 2020 Confraternização Universal - Contador faltas prêmio 07
+			Quinta,2 de Janeiro de 2020 Contador faltas prêmio 08
+			Sexta,3 de Janeiro de 2020 Contador faltas prêmio 09
+			Sábado,4 de Janeiro de 2020 Final de semana - Contador faltas prêmio 10
+			Domingo,5 de Janeiro de 2020 Final de semana - Contador faltas prêmio 11
+			Segunda,6 de Janeiro de 2020 Contador faltas prêmio 12
+			Terça,7 de Janeiro de 2020 Contador faltas prêmio 13
+			Quarta,8 de Janeiro de 2020 Contador faltas prêmio 14
+			Quinta,9 de Janeiro de 2020 Contador faltas prêmio 15
+			Sexta,10 de Janeiro de 2020 Contador faltas prêmio 16
+			Sábado,11 de Janeiro de 2020 Final de semana - Contador faltas prêmio 17
+			Domingo,12 de Janeiro de 2020 Final de semana - Contador faltas prêmio 18
+			Segunda,13 de Janeiro de 2020 Contador faltas prêmio 19
+			Terça,14 de Janeiro de 2020 Contador faltas prêmio 20
+			Quarta,15 de Janeiro de 2020 Contador faltas prêmio 21
+			Quinta,16 de Janeiro de 2020 Contador faltas prêmio 22
+			Sexta,17 de Janeiro de 2020 Contador faltas prêmio 23
+			Sábado,18 de Janeiro de 2020 Final de semana - Contador faltas prêmio 24
+			Domingo,19 de Janeiro de 2020 Final de semana - Contador faltas prêmio 25
+			Segunda,20 de Janeiro de 2020 Contador faltas prêmio 26
+			Terça,21 de Janeiro de 2020 Contador faltas prêmio 27
+			Quarta,22 de Janeiro de 2020 Contador faltas prêmio 28
+			Quinta,23 de Janeiro de 2020 Contador faltas prêmio 29
+			Sexta,24 de Janeiro de 2020 Contador faltas prêmio 30
+			Sábado,25 de Janeiro de 2020 Final de semana
+			Domingo,26 de Janeiro de 2020 Final de semana
+
+********************************************************************************
+(014): 74 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 19 de Março de 2019
+		Oficialmente: termino das férias 17 de Abril de 2019
+		Realmente   : início  das férias 19 de Março de 2019
+		Realmente   : termino das férias 21 de Abril de 2019
+			Terça,19 de Março de 2019 Contador faltas prêmio 01
+			Quarta,20 de Março de 2019 Contador faltas prêmio 02
+			Quinta,21 de Março de 2019 Contador faltas prêmio 03
+			Sexta,22 de Março de 2019 Contador faltas prêmio 04
+			Sábado,23 de Março de 2019 Final de semana - Contador faltas prêmio 05
+			Domingo,24 de Março de 2019 Final de semana - Contador faltas prêmio 06
+			Segunda,25 de Março de 2019 Contador faltas prêmio 07
+			Terça,26 de Março de 2019 Contador faltas prêmio 08
+			Quarta,27 de Março de 2019 Contador faltas prêmio 09
+			Quinta,28 de Março de 2019 Contador faltas prêmio 10
+			Sexta,29 de Março de 2019 Contador faltas prêmio 11
+			Sábado,30 de Março de 2019 Final de semana - Contador faltas prêmio 12
+			Domingo,31 de Março de 2019 Final de semana - Contador faltas prêmio 13
+			Segunda,1 de Abril de 2019 Contador faltas prêmio 14
+			Terça,2 de Abril de 2019 Contador faltas prêmio 15
+			Quarta,3 de Abril de 2019 Contador faltas prêmio 16
+			Quinta,4 de Abril de 2019 Contador faltas prêmio 17
+			Sexta,5 de Abril de 2019 Contador faltas prêmio 18
+			Sábado,6 de Abril de 2019 Final de semana - Contador faltas prêmio 19
+			Domingo,7 de Abril de 2019 Final de semana - Contador faltas prêmio 20
+			Segunda,8 de Abril de 2019 Contador faltas prêmio 21
+			Terça,9 de Abril de 2019 Contador faltas prêmio 22
+			Quarta,10 de Abril de 2019 Contador faltas prêmio 23
+			Quinta,11 de Abril de 2019 Contador faltas prêmio 24
+			Sexta,12 de Abril de 2019 Contador faltas prêmio 25
+			Sábado,13 de Abril de 2019 Final de semana - Contador faltas prêmio 26
+			Domingo,14 de Abril de 2019 Final de semana - Contador faltas prêmio 27
+			Segunda,15 de Abril de 2019 Contador faltas prêmio 28
+			Terça,16 de Abril de 2019 Contador faltas prêmio 29
+			Quarta,17 de Abril de 2019 Contador faltas prêmio 30
+			Quinta,18 de Abril de 2019 Paixão de Cristo, vespera (*) - Nanan
+			Sexta,19 de Abril de 2019 Paixão de Cristo
+			Sábado,20 de Abril de 2019 Final de semana
+			Domingo,21 de Abril de 2019 Tiradentes - Final de semana
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 25 de Novembro de 2019
+		Oficialmente: termino das férias 30 de Dezembro de 2019
+		Realmente   : início  das férias 23 de Novembro de 2019
+		Realmente   : termino das férias 1 de Janeiro de 2020
+			Sábado,23 de Novembro de 2019 Final de semana
+			Domingo,24 de Novembro de 2019 Final de semana
+			Segunda,25 de Novembro de 2019 Contador férias 01
+			Terça,26 de Novembro de 2019 Contador férias 02
+			Quarta,27 de Novembro de 2019 Contador férias 03
+			Quinta,28 de Novembro de 2019 Contador férias 04
+			Sexta,29 de Novembro de 2019 Contador férias 05
+			Sábado,30 de Novembro de 2019 Final de semana
+			Domingo,1 de Dezembro de 2019 Final de semana
+			Segunda,2 de Dezembro de 2019 Contador férias 06
+			Terça,3 de Dezembro de 2019 Contador férias 07
+			Quarta,4 de Dezembro de 2019 Contador férias 08
+			Quinta,5 de Dezembro de 2019 Contador férias 09
+			Sexta,6 de Dezembro de 2019 Contador férias 10
+			Sábado,7 de Dezembro de 2019 Final de semana
+			Domingo,8 de Dezembro de 2019 Imaculada Conceição - Final de semana
+			Segunda,9 de Dezembro de 2019 Contador férias 11
+			Terça,10 de Dezembro de 2019 Contador férias 12
+			Quarta,11 de Dezembro de 2019 Contador férias 13
+			Quinta,12 de Dezembro de 2019 Contador férias 14
+			Sexta,13 de Dezembro de 2019 Contador férias 15
+			Sábado,14 de Dezembro de 2019 Final de semana
+			Domingo,15 de Dezembro de 2019 Final de semana
+			Segunda,16 de Dezembro de 2019 Contador férias 16
+			Terça,17 de Dezembro de 2019 Contador férias 17
+			Quarta,18 de Dezembro de 2019 Contador férias 18
+			Quinta,19 de Dezembro de 2019 Contador férias 19
+			Sexta,20 de Dezembro de 2019 Contador férias 20
+			Sábado,21 de Dezembro de 2019 Final de semana
+			Domingo,22 de Dezembro de 2019 Final de semana
+			Segunda,23 de Dezembro de 2019 Contador férias 21
+			Terça,24 de Dezembro de 2019 Natal, véspera (*) - Contador férias 22
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 23
+			Sexta,27 de Dezembro de 2019 Contador férias 24
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 25
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*)
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+
+********************************************************************************
+(015): 74 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 24 de Junho de 2019
+		Oficialmente: termino das férias 23 de Julho de 2019
+		Realmente   : início  das férias 20 de Junho de 2019
+		Realmente   : termino das férias 23 de Julho de 2019
+			Quinta,20 de Junho de 2019 Corpus Christi
+			Sexta,21 de Junho de 2019 Corpus Christi - seguida (**)
+			Sábado,22 de Junho de 2019 Final de semana
+			Domingo,23 de Junho de 2019 Final de semana
+			Segunda,24 de Junho de 2019 Contador faltas prêmio 01
+			Terça,25 de Junho de 2019 Contador faltas prêmio 02
+			Quarta,26 de Junho de 2019 Contador faltas prêmio 03
+			Quinta,27 de Junho de 2019 Contador faltas prêmio 04
+			Sexta,28 de Junho de 2019 Contador faltas prêmio 05
+			Sábado,29 de Junho de 2019 Final de semana - Contador faltas prêmio 06
+			Domingo,30 de Junho de 2019 Final de semana - Contador faltas prêmio 07
+			Segunda,1 de Julho de 2019 Contador faltas prêmio 08
+			Terça,2 de Julho de 2019 Contador faltas prêmio 09
+			Quarta,3 de Julho de 2019 Contador faltas prêmio 10
+			Quinta,4 de Julho de 2019 Contador faltas prêmio 11
+			Sexta,5 de Julho de 2019 Contador faltas prêmio 12
+			Sábado,6 de Julho de 2019 Final de semana - Contador faltas prêmio 13
+			Domingo,7 de Julho de 2019 Final de semana - Contador faltas prêmio 14
+			Segunda,8 de Julho de 2019 Contador faltas prêmio 15
+			Terça,9 de Julho de 2019 Contador faltas prêmio 16
+			Quarta,10 de Julho de 2019 Contador faltas prêmio 17
+			Quinta,11 de Julho de 2019 Contador faltas prêmio 18
+			Sexta,12 de Julho de 2019 Contador faltas prêmio 19
+			Sábado,13 de Julho de 2019 Final de semana - Contador faltas prêmio 20
+			Domingo,14 de Julho de 2019 Final de semana - Contador faltas prêmio 21
+			Segunda,15 de Julho de 2019 Contador faltas prêmio 22
+			Terça,16 de Julho de 2019 Contador faltas prêmio 23
+			Quarta,17 de Julho de 2019 Contador faltas prêmio 24
+			Quinta,18 de Julho de 2019 Contador faltas prêmio 25
+			Sexta,19 de Julho de 2019 Contador faltas prêmio 26
+			Sábado,20 de Julho de 2019 Final de semana - Contador faltas prêmio 27
+			Domingo,21 de Julho de 2019 Final de semana - Contador faltas prêmio 28
+			Segunda,22 de Julho de 2019 Contador faltas prêmio 29
+			Terça,23 de Julho de 2019 Contador faltas prêmio 30
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 25 de Novembro de 2019
+		Oficialmente: termino das férias 30 de Dezembro de 2019
+		Realmente   : início  das férias 23 de Novembro de 2019
+		Realmente   : termino das férias 1 de Janeiro de 2020
+			Sábado,23 de Novembro de 2019 Final de semana
+			Domingo,24 de Novembro de 2019 Final de semana
+			Segunda,25 de Novembro de 2019 Contador férias 01
+			Terça,26 de Novembro de 2019 Contador férias 02
+			Quarta,27 de Novembro de 2019 Contador férias 03
+			Quinta,28 de Novembro de 2019 Contador férias 04
+			Sexta,29 de Novembro de 2019 Contador férias 05
+			Sábado,30 de Novembro de 2019 Final de semana
+			Domingo,1 de Dezembro de 2019 Final de semana
+			Segunda,2 de Dezembro de 2019 Contador férias 06
+			Terça,3 de Dezembro de 2019 Contador férias 07
+			Quarta,4 de Dezembro de 2019 Contador férias 08
+			Quinta,5 de Dezembro de 2019 Contador férias 09
+			Sexta,6 de Dezembro de 2019 Contador férias 10
+			Sábado,7 de Dezembro de 2019 Final de semana
+			Domingo,8 de Dezembro de 2019 Imaculada Conceição - Final de semana
+			Segunda,9 de Dezembro de 2019 Contador férias 11
+			Terça,10 de Dezembro de 2019 Contador férias 12
+			Quarta,11 de Dezembro de 2019 Contador férias 13
+			Quinta,12 de Dezembro de 2019 Contador férias 14
+			Sexta,13 de Dezembro de 2019 Contador férias 15
+			Sábado,14 de Dezembro de 2019 Final de semana
+			Domingo,15 de Dezembro de 2019 Final de semana
+			Segunda,16 de Dezembro de 2019 Contador férias 16
+			Terça,17 de Dezembro de 2019 Contador férias 17
+			Quarta,18 de Dezembro de 2019 Contador férias 18
+			Quinta,19 de Dezembro de 2019 Contador férias 19
+			Sexta,20 de Dezembro de 2019 Contador férias 20
+			Sábado,21 de Dezembro de 2019 Final de semana
+			Domingo,22 de Dezembro de 2019 Final de semana
+			Segunda,23 de Dezembro de 2019 Contador férias 21
+			Terça,24 de Dezembro de 2019 Natal, véspera (*) - Contador férias 22
+			Quarta,25 de Dezembro de 2019 Natal
+			Quinta,26 de Dezembro de 2019 Contador férias 23
+			Sexta,27 de Dezembro de 2019 Contador férias 24
+			Sábado,28 de Dezembro de 2019 Final de semana
+			Domingo,29 de Dezembro de 2019 Final de semana
+			Segunda,30 de Dezembro de 2019 Contador férias 25
+			Terça,31 de Dezembro de 2019 Confraternização Universal, véspera (*)
+			Quarta,1 de Janeiro de 2020 Confraternização Universal
+
+********************************************************************************
+(016): 73 dias corridos reais.
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 10 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 10 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+			Terça,2 de Abril de 2019 Contador férias 19
+			Quarta,3 de Abril de 2019 Contador férias 20
+			Quinta,4 de Abril de 2019 Contador férias 21
+			Sexta,5 de Abril de 2019 Contador férias 22
+			Sábado,6 de Abril de 2019 Final de semana
+			Domingo,7 de Abril de 2019 Final de semana
+			Segunda,8 de Abril de 2019 Contador férias 23
+			Terça,9 de Abril de 2019 Contador férias 24
+			Quarta,10 de Abril de 2019 Contador férias 25
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 26 de Setembro de 2019
+		Oficialmente: termino das férias 25 de Outubro de 2019
+		Realmente   : início  das férias 26 de Setembro de 2019
+		Realmente   : termino das férias 28 de Outubro de 2019
+			Quinta,26 de Setembro de 2019 Contador faltas prêmio 01
+			Sexta,27 de Setembro de 2019 Contador faltas prêmio 02
+			Sábado,28 de Setembro de 2019 Final de semana - Contador faltas prêmio 03
+			Domingo,29 de Setembro de 2019 Final de semana - Contador faltas prêmio 04
+			Segunda,30 de Setembro de 2019 Contador faltas prêmio 05
+			Terça,1 de Outubro de 2019 Contador faltas prêmio 06
+			Quarta,2 de Outubro de 2019 Contador faltas prêmio 07
+			Quinta,3 de Outubro de 2019 Contador faltas prêmio 08
+			Sexta,4 de Outubro de 2019 Contador faltas prêmio 09
+			Sábado,5 de Outubro de 2019 Final de semana - Contador faltas prêmio 10
+			Domingo,6 de Outubro de 2019 Final de semana - Contador faltas prêmio 11
+			Segunda,7 de Outubro de 2019 Contador faltas prêmio 12
+			Terça,8 de Outubro de 2019 Contador faltas prêmio 13
+			Quarta,9 de Outubro de 2019 Contador faltas prêmio 14
+			Quinta,10 de Outubro de 2019 Contador faltas prêmio 15
+			Sexta,11 de Outubro de 2019 Contador faltas prêmio 16
+			Sábado,12 de Outubro de 2019 Nossa Senhora Aparecida - Final de semana - Contador faltas prêmio 17
+			Domingo,13 de Outubro de 2019 Final de semana - Contador faltas prêmio 18
+			Segunda,14 de Outubro de 2019 Contador faltas prêmio 19
+			Terça,15 de Outubro de 2019 Contador faltas prêmio 20
+			Quarta,16 de Outubro de 2019 Contador faltas prêmio 21
+			Quinta,17 de Outubro de 2019 Contador faltas prêmio 22
+			Sexta,18 de Outubro de 2019 Contador faltas prêmio 23
+			Sábado,19 de Outubro de 2019 Final de semana - Contador faltas prêmio 24
+			Domingo,20 de Outubro de 2019 Final de semana - Contador faltas prêmio 25
+			Segunda,21 de Outubro de 2019 Contador faltas prêmio 26
+			Terça,22 de Outubro de 2019 Contador faltas prêmio 27
+			Quarta,23 de Outubro de 2019 Contador faltas prêmio 28
+			Quinta,24 de Outubro de 2019 Contador faltas prêmio 29
+			Sexta,25 de Outubro de 2019 Contador faltas prêmio 30
+			Sábado,26 de Outubro de 2019 Final de semana
+			Domingo,27 de Outubro de 2019 Final de semana
+			Segunda,28 de Outubro de 2019 Dia do Servidor Público (***)
+
+********************************************************************************
+(017): 73 dias corridos reais.
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 10 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 10 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+			Terça,2 de Abril de 2019 Contador férias 19
+			Quarta,3 de Abril de 2019 Contador férias 20
+			Quinta,4 de Abril de 2019 Contador férias 21
+			Sexta,5 de Abril de 2019 Contador férias 22
+			Sábado,6 de Abril de 2019 Final de semana
+			Domingo,7 de Abril de 2019 Final de semana
+			Segunda,8 de Abril de 2019 Contador férias 23
+			Terça,9 de Abril de 2019 Contador férias 24
+			Quarta,10 de Abril de 2019 Contador férias 25
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 16 de Outubro de 2019
+		Oficialmente: termino das férias 14 de Novembro de 2019
+		Realmente   : início  das férias 16 de Outubro de 2019
+		Realmente   : termino das férias 17 de Novembro de 2019
+			Quarta,16 de Outubro de 2019 Contador faltas prêmio 01
+			Quinta,17 de Outubro de 2019 Contador faltas prêmio 02
+			Sexta,18 de Outubro de 2019 Contador faltas prêmio 03
+			Sábado,19 de Outubro de 2019 Final de semana - Contador faltas prêmio 04
+			Domingo,20 de Outubro de 2019 Final de semana - Contador faltas prêmio 05
+			Segunda,21 de Outubro de 2019 Contador faltas prêmio 06
+			Terça,22 de Outubro de 2019 Contador faltas prêmio 07
+			Quarta,23 de Outubro de 2019 Contador faltas prêmio 08
+			Quinta,24 de Outubro de 2019 Contador faltas prêmio 09
+			Sexta,25 de Outubro de 2019 Contador faltas prêmio 10
+			Sábado,26 de Outubro de 2019 Final de semana - Contador faltas prêmio 11
+			Domingo,27 de Outubro de 2019 Final de semana - Contador faltas prêmio 12
+			Segunda,28 de Outubro de 2019 Dia do Servidor Público (***) - Contador faltas prêmio 13
+			Terça,29 de Outubro de 2019 Contador faltas prêmio 14
+			Quarta,30 de Outubro de 2019 Contador faltas prêmio 15
+			Quinta,31 de Outubro de 2019 Contador faltas prêmio 16
+			Sexta,1 de Novembro de 2019 Contador faltas prêmio 17
+			Sábado,2 de Novembro de 2019 Finados - Final de semana - Contador faltas prêmio 18
+			Domingo,3 de Novembro de 2019 Final de semana - Contador faltas prêmio 19
+			Segunda,4 de Novembro de 2019 Contador faltas prêmio 20
+			Terça,5 de Novembro de 2019 Contador faltas prêmio 21
+			Quarta,6 de Novembro de 2019 Contador faltas prêmio 22
+			Quinta,7 de Novembro de 2019 Contador faltas prêmio 23
+			Sexta,8 de Novembro de 2019 Contador faltas prêmio 24
+			Sábado,9 de Novembro de 2019 Final de semana - Contador faltas prêmio 25
+			Domingo,10 de Novembro de 2019 Final de semana - Contador faltas prêmio 26
+			Segunda,11 de Novembro de 2019 Contador faltas prêmio 27
+			Terça,12 de Novembro de 2019 Contador faltas prêmio 28
+			Quarta,13 de Novembro de 2019 Contador faltas prêmio 29
+			Quinta,14 de Novembro de 2019 Contador faltas prêmio 30
+			Sexta,15 de Novembro de 2019 Proclamação da República
+			Sábado,16 de Novembro de 2019 Final de semana
+			Domingo,17 de Novembro de 2019 Final de semana
+
+********************************************************************************
+(018): 73 dias corridos reais.
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 10 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 10 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+			Terça,2 de Abril de 2019 Contador férias 19
+			Quarta,3 de Abril de 2019 Contador férias 20
+			Quinta,4 de Abril de 2019 Contador férias 21
+			Sexta,5 de Abril de 2019 Contador férias 22
+			Sábado,6 de Abril de 2019 Final de semana
+			Domingo,7 de Abril de 2019 Final de semana
+			Segunda,8 de Abril de 2019 Contador férias 23
+			Terça,9 de Abril de 2019 Contador férias 24
+			Quarta,10 de Abril de 2019 Contador férias 25
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 29 de Outubro de 2019
+		Oficialmente: termino das férias 27 de Novembro de 2019
+		Realmente   : início  das férias 26 de Outubro de 2019
+		Realmente   : termino das férias 27 de Novembro de 2019
+			Sábado,26 de Outubro de 2019 Final de semana
+			Domingo,27 de Outubro de 2019 Final de semana
+			Segunda,28 de Outubro de 2019 Dia do Servidor Público (***)
+			Terça,29 de Outubro de 2019 Contador faltas prêmio 01
+			Quarta,30 de Outubro de 2019 Contador faltas prêmio 02
+			Quinta,31 de Outubro de 2019 Contador faltas prêmio 03
+			Sexta,1 de Novembro de 2019 Contador faltas prêmio 04
+			Sábado,2 de Novembro de 2019 Finados - Final de semana - Contador faltas prêmio 05
+			Domingo,3 de Novembro de 2019 Final de semana - Contador faltas prêmio 06
+			Segunda,4 de Novembro de 2019 Contador faltas prêmio 07
+			Terça,5 de Novembro de 2019 Contador faltas prêmio 08
+			Quarta,6 de Novembro de 2019 Contador faltas prêmio 09
+			Quinta,7 de Novembro de 2019 Contador faltas prêmio 10
+			Sexta,8 de Novembro de 2019 Contador faltas prêmio 11
+			Sábado,9 de Novembro de 2019 Final de semana - Contador faltas prêmio 12
+			Domingo,10 de Novembro de 2019 Final de semana - Contador faltas prêmio 13
+			Segunda,11 de Novembro de 2019 Contador faltas prêmio 14
+			Terça,12 de Novembro de 2019 Contador faltas prêmio 15
+			Quarta,13 de Novembro de 2019 Contador faltas prêmio 16
+			Quinta,14 de Novembro de 2019 Contador faltas prêmio 17
+			Sexta,15 de Novembro de 2019 Proclamação da República - Contador faltas prêmio 18
+			Sábado,16 de Novembro de 2019 Final de semana - Contador faltas prêmio 19
+			Domingo,17 de Novembro de 2019 Final de semana - Contador faltas prêmio 20
+			Segunda,18 de Novembro de 2019 Contador faltas prêmio 21
+			Terça,19 de Novembro de 2019 Contador faltas prêmio 22
+			Quarta,20 de Novembro de 2019 Contador faltas prêmio 23
+			Quinta,21 de Novembro de 2019 Contador faltas prêmio 24
+			Sexta,22 de Novembro de 2019 Contador faltas prêmio 25
+			Sábado,23 de Novembro de 2019 Final de semana - Contador faltas prêmio 26
+			Domingo,24 de Novembro de 2019 Final de semana - Contador faltas prêmio 27
+			Segunda,25 de Novembro de 2019 Contador faltas prêmio 28
+			Terça,26 de Novembro de 2019 Contador faltas prêmio 29
+			Quarta,27 de Novembro de 2019 Contador faltas prêmio 30
+
+********************************************************************************
+(019): 73 dias corridos reais.
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 10 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 10 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+			Terça,2 de Abril de 2019 Contador férias 19
+			Quarta,3 de Abril de 2019 Contador férias 20
+			Quinta,4 de Abril de 2019 Contador férias 21
+			Sexta,5 de Abril de 2019 Contador férias 22
+			Sábado,6 de Abril de 2019 Final de semana
+			Domingo,7 de Abril de 2019 Final de semana
+			Segunda,8 de Abril de 2019 Contador férias 23
+			Terça,9 de Abril de 2019 Contador férias 24
+			Quarta,10 de Abril de 2019 Contador férias 25
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 18 de Novembro de 2019
+		Oficialmente: termino das férias 17 de Dezembro de 2019
+		Realmente   : início  das férias 15 de Novembro de 2019
+		Realmente   : termino das férias 17 de Dezembro de 2019
+			Sexta,15 de Novembro de 2019 Proclamação da República
+			Sábado,16 de Novembro de 2019 Final de semana
+			Domingo,17 de Novembro de 2019 Final de semana
+			Segunda,18 de Novembro de 2019 Contador faltas prêmio 01
+			Terça,19 de Novembro de 2019 Contador faltas prêmio 02
+			Quarta,20 de Novembro de 2019 Contador faltas prêmio 03
+			Quinta,21 de Novembro de 2019 Contador faltas prêmio 04
+			Sexta,22 de Novembro de 2019 Contador faltas prêmio 05
+			Sábado,23 de Novembro de 2019 Final de semana - Contador faltas prêmio 06
+			Domingo,24 de Novembro de 2019 Final de semana - Contador faltas prêmio 07
+			Segunda,25 de Novembro de 2019 Contador faltas prêmio 08
+			Terça,26 de Novembro de 2019 Contador faltas prêmio 09
+			Quarta,27 de Novembro de 2019 Contador faltas prêmio 10
+			Quinta,28 de Novembro de 2019 Contador faltas prêmio 11
+			Sexta,29 de Novembro de 2019 Contador faltas prêmio 12
+			Sábado,30 de Novembro de 2019 Final de semana - Contador faltas prêmio 13
+			Domingo,1 de Dezembro de 2019 Final de semana - Contador faltas prêmio 14
+			Segunda,2 de Dezembro de 2019 Contador faltas prêmio 15
+			Terça,3 de Dezembro de 2019 Contador faltas prêmio 16
+			Quarta,4 de Dezembro de 2019 Contador faltas prêmio 17
+			Quinta,5 de Dezembro de 2019 Contador faltas prêmio 18
+			Sexta,6 de Dezembro de 2019 Contador faltas prêmio 19
+			Sábado,7 de Dezembro de 2019 Final de semana - Contador faltas prêmio 20
+			Domingo,8 de Dezembro de 2019 Imaculada Conceição - Final de semana - Contador faltas prêmio 21
+			Segunda,9 de Dezembro de 2019 Contador faltas prêmio 22
+			Terça,10 de Dezembro de 2019 Contador faltas prêmio 23
+			Quarta,11 de Dezembro de 2019 Contador faltas prêmio 24
+			Quinta,12 de Dezembro de 2019 Contador faltas prêmio 25
+			Sexta,13 de Dezembro de 2019 Contador faltas prêmio 26
+			Sábado,14 de Dezembro de 2019 Final de semana - Contador faltas prêmio 27
+			Domingo,15 de Dezembro de 2019 Final de semana - Contador faltas prêmio 28
+			Segunda,16 de Dezembro de 2019 Contador faltas prêmio 29
+			Terça,17 de Dezembro de 2019 Contador faltas prêmio 30
+
+********************************************************************************
+(020): 73 dias corridos reais.
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 7 de Março de 2019
+		Oficialmente: termino das férias 10 de Abril de 2019
+		Realmente   : início  das férias 2 de Março de 2019
+		Realmente   : termino das férias 10 de Abril de 2019
+			Sábado,2 de Março de 2019 Final de semana
+			Domingo,3 de Março de 2019 Final de semana
+			Segunda,4 de Março de 2019 Carnaval - vespera (**)
+			Terça,5 de Março de 2019 Carnaval
+			Quarta,6 de Março de 2019 Carnaval, quarta-feira de cinzas (*)
+			Quinta,7 de Março de 2019 Contador férias 01
+			Sexta,8 de Março de 2019 Contador férias 02
+			Sábado,9 de Março de 2019 Final de semana
+			Domingo,10 de Março de 2019 Final de semana
+			Segunda,11 de Março de 2019 Contador férias 03
+			Terça,12 de Março de 2019 Contador férias 04
+			Quarta,13 de Março de 2019 Contador férias 05
+			Quinta,14 de Março de 2019 Contador férias 06
+			Sexta,15 de Março de 2019 Contador férias 07
+			Sábado,16 de Março de 2019 Final de semana
+			Domingo,17 de Março de 2019 Final de semana
+			Segunda,18 de Março de 2019 Contador férias 08
+			Terça,19 de Março de 2019 Contador férias 09
+			Quarta,20 de Março de 2019 Contador férias 10
+			Quinta,21 de Março de 2019 Contador férias 11
+			Sexta,22 de Março de 2019 Contador férias 12
+			Sábado,23 de Março de 2019 Final de semana
+			Domingo,24 de Março de 2019 Final de semana
+			Segunda,25 de Março de 2019 Contador férias 13
+			Terça,26 de Março de 2019 Contador férias 14
+			Quarta,27 de Março de 2019 Contador férias 15
+			Quinta,28 de Março de 2019 Contador férias 16
+			Sexta,29 de Março de 2019 Contador férias 17
+			Sábado,30 de Março de 2019 Final de semana
+			Domingo,31 de Março de 2019 Final de semana
+			Segunda,1 de Abril de 2019 Contador férias 18
+			Terça,2 de Abril de 2019 Contador férias 19
+			Quarta,3 de Abril de 2019 Contador férias 20
+			Quinta,4 de Abril de 2019 Contador férias 21
+			Sexta,5 de Abril de 2019 Contador férias 22
+			Sábado,6 de Abril de 2019 Final de semana
+			Domingo,7 de Abril de 2019 Final de semana
+			Segunda,8 de Abril de 2019 Contador férias 23
+			Terça,9 de Abril de 2019 Contador férias 24
+			Quarta,10 de Abril de 2019 Contador férias 25
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 25 de Novembro de 2019
+		Oficialmente: termino das férias 24 de Dezembro de 2019
+		Realmente   : início  das férias 23 de Novembro de 2019
+		Realmente   : termino das férias 25 de Dezembro de 2019
+			Sábado,23 de Novembro de 2019 Final de semana
+			Domingo,24 de Novembro de 2019 Final de semana
+			Segunda,25 de Novembro de 2019 Contador faltas prêmio 01
+			Terça,26 de Novembro de 2019 Contador faltas prêmio 02
+			Quarta,27 de Novembro de 2019 Contador faltas prêmio 03
+			Quinta,28 de Novembro de 2019 Contador faltas prêmio 04
+			Sexta,29 de Novembro de 2019 Contador faltas prêmio 05
+			Sábado,30 de Novembro de 2019 Final de semana - Contador faltas prêmio 06
+			Domingo,1 de Dezembro de 2019 Final de semana - Contador faltas prêmio 07
+			Segunda,2 de Dezembro de 2019 Contador faltas prêmio 08
+			Terça,3 de Dezembro de 2019 Contador faltas prêmio 09
+			Quarta,4 de Dezembro de 2019 Contador faltas prêmio 10
+			Quinta,5 de Dezembro de 2019 Contador faltas prêmio 11
+			Sexta,6 de Dezembro de 2019 Contador faltas prêmio 12
+			Sábado,7 de Dezembro de 2019 Final de semana - Contador faltas prêmio 13
+			Domingo,8 de Dezembro de 2019 Imaculada Conceição - Final de semana - Contador faltas prêmio 14
+			Segunda,9 de Dezembro de 2019 Contador faltas prêmio 15
+			Terça,10 de Dezembro de 2019 Contador faltas prêmio 16
+			Quarta,11 de Dezembro de 2019 Contador faltas prêmio 17
+			Quinta,12 de Dezembro de 2019 Contador faltas prêmio 18
+			Sexta,13 de Dezembro de 2019 Contador faltas prêmio 19
+			Sábado,14 de Dezembro de 2019 Final de semana - Contador faltas prêmio 20
+			Domingo,15 de Dezembro de 2019 Final de semana - Contador faltas prêmio 21
+			Segunda,16 de Dezembro de 2019 Contador faltas prêmio 22
+			Terça,17 de Dezembro de 2019 Contador faltas prêmio 23
+			Quarta,18 de Dezembro de 2019 Contador faltas prêmio 24
+			Quinta,19 de Dezembro de 2019 Contador faltas prêmio 25
+			Sexta,20 de Dezembro de 2019 Contador faltas prêmio 26
+			Sábado,21 de Dezembro de 2019 Final de semana - Contador faltas prêmio 27
+			Domingo,22 de Dezembro de 2019 Final de semana - Contador faltas prêmio 28
+			Segunda,23 de Dezembro de 2019 Contador faltas prêmio 29
+			Terça,24 de Dezembro de 2019 Natal, véspera (*) - Contador faltas prêmio 30
+			Quarta,25 de Dezembro de 2019 Natal
+

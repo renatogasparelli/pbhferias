@@ -1,0 +1,23 @@
+	2018-01-01 - Segunda - Confraternização Universal
+	2018-02-12 - Segunda - Carnaval - vespera(**)
+	2018-02-13 - Terça - Carnaval
+	2018-02-14 - Quarta - Carnaval, quarta-feira de cinzas(*)
+	2018-03-29 - Quinta - Paixão de Cristo, vespera(*) - Nanan
+	2018-03-30 - Sexta - Paixão de Cristo
+	2018-04-21 - Sábado - Tiradentes
+	2018-04-30 - Segunda - Dia do Trabalho - vespera(**)
+	2018-05-01 - Terça - Dia do Trabalho
+	2018-05-31 - Quinta - Corpus Christi
+	2018-06-01 - Sexta - Corpus Christi - seguida(**)
+	2018-08-15 - Quarta - Assunção de Nossa Senhora
+	2018-09-07 - Sexta - Independência do Brasil
+	2018-10-12 - Sexta - Nossa Senhora Aparecida
+	2018-10-28 - Domingo - Dia do Servidor Público(***)
+	2018-11-02 - Sexta - Finados
+	2018-11-15 - Quinta - Proclamação da República
+	2018-11-16 - Sexta - Proclamação da República - seguida(**)
+	2018-12-08 - Sábado - Imaculada Conceição
+	2018-12-24 - Segunda - Natal, vespera(*)
+	2018-12-24 - Segunda - Natal - vespera(**)
+	2018-12-25 - Terça - Natal
+	2018-12-31 - Segunda - Confraternização Universal, vespera(*)

@@ -1,0 +1,1863 @@
+
+2021-01-01 - Sexta - Confraternização Universal
+2021-02-15 - Segunda - Carnaval - vespera (**)
+2021-02-16 - Terça - Carnaval
+2021-02-17 - Quarta - Carnaval, quarta-feira de cinzas (*)
+2021-04-01 - Quinta - Paixão de Cristo, vespera (*) - Nanan
+2021-04-02 - Sexta - Paixão de Cristo
+2021-04-21 - Quarta - Tiradentes
+2021-05-01 - Sábado - Dia do Trabalho
+2021-06-03 - Quinta - Corpus Christi
+2021-06-04 - Sexta - Corpus Christi - seguida (**)
+2021-08-15 - Domingo - Assunção de Nossa Senhora
+2021-09-06 - Segunda - Independência do Brasil - vespera (**)
+2021-09-07 - Terça - Independência do Brasil
+2021-10-11 - Segunda - Nossa Senhora Aparecida - vespera (**)
+2021-10-12 - Terça - Nossa Senhora Aparecida
+2021-10-28 - Quinta - Dia do Servidor Público (***)
+2021-11-01 - Segunda - Finados - vespera (**)
+2021-11-02 - Terça - Finados
+2021-11-15 - Segunda - Proclamação da República
+2021-12-08 - Quarta - Imaculada Conceição
+2021-12-24 - Sexta - Natal, véspera (*)
+2021-12-25 - Sábado - Natal
+2021-12-31 - Sexta - Confraternização Universal, véspera (*)
+
+      * facultativo comum
+     ** facultativo desejado
+    *** facultativo flutuante
+    
+
+********************************************************************************
+(001): 79 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+	12 dias tirados com 20 dias aproveitados e 18 dias esperados [alavancagem:1.11111]
+		Oficialmente: início  das férias 7 de Dezembro de 2021
+		Oficialmente: termino das férias 23 de Dezembro de 2021
+		Realmente   : início  das férias 7 de Dezembro de 2021
+		Realmente   : termino das férias 26 de Dezembro de 2021
+			Terça,7 de Dezembro de 2021 Contador férias 01
+			Quarta,8 de Dezembro de 2021 Imaculada Conceição
+			Quinta,9 de Dezembro de 2021 Contador férias 02
+			Sexta,10 de Dezembro de 2021 Contador férias 03
+			Sábado,11 de Dezembro de 2021 Final de semana
+			Domingo,12 de Dezembro de 2021 Final de semana
+			Segunda,13 de Dezembro de 2021 Contador férias 04
+			Terça,14 de Dezembro de 2021 Contador férias 05
+			Quarta,15 de Dezembro de 2021 Contador férias 06
+			Quinta,16 de Dezembro de 2021 Contador férias 07
+			Sexta,17 de Dezembro de 2021 Contador férias 08
+			Sábado,18 de Dezembro de 2021 Final de semana
+			Domingo,19 de Dezembro de 2021 Final de semana
+			Segunda,20 de Dezembro de 2021 Contador férias 09
+			Terça,21 de Dezembro de 2021 Contador férias 10
+			Quarta,22 de Dezembro de 2021 Contador férias 11
+			Quinta,23 de Dezembro de 2021 Contador férias 12
+			Sexta,24 de Dezembro de 2021 Natal, véspera (*)
+			Sábado,25 de Dezembro de 2021 Natal - Final de semana
+			Domingo,26 de Dezembro de 2021 Final de semana
+
+********************************************************************************
+(002): 78 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 3 de Março de 2021
+		Oficialmente: termino das férias 1 de Abril de 2021
+		Realmente   : início  das férias 3 de Março de 2021
+		Realmente   : termino das férias 4 de Abril de 2021
+			Quarta,3 de Março de 2021 Contador faltas prêmio 01
+			Quinta,4 de Março de 2021 Contador faltas prêmio 02
+			Sexta,5 de Março de 2021 Contador faltas prêmio 03
+			Sábado,6 de Março de 2021 Final de semana - Contador faltas prêmio 04
+			Domingo,7 de Março de 2021 Final de semana - Contador faltas prêmio 05
+			Segunda,8 de Março de 2021 Contador faltas prêmio 06
+			Terça,9 de Março de 2021 Contador faltas prêmio 07
+			Quarta,10 de Março de 2021 Contador faltas prêmio 08
+			Quinta,11 de Março de 2021 Contador faltas prêmio 09
+			Sexta,12 de Março de 2021 Contador faltas prêmio 10
+			Sábado,13 de Março de 2021 Final de semana - Contador faltas prêmio 11
+			Domingo,14 de Março de 2021 Final de semana - Contador faltas prêmio 12
+			Segunda,15 de Março de 2021 Contador faltas prêmio 13
+			Terça,16 de Março de 2021 Contador faltas prêmio 14
+			Quarta,17 de Março de 2021 Contador faltas prêmio 15
+			Quinta,18 de Março de 2021 Contador faltas prêmio 16
+			Sexta,19 de Março de 2021 Contador faltas prêmio 17
+			Sábado,20 de Março de 2021 Final de semana - Contador faltas prêmio 18
+			Domingo,21 de Março de 2021 Final de semana - Contador faltas prêmio 19
+			Segunda,22 de Março de 2021 Contador faltas prêmio 20
+			Terça,23 de Março de 2021 Contador faltas prêmio 21
+			Quarta,24 de Março de 2021 Contador faltas prêmio 22
+			Quinta,25 de Março de 2021 Contador faltas prêmio 23
+			Sexta,26 de Março de 2021 Contador faltas prêmio 24
+			Sábado,27 de Março de 2021 Final de semana - Contador faltas prêmio 25
+			Domingo,28 de Março de 2021 Final de semana - Contador faltas prêmio 26
+			Segunda,29 de Março de 2021 Contador faltas prêmio 27
+			Terça,30 de Março de 2021 Contador faltas prêmio 28
+			Quarta,31 de Março de 2021 Contador faltas prêmio 29
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador faltas prêmio 30
+			Sexta,2 de Abril de 2021 Paixão de Cristo
+			Sábado,3 de Abril de 2021 Final de semana
+			Domingo,4 de Abril de 2021 Final de semana
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+	12 dias tirados com 20 dias aproveitados e 18 dias esperados [alavancagem:1.11111]
+		Oficialmente: início  das férias 7 de Dezembro de 2021
+		Oficialmente: termino das férias 23 de Dezembro de 2021
+		Realmente   : início  das férias 7 de Dezembro de 2021
+		Realmente   : termino das férias 26 de Dezembro de 2021
+			Terça,7 de Dezembro de 2021 Contador férias 01
+			Quarta,8 de Dezembro de 2021 Imaculada Conceição
+			Quinta,9 de Dezembro de 2021 Contador férias 02
+			Sexta,10 de Dezembro de 2021 Contador férias 03
+			Sábado,11 de Dezembro de 2021 Final de semana
+			Domingo,12 de Dezembro de 2021 Final de semana
+			Segunda,13 de Dezembro de 2021 Contador férias 04
+			Terça,14 de Dezembro de 2021 Contador férias 05
+			Quarta,15 de Dezembro de 2021 Contador férias 06
+			Quinta,16 de Dezembro de 2021 Contador férias 07
+			Sexta,17 de Dezembro de 2021 Contador férias 08
+			Sábado,18 de Dezembro de 2021 Final de semana
+			Domingo,19 de Dezembro de 2021 Final de semana
+			Segunda,20 de Dezembro de 2021 Contador férias 09
+			Terça,21 de Dezembro de 2021 Contador férias 10
+			Quarta,22 de Dezembro de 2021 Contador férias 11
+			Quinta,23 de Dezembro de 2021 Contador férias 12
+			Sexta,24 de Dezembro de 2021 Natal, véspera (*)
+			Sábado,25 de Dezembro de 2021 Natal - Final de semana
+			Domingo,26 de Dezembro de 2021 Final de semana
+
+********************************************************************************
+(003): 78 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 22 de Março de 2021
+		Oficialmente: termino das férias 20 de Abril de 2021
+		Realmente   : início  das férias 20 de Março de 2021
+		Realmente   : termino das férias 21 de Abril de 2021
+			Sábado,20 de Março de 2021 Final de semana
+			Domingo,21 de Março de 2021 Final de semana
+			Segunda,22 de Março de 2021 Contador faltas prêmio 01
+			Terça,23 de Março de 2021 Contador faltas prêmio 02
+			Quarta,24 de Março de 2021 Contador faltas prêmio 03
+			Quinta,25 de Março de 2021 Contador faltas prêmio 04
+			Sexta,26 de Março de 2021 Contador faltas prêmio 05
+			Sábado,27 de Março de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,28 de Março de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,29 de Março de 2021 Contador faltas prêmio 08
+			Terça,30 de Março de 2021 Contador faltas prêmio 09
+			Quarta,31 de Março de 2021 Contador faltas prêmio 10
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador faltas prêmio 11
+			Sexta,2 de Abril de 2021 Paixão de Cristo - Contador faltas prêmio 12
+			Sábado,3 de Abril de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,4 de Abril de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,5 de Abril de 2021 Contador faltas prêmio 15
+			Terça,6 de Abril de 2021 Contador faltas prêmio 16
+			Quarta,7 de Abril de 2021 Contador faltas prêmio 17
+			Quinta,8 de Abril de 2021 Contador faltas prêmio 18
+			Sexta,9 de Abril de 2021 Contador faltas prêmio 19
+			Sábado,10 de Abril de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,11 de Abril de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,12 de Abril de 2021 Contador faltas prêmio 22
+			Terça,13 de Abril de 2021 Contador faltas prêmio 23
+			Quarta,14 de Abril de 2021 Contador faltas prêmio 24
+			Quinta,15 de Abril de 2021 Contador faltas prêmio 25
+			Sexta,16 de Abril de 2021 Contador faltas prêmio 26
+			Sábado,17 de Abril de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,18 de Abril de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,19 de Abril de 2021 Contador faltas prêmio 29
+			Terça,20 de Abril de 2021 Contador faltas prêmio 30
+			Quarta,21 de Abril de 2021 Tiradentes
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+	12 dias tirados com 20 dias aproveitados e 18 dias esperados [alavancagem:1.11111]
+		Oficialmente: início  das férias 7 de Dezembro de 2021
+		Oficialmente: termino das férias 23 de Dezembro de 2021
+		Realmente   : início  das férias 7 de Dezembro de 2021
+		Realmente   : termino das férias 26 de Dezembro de 2021
+			Terça,7 de Dezembro de 2021 Contador férias 01
+			Quarta,8 de Dezembro de 2021 Imaculada Conceição
+			Quinta,9 de Dezembro de 2021 Contador férias 02
+			Sexta,10 de Dezembro de 2021 Contador férias 03
+			Sábado,11 de Dezembro de 2021 Final de semana
+			Domingo,12 de Dezembro de 2021 Final de semana
+			Segunda,13 de Dezembro de 2021 Contador férias 04
+			Terça,14 de Dezembro de 2021 Contador férias 05
+			Quarta,15 de Dezembro de 2021 Contador férias 06
+			Quinta,16 de Dezembro de 2021 Contador férias 07
+			Sexta,17 de Dezembro de 2021 Contador férias 08
+			Sábado,18 de Dezembro de 2021 Final de semana
+			Domingo,19 de Dezembro de 2021 Final de semana
+			Segunda,20 de Dezembro de 2021 Contador férias 09
+			Terça,21 de Dezembro de 2021 Contador férias 10
+			Quarta,22 de Dezembro de 2021 Contador férias 11
+			Quinta,23 de Dezembro de 2021 Contador férias 12
+			Sexta,24 de Dezembro de 2021 Natal, véspera (*)
+			Sábado,25 de Dezembro de 2021 Natal - Final de semana
+			Domingo,26 de Dezembro de 2021 Final de semana
+
+********************************************************************************
+(004): 78 dias corridos reais.
+	12 dias tirados com 19 dias aproveitados e 18 dias esperados [alavancagem:1.05556]
+		Oficialmente: início  das férias 17 de Março de 2021
+		Oficialmente: termino das férias 1 de Abril de 2021
+		Realmente   : início  das férias 17 de Março de 2021
+		Realmente   : termino das férias 4 de Abril de 2021
+			Quarta,17 de Março de 2021 Contador férias 01
+			Quinta,18 de Março de 2021 Contador férias 02
+			Sexta,19 de Março de 2021 Contador férias 03
+			Sábado,20 de Março de 2021 Final de semana
+			Domingo,21 de Março de 2021 Final de semana
+			Segunda,22 de Março de 2021 Contador férias 04
+			Terça,23 de Março de 2021 Contador férias 05
+			Quarta,24 de Março de 2021 Contador férias 06
+			Quinta,25 de Março de 2021 Contador férias 07
+			Sexta,26 de Março de 2021 Contador férias 08
+			Sábado,27 de Março de 2021 Final de semana
+			Domingo,28 de Março de 2021 Final de semana
+			Segunda,29 de Março de 2021 Contador férias 09
+			Terça,30 de Março de 2021 Contador férias 10
+			Quarta,31 de Março de 2021 Contador férias 11
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador férias 12
+			Sexta,2 de Abril de 2021 Paixão de Cristo
+			Sábado,3 de Abril de 2021 Final de semana
+			Domingo,4 de Abril de 2021 Final de semana
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+
+********************************************************************************
+(005): 78 dias corridos reais.
+	12 dias tirados com 19 dias aproveitados e 18 dias esperados [alavancagem:1.05556]
+		Oficialmente: início  das férias 18 de Março de 2021
+		Oficialmente: termino das férias 5 de Abril de 2021
+		Realmente   : início  das férias 18 de Março de 2021
+		Realmente   : termino das férias 5 de Abril de 2021
+			Quinta,18 de Março de 2021 Contador férias 01
+			Sexta,19 de Março de 2021 Contador férias 02
+			Sábado,20 de Março de 2021 Final de semana
+			Domingo,21 de Março de 2021 Final de semana
+			Segunda,22 de Março de 2021 Contador férias 03
+			Terça,23 de Março de 2021 Contador férias 04
+			Quarta,24 de Março de 2021 Contador férias 05
+			Quinta,25 de Março de 2021 Contador férias 06
+			Sexta,26 de Março de 2021 Contador férias 07
+			Sábado,27 de Março de 2021 Final de semana
+			Domingo,28 de Março de 2021 Final de semana
+			Segunda,29 de Março de 2021 Contador férias 08
+			Terça,30 de Março de 2021 Contador férias 09
+			Quarta,31 de Março de 2021 Contador férias 10
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador férias 11
+			Sexta,2 de Abril de 2021 Paixão de Cristo
+			Sábado,3 de Abril de 2021 Final de semana
+			Domingo,4 de Abril de 2021 Final de semana
+			Segunda,5 de Abril de 2021 Contador férias 12
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+
+********************************************************************************
+(006): 78 dias corridos reais.
+	12 dias tirados com 19 dias aproveitados e 18 dias esperados [alavancagem:1.05556]
+		Oficialmente: início  das férias 19 de Março de 2021
+		Oficialmente: termino das férias 6 de Abril de 2021
+		Realmente   : início  das férias 19 de Março de 2021
+		Realmente   : termino das férias 6 de Abril de 2021
+			Sexta,19 de Março de 2021 Contador férias 01
+			Sábado,20 de Março de 2021 Final de semana
+			Domingo,21 de Março de 2021 Final de semana
+			Segunda,22 de Março de 2021 Contador férias 02
+			Terça,23 de Março de 2021 Contador férias 03
+			Quarta,24 de Março de 2021 Contador férias 04
+			Quinta,25 de Março de 2021 Contador férias 05
+			Sexta,26 de Março de 2021 Contador férias 06
+			Sábado,27 de Março de 2021 Final de semana
+			Domingo,28 de Março de 2021 Final de semana
+			Segunda,29 de Março de 2021 Contador férias 07
+			Terça,30 de Março de 2021 Contador férias 08
+			Quarta,31 de Março de 2021 Contador férias 09
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador férias 10
+			Sexta,2 de Abril de 2021 Paixão de Cristo
+			Sábado,3 de Abril de 2021 Final de semana
+			Domingo,4 de Abril de 2021 Final de semana
+			Segunda,5 de Abril de 2021 Contador férias 11
+			Terça,6 de Abril de 2021 Contador férias 12
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+
+********************************************************************************
+(007): 78 dias corridos reais.
+	12 dias tirados com 19 dias aproveitados e 18 dias esperados [alavancagem:1.05556]
+		Oficialmente: início  das férias 22 de Março de 2021
+		Oficialmente: termino das férias 7 de Abril de 2021
+		Realmente   : início  das férias 20 de Março de 2021
+		Realmente   : termino das férias 7 de Abril de 2021
+			Sábado,20 de Março de 2021 Final de semana
+			Domingo,21 de Março de 2021 Final de semana
+			Segunda,22 de Março de 2021 Contador férias 01
+			Terça,23 de Março de 2021 Contador férias 02
+			Quarta,24 de Março de 2021 Contador férias 03
+			Quinta,25 de Março de 2021 Contador férias 04
+			Sexta,26 de Março de 2021 Contador férias 05
+			Sábado,27 de Março de 2021 Final de semana
+			Domingo,28 de Março de 2021 Final de semana
+			Segunda,29 de Março de 2021 Contador férias 06
+			Terça,30 de Março de 2021 Contador férias 07
+			Quarta,31 de Março de 2021 Contador férias 08
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador férias 09
+			Sexta,2 de Abril de 2021 Paixão de Cristo
+			Sábado,3 de Abril de 2021 Final de semana
+			Domingo,4 de Abril de 2021 Final de semana
+			Segunda,5 de Abril de 2021 Contador férias 10
+			Terça,6 de Abril de 2021 Contador férias 11
+			Quarta,7 de Abril de 2021 Contador férias 12
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+
+********************************************************************************
+(008): 78 dias corridos reais.
+	12 dias tirados com 19 dias aproveitados e 18 dias esperados [alavancagem:1.05556]
+		Oficialmente: início  das férias 24 de Março de 2021
+		Oficialmente: termino das férias 9 de Abril de 2021
+		Realmente   : início  das férias 24 de Março de 2021
+		Realmente   : termino das férias 11 de Abril de 2021
+			Quarta,24 de Março de 2021 Contador férias 01
+			Quinta,25 de Março de 2021 Contador férias 02
+			Sexta,26 de Março de 2021 Contador férias 03
+			Sábado,27 de Março de 2021 Final de semana
+			Domingo,28 de Março de 2021 Final de semana
+			Segunda,29 de Março de 2021 Contador férias 04
+			Terça,30 de Março de 2021 Contador férias 05
+			Quarta,31 de Março de 2021 Contador férias 06
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador férias 07
+			Sexta,2 de Abril de 2021 Paixão de Cristo
+			Sábado,3 de Abril de 2021 Final de semana
+			Domingo,4 de Abril de 2021 Final de semana
+			Segunda,5 de Abril de 2021 Contador férias 08
+			Terça,6 de Abril de 2021 Contador férias 09
+			Quarta,7 de Abril de 2021 Contador férias 10
+			Quinta,8 de Abril de 2021 Contador férias 11
+			Sexta,9 de Abril de 2021 Contador férias 12
+			Sábado,10 de Abril de 2021 Final de semana
+			Domingo,11 de Abril de 2021 Final de semana
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+
+********************************************************************************
+(009): 78 dias corridos reais.
+	12 dias tirados com 19 dias aproveitados e 18 dias esperados [alavancagem:1.05556]
+		Oficialmente: início  das férias 25 de Março de 2021
+		Oficialmente: termino das férias 12 de Abril de 2021
+		Realmente   : início  das férias 25 de Março de 2021
+		Realmente   : termino das férias 12 de Abril de 2021
+			Quinta,25 de Março de 2021 Contador férias 01
+			Sexta,26 de Março de 2021 Contador férias 02
+			Sábado,27 de Março de 2021 Final de semana
+			Domingo,28 de Março de 2021 Final de semana
+			Segunda,29 de Março de 2021 Contador férias 03
+			Terça,30 de Março de 2021 Contador férias 04
+			Quarta,31 de Março de 2021 Contador férias 05
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador férias 06
+			Sexta,2 de Abril de 2021 Paixão de Cristo
+			Sábado,3 de Abril de 2021 Final de semana
+			Domingo,4 de Abril de 2021 Final de semana
+			Segunda,5 de Abril de 2021 Contador férias 07
+			Terça,6 de Abril de 2021 Contador férias 08
+			Quarta,7 de Abril de 2021 Contador férias 09
+			Quinta,8 de Abril de 2021 Contador férias 10
+			Sexta,9 de Abril de 2021 Contador férias 11
+			Sábado,10 de Abril de 2021 Final de semana
+			Domingo,11 de Abril de 2021 Final de semana
+			Segunda,12 de Abril de 2021 Contador férias 12
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	13 dias tirados com 25 dias aproveitados e 19 dias esperados [alavancagem:1.31579]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+
+********************************************************************************
+(010): 78 dias corridos reais.
+	17 dias tirados com 27 dias aproveitados e 25 dias esperados [alavancagem:1.08000]
+		Oficialmente: início  das férias 26 de Março de 2021
+		Oficialmente: termino das férias 20 de Abril de 2021
+		Realmente   : início  das férias 26 de Março de 2021
+		Realmente   : termino das férias 21 de Abril de 2021
+			Sexta,26 de Março de 2021 Contador férias 01
+			Sábado,27 de Março de 2021 Final de semana
+			Domingo,28 de Março de 2021 Final de semana
+			Segunda,29 de Março de 2021 Contador férias 02
+			Terça,30 de Março de 2021 Contador férias 03
+			Quarta,31 de Março de 2021 Contador férias 04
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador férias 05
+			Sexta,2 de Abril de 2021 Paixão de Cristo
+			Sábado,3 de Abril de 2021 Final de semana
+			Domingo,4 de Abril de 2021 Final de semana
+			Segunda,5 de Abril de 2021 Contador férias 06
+			Terça,6 de Abril de 2021 Contador férias 07
+			Quarta,7 de Abril de 2021 Contador férias 08
+			Quinta,8 de Abril de 2021 Contador férias 09
+			Sexta,9 de Abril de 2021 Contador férias 10
+			Sábado,10 de Abril de 2021 Final de semana
+			Domingo,11 de Abril de 2021 Final de semana
+			Segunda,12 de Abril de 2021 Contador férias 11
+			Terça,13 de Abril de 2021 Contador férias 12
+			Quarta,14 de Abril de 2021 Contador férias 13
+			Quinta,15 de Abril de 2021 Contador férias 14
+			Sexta,16 de Abril de 2021 Contador férias 15
+			Sábado,17 de Abril de 2021 Final de semana
+			Domingo,18 de Abril de 2021 Final de semana
+			Segunda,19 de Abril de 2021 Contador férias 16
+			Terça,20 de Abril de 2021 Contador férias 17
+			Quarta,21 de Abril de 2021 Tiradentes
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	08 dias tirados com 17 dias aproveitados e 12 dias esperados [alavancagem:1.41667]
+		Oficialmente: início  das férias 3 de Novembro de 2021
+		Oficialmente: termino das férias 12 de Novembro de 2021
+		Realmente   : início  das férias 30 de Outubro de 2021
+		Realmente   : termino das férias 15 de Novembro de 2021
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+			Quarta,3 de Novembro de 2021 Contador férias 01
+			Quinta,4 de Novembro de 2021 Contador férias 02
+			Sexta,5 de Novembro de 2021 Contador férias 03
+			Sábado,6 de Novembro de 2021 Final de semana
+			Domingo,7 de Novembro de 2021 Final de semana
+			Segunda,8 de Novembro de 2021 Contador férias 04
+			Terça,9 de Novembro de 2021 Contador férias 05
+			Quarta,10 de Novembro de 2021 Contador férias 06
+			Quinta,11 de Novembro de 2021 Contador férias 07
+			Sexta,12 de Novembro de 2021 Contador férias 08
+			Sábado,13 de Novembro de 2021 Final de semana
+			Domingo,14 de Novembro de 2021 Final de semana
+			Segunda,15 de Novembro de 2021 Proclamação da República
+
+********************************************************************************
+(011): 75 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 18 de Novembro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 18 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**) - Contador férias 14
+			Terça,2 de Novembro de 2021 Finados
+			Quarta,3 de Novembro de 2021 Contador férias 15
+			Quinta,4 de Novembro de 2021 Contador férias 16
+			Sexta,5 de Novembro de 2021 Contador férias 17
+			Sábado,6 de Novembro de 2021 Final de semana
+			Domingo,7 de Novembro de 2021 Final de semana
+			Segunda,8 de Novembro de 2021 Contador férias 18
+			Terça,9 de Novembro de 2021 Contador férias 19
+			Quarta,10 de Novembro de 2021 Contador férias 20
+			Quinta,11 de Novembro de 2021 Contador férias 21
+			Sexta,12 de Novembro de 2021 Contador férias 22
+			Sábado,13 de Novembro de 2021 Final de semana
+			Domingo,14 de Novembro de 2021 Final de semana
+			Segunda,15 de Novembro de 2021 Proclamação da República
+			Terça,16 de Novembro de 2021 Contador férias 23
+			Quarta,17 de Novembro de 2021 Contador férias 24
+			Quinta,18 de Novembro de 2021 Contador férias 25
+
+********************************************************************************
+(012): 75 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 3 de Novembro de 2021
+		Oficialmente: termino das férias 9 de Dezembro de 2021
+		Realmente   : início  das férias 30 de Outubro de 2021
+		Realmente   : termino das férias 9 de Dezembro de 2021
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+			Quarta,3 de Novembro de 2021 Contador férias 01
+			Quinta,4 de Novembro de 2021 Contador férias 02
+			Sexta,5 de Novembro de 2021 Contador férias 03
+			Sábado,6 de Novembro de 2021 Final de semana
+			Domingo,7 de Novembro de 2021 Final de semana
+			Segunda,8 de Novembro de 2021 Contador férias 04
+			Terça,9 de Novembro de 2021 Contador férias 05
+			Quarta,10 de Novembro de 2021 Contador férias 06
+			Quinta,11 de Novembro de 2021 Contador férias 07
+			Sexta,12 de Novembro de 2021 Contador férias 08
+			Sábado,13 de Novembro de 2021 Final de semana
+			Domingo,14 de Novembro de 2021 Final de semana
+			Segunda,15 de Novembro de 2021 Proclamação da República
+			Terça,16 de Novembro de 2021 Contador férias 09
+			Quarta,17 de Novembro de 2021 Contador férias 10
+			Quinta,18 de Novembro de 2021 Contador férias 11
+			Sexta,19 de Novembro de 2021 Contador férias 12
+			Sábado,20 de Novembro de 2021 Final de semana
+			Domingo,21 de Novembro de 2021 Final de semana
+			Segunda,22 de Novembro de 2021 Contador férias 13
+			Terça,23 de Novembro de 2021 Contador férias 14
+			Quarta,24 de Novembro de 2021 Contador férias 15
+			Quinta,25 de Novembro de 2021 Contador férias 16
+			Sexta,26 de Novembro de 2021 Contador férias 17
+			Sábado,27 de Novembro de 2021 Final de semana
+			Domingo,28 de Novembro de 2021 Final de semana
+			Segunda,29 de Novembro de 2021 Contador férias 18
+			Terça,30 de Novembro de 2021 Contador férias 19
+			Quarta,1 de Dezembro de 2021 Contador férias 20
+			Quinta,2 de Dezembro de 2021 Contador férias 21
+			Sexta,3 de Dezembro de 2021 Contador férias 22
+			Sábado,4 de Dezembro de 2021 Final de semana
+			Domingo,5 de Dezembro de 2021 Final de semana
+			Segunda,6 de Dezembro de 2021 Contador férias 23
+			Terça,7 de Dezembro de 2021 Contador férias 24
+			Quarta,8 de Dezembro de 2021 Imaculada Conceição
+			Quinta,9 de Dezembro de 2021 Contador férias 25
+
+********************************************************************************
+(013): 74 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 3 de Março de 2021
+		Oficialmente: termino das férias 1 de Abril de 2021
+		Realmente   : início  das férias 3 de Março de 2021
+		Realmente   : termino das férias 4 de Abril de 2021
+			Quarta,3 de Março de 2021 Contador faltas prêmio 01
+			Quinta,4 de Março de 2021 Contador faltas prêmio 02
+			Sexta,5 de Março de 2021 Contador faltas prêmio 03
+			Sábado,6 de Março de 2021 Final de semana - Contador faltas prêmio 04
+			Domingo,7 de Março de 2021 Final de semana - Contador faltas prêmio 05
+			Segunda,8 de Março de 2021 Contador faltas prêmio 06
+			Terça,9 de Março de 2021 Contador faltas prêmio 07
+			Quarta,10 de Março de 2021 Contador faltas prêmio 08
+			Quinta,11 de Março de 2021 Contador faltas prêmio 09
+			Sexta,12 de Março de 2021 Contador faltas prêmio 10
+			Sábado,13 de Março de 2021 Final de semana - Contador faltas prêmio 11
+			Domingo,14 de Março de 2021 Final de semana - Contador faltas prêmio 12
+			Segunda,15 de Março de 2021 Contador faltas prêmio 13
+			Terça,16 de Março de 2021 Contador faltas prêmio 14
+			Quarta,17 de Março de 2021 Contador faltas prêmio 15
+			Quinta,18 de Março de 2021 Contador faltas prêmio 16
+			Sexta,19 de Março de 2021 Contador faltas prêmio 17
+			Sábado,20 de Março de 2021 Final de semana - Contador faltas prêmio 18
+			Domingo,21 de Março de 2021 Final de semana - Contador faltas prêmio 19
+			Segunda,22 de Março de 2021 Contador faltas prêmio 20
+			Terça,23 de Março de 2021 Contador faltas prêmio 21
+			Quarta,24 de Março de 2021 Contador faltas prêmio 22
+			Quinta,25 de Março de 2021 Contador faltas prêmio 23
+			Sexta,26 de Março de 2021 Contador faltas prêmio 24
+			Sábado,27 de Março de 2021 Final de semana - Contador faltas prêmio 25
+			Domingo,28 de Março de 2021 Final de semana - Contador faltas prêmio 26
+			Segunda,29 de Março de 2021 Contador faltas prêmio 27
+			Terça,30 de Março de 2021 Contador faltas prêmio 28
+			Quarta,31 de Março de 2021 Contador faltas prêmio 29
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador faltas prêmio 30
+			Sexta,2 de Abril de 2021 Paixão de Cristo
+			Sábado,3 de Abril de 2021 Final de semana
+			Domingo,4 de Abril de 2021 Final de semana
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 18 de Novembro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 18 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**) - Contador férias 14
+			Terça,2 de Novembro de 2021 Finados
+			Quarta,3 de Novembro de 2021 Contador férias 15
+			Quinta,4 de Novembro de 2021 Contador férias 16
+			Sexta,5 de Novembro de 2021 Contador férias 17
+			Sábado,6 de Novembro de 2021 Final de semana
+			Domingo,7 de Novembro de 2021 Final de semana
+			Segunda,8 de Novembro de 2021 Contador férias 18
+			Terça,9 de Novembro de 2021 Contador férias 19
+			Quarta,10 de Novembro de 2021 Contador férias 20
+			Quinta,11 de Novembro de 2021 Contador férias 21
+			Sexta,12 de Novembro de 2021 Contador férias 22
+			Sábado,13 de Novembro de 2021 Final de semana
+			Domingo,14 de Novembro de 2021 Final de semana
+			Segunda,15 de Novembro de 2021 Proclamação da República
+			Terça,16 de Novembro de 2021 Contador férias 23
+			Quarta,17 de Novembro de 2021 Contador férias 24
+			Quinta,18 de Novembro de 2021 Contador férias 25
+
+********************************************************************************
+(014): 74 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 22 de Março de 2021
+		Oficialmente: termino das férias 20 de Abril de 2021
+		Realmente   : início  das férias 20 de Março de 2021
+		Realmente   : termino das férias 21 de Abril de 2021
+			Sábado,20 de Março de 2021 Final de semana
+			Domingo,21 de Março de 2021 Final de semana
+			Segunda,22 de Março de 2021 Contador faltas prêmio 01
+			Terça,23 de Março de 2021 Contador faltas prêmio 02
+			Quarta,24 de Março de 2021 Contador faltas prêmio 03
+			Quinta,25 de Março de 2021 Contador faltas prêmio 04
+			Sexta,26 de Março de 2021 Contador faltas prêmio 05
+			Sábado,27 de Março de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,28 de Março de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,29 de Março de 2021 Contador faltas prêmio 08
+			Terça,30 de Março de 2021 Contador faltas prêmio 09
+			Quarta,31 de Março de 2021 Contador faltas prêmio 10
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador faltas prêmio 11
+			Sexta,2 de Abril de 2021 Paixão de Cristo - Contador faltas prêmio 12
+			Sábado,3 de Abril de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,4 de Abril de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,5 de Abril de 2021 Contador faltas prêmio 15
+			Terça,6 de Abril de 2021 Contador faltas prêmio 16
+			Quarta,7 de Abril de 2021 Contador faltas prêmio 17
+			Quinta,8 de Abril de 2021 Contador faltas prêmio 18
+			Sexta,9 de Abril de 2021 Contador faltas prêmio 19
+			Sábado,10 de Abril de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,11 de Abril de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,12 de Abril de 2021 Contador faltas prêmio 22
+			Terça,13 de Abril de 2021 Contador faltas prêmio 23
+			Quarta,14 de Abril de 2021 Contador faltas prêmio 24
+			Quinta,15 de Abril de 2021 Contador faltas prêmio 25
+			Sexta,16 de Abril de 2021 Contador faltas prêmio 26
+			Sábado,17 de Abril de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,18 de Abril de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,19 de Abril de 2021 Contador faltas prêmio 29
+			Terça,20 de Abril de 2021 Contador faltas prêmio 30
+			Quarta,21 de Abril de 2021 Tiradentes
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 18 de Novembro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 18 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**) - Contador férias 14
+			Terça,2 de Novembro de 2021 Finados
+			Quarta,3 de Novembro de 2021 Contador férias 15
+			Quinta,4 de Novembro de 2021 Contador férias 16
+			Sexta,5 de Novembro de 2021 Contador férias 17
+			Sábado,6 de Novembro de 2021 Final de semana
+			Domingo,7 de Novembro de 2021 Final de semana
+			Segunda,8 de Novembro de 2021 Contador férias 18
+			Terça,9 de Novembro de 2021 Contador férias 19
+			Quarta,10 de Novembro de 2021 Contador férias 20
+			Quinta,11 de Novembro de 2021 Contador férias 21
+			Sexta,12 de Novembro de 2021 Contador férias 22
+			Sábado,13 de Novembro de 2021 Final de semana
+			Domingo,14 de Novembro de 2021 Final de semana
+			Segunda,15 de Novembro de 2021 Proclamação da República
+			Terça,16 de Novembro de 2021 Contador férias 23
+			Quarta,17 de Novembro de 2021 Contador férias 24
+			Quinta,18 de Novembro de 2021 Contador férias 25
+
+********************************************************************************
+(015): 74 dias corridos reais.
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 13 de Outubro de 2021
+		Oficialmente: termino das férias 18 de Novembro de 2021
+		Realmente   : início  das férias 9 de Outubro de 2021
+		Realmente   : termino das férias 18 de Novembro de 2021
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 01
+			Quinta,14 de Outubro de 2021 Contador férias 02
+			Sexta,15 de Outubro de 2021 Contador férias 03
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 04
+			Terça,19 de Outubro de 2021 Contador férias 05
+			Quarta,20 de Outubro de 2021 Contador férias 06
+			Quinta,21 de Outubro de 2021 Contador férias 07
+			Sexta,22 de Outubro de 2021 Contador férias 08
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 09
+			Terça,26 de Outubro de 2021 Contador férias 10
+			Quarta,27 de Outubro de 2021 Contador férias 11
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 12
+			Sexta,29 de Outubro de 2021 Contador férias 13
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**) - Contador férias 14
+			Terça,2 de Novembro de 2021 Finados
+			Quarta,3 de Novembro de 2021 Contador férias 15
+			Quinta,4 de Novembro de 2021 Contador férias 16
+			Sexta,5 de Novembro de 2021 Contador férias 17
+			Sábado,6 de Novembro de 2021 Final de semana
+			Domingo,7 de Novembro de 2021 Final de semana
+			Segunda,8 de Novembro de 2021 Contador férias 18
+			Terça,9 de Novembro de 2021 Contador férias 19
+			Quarta,10 de Novembro de 2021 Contador férias 20
+			Quinta,11 de Novembro de 2021 Contador férias 21
+			Sexta,12 de Novembro de 2021 Contador férias 22
+			Sábado,13 de Novembro de 2021 Final de semana
+			Domingo,14 de Novembro de 2021 Final de semana
+			Segunda,15 de Novembro de 2021 Proclamação da República
+			Terça,16 de Novembro de 2021 Contador férias 23
+			Quarta,17 de Novembro de 2021 Contador férias 24
+			Quinta,18 de Novembro de 2021 Contador férias 25
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 27 de Dezembro de 2021
+		Oficialmente: termino das férias 25 de Janeiro de 2022
+		Realmente   : início  das férias 24 de Dezembro de 2021
+		Realmente   : termino das férias 25 de Janeiro de 2022
+			Sexta,24 de Dezembro de 2021 Natal, véspera (*)
+			Sábado,25 de Dezembro de 2021 Natal - Final de semana
+			Domingo,26 de Dezembro de 2021 Final de semana
+			Segunda,27 de Dezembro de 2021 Contador faltas prêmio 01
+			Terça,28 de Dezembro de 2021 Contador faltas prêmio 02
+			Quarta,29 de Dezembro de 2021 Contador faltas prêmio 03
+			Quinta,30 de Dezembro de 2021 Contador faltas prêmio 04
+			Sexta,31 de Dezembro de 2021 Confraternização Universal, véspera (*) - Contador faltas prêmio 05
+			Sábado,1 de Janeiro de 2022 Confraternização Universal - Final de semana - Contador faltas prêmio 06
+			Domingo,2 de Janeiro de 2022 Final de semana - Contador faltas prêmio 07
+			Segunda,3 de Janeiro de 2022 Contador faltas prêmio 08
+			Terça,4 de Janeiro de 2022 Contador faltas prêmio 09
+			Quarta,5 de Janeiro de 2022 Contador faltas prêmio 10
+			Quinta,6 de Janeiro de 2022 Contador faltas prêmio 11
+			Sexta,7 de Janeiro de 2022 Contador faltas prêmio 12
+			Sábado,8 de Janeiro de 2022 Final de semana - Contador faltas prêmio 13
+			Domingo,9 de Janeiro de 2022 Final de semana - Contador faltas prêmio 14
+			Segunda,10 de Janeiro de 2022 Contador faltas prêmio 15
+			Terça,11 de Janeiro de 2022 Contador faltas prêmio 16
+			Quarta,12 de Janeiro de 2022 Contador faltas prêmio 17
+			Quinta,13 de Janeiro de 2022 Contador faltas prêmio 18
+			Sexta,14 de Janeiro de 2022 Contador faltas prêmio 19
+			Sábado,15 de Janeiro de 2022 Final de semana - Contador faltas prêmio 20
+			Domingo,16 de Janeiro de 2022 Final de semana - Contador faltas prêmio 21
+			Segunda,17 de Janeiro de 2022 Contador faltas prêmio 22
+			Terça,18 de Janeiro de 2022 Contador faltas prêmio 23
+			Quarta,19 de Janeiro de 2022 Contador faltas prêmio 24
+			Quinta,20 de Janeiro de 2022 Contador faltas prêmio 25
+			Sexta,21 de Janeiro de 2022 Contador faltas prêmio 26
+			Sábado,22 de Janeiro de 2022 Final de semana - Contador faltas prêmio 27
+			Domingo,23 de Janeiro de 2022 Final de semana - Contador faltas prêmio 28
+			Segunda,24 de Janeiro de 2022 Contador faltas prêmio 29
+			Terça,25 de Janeiro de 2022 Contador faltas prêmio 30
+
+********************************************************************************
+(016): 74 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 3 de Março de 2021
+		Oficialmente: termino das férias 1 de Abril de 2021
+		Realmente   : início  das férias 3 de Março de 2021
+		Realmente   : termino das férias 4 de Abril de 2021
+			Quarta,3 de Março de 2021 Contador faltas prêmio 01
+			Quinta,4 de Março de 2021 Contador faltas prêmio 02
+			Sexta,5 de Março de 2021 Contador faltas prêmio 03
+			Sábado,6 de Março de 2021 Final de semana - Contador faltas prêmio 04
+			Domingo,7 de Março de 2021 Final de semana - Contador faltas prêmio 05
+			Segunda,8 de Março de 2021 Contador faltas prêmio 06
+			Terça,9 de Março de 2021 Contador faltas prêmio 07
+			Quarta,10 de Março de 2021 Contador faltas prêmio 08
+			Quinta,11 de Março de 2021 Contador faltas prêmio 09
+			Sexta,12 de Março de 2021 Contador faltas prêmio 10
+			Sábado,13 de Março de 2021 Final de semana - Contador faltas prêmio 11
+			Domingo,14 de Março de 2021 Final de semana - Contador faltas prêmio 12
+			Segunda,15 de Março de 2021 Contador faltas prêmio 13
+			Terça,16 de Março de 2021 Contador faltas prêmio 14
+			Quarta,17 de Março de 2021 Contador faltas prêmio 15
+			Quinta,18 de Março de 2021 Contador faltas prêmio 16
+			Sexta,19 de Março de 2021 Contador faltas prêmio 17
+			Sábado,20 de Março de 2021 Final de semana - Contador faltas prêmio 18
+			Domingo,21 de Março de 2021 Final de semana - Contador faltas prêmio 19
+			Segunda,22 de Março de 2021 Contador faltas prêmio 20
+			Terça,23 de Março de 2021 Contador faltas prêmio 21
+			Quarta,24 de Março de 2021 Contador faltas prêmio 22
+			Quinta,25 de Março de 2021 Contador faltas prêmio 23
+			Sexta,26 de Março de 2021 Contador faltas prêmio 24
+			Sábado,27 de Março de 2021 Final de semana - Contador faltas prêmio 25
+			Domingo,28 de Março de 2021 Final de semana - Contador faltas prêmio 26
+			Segunda,29 de Março de 2021 Contador faltas prêmio 27
+			Terça,30 de Março de 2021 Contador faltas prêmio 28
+			Quarta,31 de Março de 2021 Contador faltas prêmio 29
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador faltas prêmio 30
+			Sexta,2 de Abril de 2021 Paixão de Cristo
+			Sábado,3 de Abril de 2021 Final de semana
+			Domingo,4 de Abril de 2021 Final de semana
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 3 de Novembro de 2021
+		Oficialmente: termino das férias 9 de Dezembro de 2021
+		Realmente   : início  das férias 30 de Outubro de 2021
+		Realmente   : termino das férias 9 de Dezembro de 2021
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+			Quarta,3 de Novembro de 2021 Contador férias 01
+			Quinta,4 de Novembro de 2021 Contador férias 02
+			Sexta,5 de Novembro de 2021 Contador férias 03
+			Sábado,6 de Novembro de 2021 Final de semana
+			Domingo,7 de Novembro de 2021 Final de semana
+			Segunda,8 de Novembro de 2021 Contador férias 04
+			Terça,9 de Novembro de 2021 Contador férias 05
+			Quarta,10 de Novembro de 2021 Contador férias 06
+			Quinta,11 de Novembro de 2021 Contador férias 07
+			Sexta,12 de Novembro de 2021 Contador férias 08
+			Sábado,13 de Novembro de 2021 Final de semana
+			Domingo,14 de Novembro de 2021 Final de semana
+			Segunda,15 de Novembro de 2021 Proclamação da República
+			Terça,16 de Novembro de 2021 Contador férias 09
+			Quarta,17 de Novembro de 2021 Contador férias 10
+			Quinta,18 de Novembro de 2021 Contador férias 11
+			Sexta,19 de Novembro de 2021 Contador férias 12
+			Sábado,20 de Novembro de 2021 Final de semana
+			Domingo,21 de Novembro de 2021 Final de semana
+			Segunda,22 de Novembro de 2021 Contador férias 13
+			Terça,23 de Novembro de 2021 Contador férias 14
+			Quarta,24 de Novembro de 2021 Contador férias 15
+			Quinta,25 de Novembro de 2021 Contador férias 16
+			Sexta,26 de Novembro de 2021 Contador férias 17
+			Sábado,27 de Novembro de 2021 Final de semana
+			Domingo,28 de Novembro de 2021 Final de semana
+			Segunda,29 de Novembro de 2021 Contador férias 18
+			Terça,30 de Novembro de 2021 Contador férias 19
+			Quarta,1 de Dezembro de 2021 Contador férias 20
+			Quinta,2 de Dezembro de 2021 Contador férias 21
+			Sexta,3 de Dezembro de 2021 Contador férias 22
+			Sábado,4 de Dezembro de 2021 Final de semana
+			Domingo,5 de Dezembro de 2021 Final de semana
+			Segunda,6 de Dezembro de 2021 Contador férias 23
+			Terça,7 de Dezembro de 2021 Contador férias 24
+			Quarta,8 de Dezembro de 2021 Imaculada Conceição
+			Quinta,9 de Dezembro de 2021 Contador férias 25
+
+********************************************************************************
+(017): 74 dias corridos reais.
+	30 dias tirados com 33 dias aproveitados e 30 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 22 de Março de 2021
+		Oficialmente: termino das férias 20 de Abril de 2021
+		Realmente   : início  das férias 20 de Março de 2021
+		Realmente   : termino das férias 21 de Abril de 2021
+			Sábado,20 de Março de 2021 Final de semana
+			Domingo,21 de Março de 2021 Final de semana
+			Segunda,22 de Março de 2021 Contador faltas prêmio 01
+			Terça,23 de Março de 2021 Contador faltas prêmio 02
+			Quarta,24 de Março de 2021 Contador faltas prêmio 03
+			Quinta,25 de Março de 2021 Contador faltas prêmio 04
+			Sexta,26 de Março de 2021 Contador faltas prêmio 05
+			Sábado,27 de Março de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,28 de Março de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,29 de Março de 2021 Contador faltas prêmio 08
+			Terça,30 de Março de 2021 Contador faltas prêmio 09
+			Quarta,31 de Março de 2021 Contador faltas prêmio 10
+			Quinta,1 de Abril de 2021 Paixão de Cristo, vespera (*) - Nanan - Contador faltas prêmio 11
+			Sexta,2 de Abril de 2021 Paixão de Cristo - Contador faltas prêmio 12
+			Sábado,3 de Abril de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,4 de Abril de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,5 de Abril de 2021 Contador faltas prêmio 15
+			Terça,6 de Abril de 2021 Contador faltas prêmio 16
+			Quarta,7 de Abril de 2021 Contador faltas prêmio 17
+			Quinta,8 de Abril de 2021 Contador faltas prêmio 18
+			Sexta,9 de Abril de 2021 Contador faltas prêmio 19
+			Sábado,10 de Abril de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,11 de Abril de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,12 de Abril de 2021 Contador faltas prêmio 22
+			Terça,13 de Abril de 2021 Contador faltas prêmio 23
+			Quarta,14 de Abril de 2021 Contador faltas prêmio 24
+			Quinta,15 de Abril de 2021 Contador faltas prêmio 25
+			Sexta,16 de Abril de 2021 Contador faltas prêmio 26
+			Sábado,17 de Abril de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,18 de Abril de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,19 de Abril de 2021 Contador faltas prêmio 29
+			Terça,20 de Abril de 2021 Contador faltas prêmio 30
+			Quarta,21 de Abril de 2021 Tiradentes
+	25 dias tirados com 41 dias aproveitados e 37 dias esperados [alavancagem:1.10811]
+		Oficialmente: início  das férias 3 de Novembro de 2021
+		Oficialmente: termino das férias 9 de Dezembro de 2021
+		Realmente   : início  das férias 30 de Outubro de 2021
+		Realmente   : termino das férias 9 de Dezembro de 2021
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+			Quarta,3 de Novembro de 2021 Contador férias 01
+			Quinta,4 de Novembro de 2021 Contador férias 02
+			Sexta,5 de Novembro de 2021 Contador férias 03
+			Sábado,6 de Novembro de 2021 Final de semana
+			Domingo,7 de Novembro de 2021 Final de semana
+			Segunda,8 de Novembro de 2021 Contador férias 04
+			Terça,9 de Novembro de 2021 Contador férias 05
+			Quarta,10 de Novembro de 2021 Contador férias 06
+			Quinta,11 de Novembro de 2021 Contador férias 07
+			Sexta,12 de Novembro de 2021 Contador férias 08
+			Sábado,13 de Novembro de 2021 Final de semana
+			Domingo,14 de Novembro de 2021 Final de semana
+			Segunda,15 de Novembro de 2021 Proclamação da República
+			Terça,16 de Novembro de 2021 Contador férias 09
+			Quarta,17 de Novembro de 2021 Contador férias 10
+			Quinta,18 de Novembro de 2021 Contador férias 11
+			Sexta,19 de Novembro de 2021 Contador férias 12
+			Sábado,20 de Novembro de 2021 Final de semana
+			Domingo,21 de Novembro de 2021 Final de semana
+			Segunda,22 de Novembro de 2021 Contador férias 13
+			Terça,23 de Novembro de 2021 Contador férias 14
+			Quarta,24 de Novembro de 2021 Contador férias 15
+			Quinta,25 de Novembro de 2021 Contador férias 16
+			Sexta,26 de Novembro de 2021 Contador férias 17
+			Sábado,27 de Novembro de 2021 Final de semana
+			Domingo,28 de Novembro de 2021 Final de semana
+			Segunda,29 de Novembro de 2021 Contador férias 18
+			Terça,30 de Novembro de 2021 Contador férias 19
+			Quarta,1 de Dezembro de 2021 Contador férias 20
+			Quinta,2 de Dezembro de 2021 Contador férias 21
+			Sexta,3 de Dezembro de 2021 Contador férias 22
+			Sábado,4 de Dezembro de 2021 Final de semana
+			Domingo,5 de Dezembro de 2021 Final de semana
+			Segunda,6 de Dezembro de 2021 Contador férias 23
+			Terça,7 de Dezembro de 2021 Contador férias 24
+			Quarta,8 de Dezembro de 2021 Imaculada Conceição
+			Quinta,9 de Dezembro de 2021 Contador férias 25
+
+********************************************************************************
+(018): 74 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 3 de Setembro de 2021
+		Oficialmente: termino das férias 8 de Outubro de 2021
+		Realmente   : início  das férias 3 de Setembro de 2021
+		Realmente   : termino das férias 12 de Outubro de 2021
+			Sexta,3 de Setembro de 2021 Contador férias 01
+			Sábado,4 de Setembro de 2021 Final de semana
+			Domingo,5 de Setembro de 2021 Final de semana
+			Segunda,6 de Setembro de 2021 Independência do Brasil - vespera (**) - Contador férias 02
+			Terça,7 de Setembro de 2021 Independência do Brasil
+			Quarta,8 de Setembro de 2021 Contador férias 03
+			Quinta,9 de Setembro de 2021 Contador férias 04
+			Sexta,10 de Setembro de 2021 Contador férias 05
+			Sábado,11 de Setembro de 2021 Final de semana
+			Domingo,12 de Setembro de 2021 Final de semana
+			Segunda,13 de Setembro de 2021 Contador férias 06
+			Terça,14 de Setembro de 2021 Contador férias 07
+			Quarta,15 de Setembro de 2021 Contador férias 08
+			Quinta,16 de Setembro de 2021 Contador férias 09
+			Sexta,17 de Setembro de 2021 Contador férias 10
+			Sábado,18 de Setembro de 2021 Final de semana
+			Domingo,19 de Setembro de 2021 Final de semana
+			Segunda,20 de Setembro de 2021 Contador férias 11
+			Terça,21 de Setembro de 2021 Contador férias 12
+			Quarta,22 de Setembro de 2021 Contador férias 13
+			Quinta,23 de Setembro de 2021 Contador férias 14
+			Sexta,24 de Setembro de 2021 Contador férias 15
+			Sábado,25 de Setembro de 2021 Final de semana
+			Domingo,26 de Setembro de 2021 Final de semana
+			Segunda,27 de Setembro de 2021 Contador férias 16
+			Terça,28 de Setembro de 2021 Contador férias 17
+			Quarta,29 de Setembro de 2021 Contador férias 18
+			Quinta,30 de Setembro de 2021 Contador férias 19
+			Sexta,1 de Outubro de 2021 Contador férias 20
+			Sábado,2 de Outubro de 2021 Final de semana
+			Domingo,3 de Outubro de 2021 Final de semana
+			Segunda,4 de Outubro de 2021 Contador férias 21
+			Terça,5 de Outubro de 2021 Contador férias 22
+			Quarta,6 de Outubro de 2021 Contador férias 23
+			Quinta,7 de Outubro de 2021 Contador férias 24
+			Sexta,8 de Outubro de 2021 Contador férias 25
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**)
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+
+********************************************************************************
+(019): 74 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 8 de Setembro de 2021
+		Oficialmente: termino das férias 13 de Outubro de 2021
+		Realmente   : início  das férias 4 de Setembro de 2021
+		Realmente   : termino das férias 13 de Outubro de 2021
+			Sábado,4 de Setembro de 2021 Final de semana
+			Domingo,5 de Setembro de 2021 Final de semana
+			Segunda,6 de Setembro de 2021 Independência do Brasil - vespera (**)
+			Terça,7 de Setembro de 2021 Independência do Brasil
+			Quarta,8 de Setembro de 2021 Contador férias 01
+			Quinta,9 de Setembro de 2021 Contador férias 02
+			Sexta,10 de Setembro de 2021 Contador férias 03
+			Sábado,11 de Setembro de 2021 Final de semana
+			Domingo,12 de Setembro de 2021 Final de semana
+			Segunda,13 de Setembro de 2021 Contador férias 04
+			Terça,14 de Setembro de 2021 Contador férias 05
+			Quarta,15 de Setembro de 2021 Contador férias 06
+			Quinta,16 de Setembro de 2021 Contador férias 07
+			Sexta,17 de Setembro de 2021 Contador férias 08
+			Sábado,18 de Setembro de 2021 Final de semana
+			Domingo,19 de Setembro de 2021 Final de semana
+			Segunda,20 de Setembro de 2021 Contador férias 09
+			Terça,21 de Setembro de 2021 Contador férias 10
+			Quarta,22 de Setembro de 2021 Contador férias 11
+			Quinta,23 de Setembro de 2021 Contador férias 12
+			Sexta,24 de Setembro de 2021 Contador férias 13
+			Sábado,25 de Setembro de 2021 Final de semana
+			Domingo,26 de Setembro de 2021 Final de semana
+			Segunda,27 de Setembro de 2021 Contador férias 14
+			Terça,28 de Setembro de 2021 Contador férias 15
+			Quarta,29 de Setembro de 2021 Contador férias 16
+			Quinta,30 de Setembro de 2021 Contador férias 17
+			Sexta,1 de Outubro de 2021 Contador férias 18
+			Sábado,2 de Outubro de 2021 Final de semana
+			Domingo,3 de Outubro de 2021 Final de semana
+			Segunda,4 de Outubro de 2021 Contador férias 19
+			Terça,5 de Outubro de 2021 Contador férias 20
+			Quarta,6 de Outubro de 2021 Contador férias 21
+			Quinta,7 de Outubro de 2021 Contador férias 22
+			Sexta,8 de Outubro de 2021 Contador férias 23
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**) - Contador férias 24
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 25
+
+********************************************************************************
+(020): 74 dias corridos reais.
+	30 dias tirados com 34 dias aproveitados e 30 dias esperados [alavancagem:1.13333]
+		Oficialmente: início  das férias 7 de Junho de 2021
+		Oficialmente: termino das férias 6 de Julho de 2021
+		Realmente   : início  das férias 3 de Junho de 2021
+		Realmente   : termino das férias 6 de Julho de 2021
+			Quinta,3 de Junho de 2021 Corpus Christi
+			Sexta,4 de Junho de 2021 Corpus Christi - seguida (**)
+			Sábado,5 de Junho de 2021 Final de semana
+			Domingo,6 de Junho de 2021 Final de semana
+			Segunda,7 de Junho de 2021 Contador faltas prêmio 01
+			Terça,8 de Junho de 2021 Contador faltas prêmio 02
+			Quarta,9 de Junho de 2021 Contador faltas prêmio 03
+			Quinta,10 de Junho de 2021 Contador faltas prêmio 04
+			Sexta,11 de Junho de 2021 Contador faltas prêmio 05
+			Sábado,12 de Junho de 2021 Final de semana - Contador faltas prêmio 06
+			Domingo,13 de Junho de 2021 Final de semana - Contador faltas prêmio 07
+			Segunda,14 de Junho de 2021 Contador faltas prêmio 08
+			Terça,15 de Junho de 2021 Contador faltas prêmio 09
+			Quarta,16 de Junho de 2021 Contador faltas prêmio 10
+			Quinta,17 de Junho de 2021 Contador faltas prêmio 11
+			Sexta,18 de Junho de 2021 Contador faltas prêmio 12
+			Sábado,19 de Junho de 2021 Final de semana - Contador faltas prêmio 13
+			Domingo,20 de Junho de 2021 Final de semana - Contador faltas prêmio 14
+			Segunda,21 de Junho de 2021 Contador faltas prêmio 15
+			Terça,22 de Junho de 2021 Contador faltas prêmio 16
+			Quarta,23 de Junho de 2021 Contador faltas prêmio 17
+			Quinta,24 de Junho de 2021 Contador faltas prêmio 18
+			Sexta,25 de Junho de 2021 Contador faltas prêmio 19
+			Sábado,26 de Junho de 2021 Final de semana - Contador faltas prêmio 20
+			Domingo,27 de Junho de 2021 Final de semana - Contador faltas prêmio 21
+			Segunda,28 de Junho de 2021 Contador faltas prêmio 22
+			Terça,29 de Junho de 2021 Contador faltas prêmio 23
+			Quarta,30 de Junho de 2021 Contador faltas prêmio 24
+			Quinta,1 de Julho de 2021 Contador faltas prêmio 25
+			Sexta,2 de Julho de 2021 Contador faltas prêmio 26
+			Sábado,3 de Julho de 2021 Final de semana - Contador faltas prêmio 27
+			Domingo,4 de Julho de 2021 Final de semana - Contador faltas prêmio 28
+			Segunda,5 de Julho de 2021 Contador faltas prêmio 29
+			Terça,6 de Julho de 2021 Contador faltas prêmio 30
+	25 dias tirados com 40 dias aproveitados e 37 dias esperados [alavancagem:1.08108]
+		Oficialmente: início  das férias 24 de Setembro de 2021
+		Oficialmente: termino das férias 29 de Outubro de 2021
+		Realmente   : início  das férias 24 de Setembro de 2021
+		Realmente   : termino das férias 2 de Novembro de 2021
+			Sexta,24 de Setembro de 2021 Contador férias 01
+			Sábado,25 de Setembro de 2021 Final de semana
+			Domingo,26 de Setembro de 2021 Final de semana
+			Segunda,27 de Setembro de 2021 Contador férias 02
+			Terça,28 de Setembro de 2021 Contador férias 03
+			Quarta,29 de Setembro de 2021 Contador férias 04
+			Quinta,30 de Setembro de 2021 Contador férias 05
+			Sexta,1 de Outubro de 2021 Contador férias 06
+			Sábado,2 de Outubro de 2021 Final de semana
+			Domingo,3 de Outubro de 2021 Final de semana
+			Segunda,4 de Outubro de 2021 Contador férias 07
+			Terça,5 de Outubro de 2021 Contador férias 08
+			Quarta,6 de Outubro de 2021 Contador férias 09
+			Quinta,7 de Outubro de 2021 Contador férias 10
+			Sexta,8 de Outubro de 2021 Contador férias 11
+			Sábado,9 de Outubro de 2021 Final de semana
+			Domingo,10 de Outubro de 2021 Final de semana
+			Segunda,11 de Outubro de 2021 Nossa Senhora Aparecida - vespera (**) - Contador férias 12
+			Terça,12 de Outubro de 2021 Nossa Senhora Aparecida
+			Quarta,13 de Outubro de 2021 Contador férias 13
+			Quinta,14 de Outubro de 2021 Contador férias 14
+			Sexta,15 de Outubro de 2021 Contador férias 15
+			Sábado,16 de Outubro de 2021 Final de semana
+			Domingo,17 de Outubro de 2021 Final de semana
+			Segunda,18 de Outubro de 2021 Contador férias 16
+			Terça,19 de Outubro de 2021 Contador férias 17
+			Quarta,20 de Outubro de 2021 Contador férias 18
+			Quinta,21 de Outubro de 2021 Contador férias 19
+			Sexta,22 de Outubro de 2021 Contador férias 20
+			Sábado,23 de Outubro de 2021 Final de semana
+			Domingo,24 de Outubro de 2021 Final de semana
+			Segunda,25 de Outubro de 2021 Contador férias 21
+			Terça,26 de Outubro de 2021 Contador férias 22
+			Quarta,27 de Outubro de 2021 Contador férias 23
+			Quinta,28 de Outubro de 2021 Dia do Servidor Público (***) - Contador férias 24
+			Sexta,29 de Outubro de 2021 Contador férias 25
+			Sábado,30 de Outubro de 2021 Final de semana
+			Domingo,31 de Outubro de 2021 Final de semana
+			Segunda,1 de Novembro de 2021 Finados - vespera (**)
+			Terça,2 de Novembro de 2021 Finados
+

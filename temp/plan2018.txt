@@ -1,0 +1,99 @@
+
+9 de Fevereiro de 2018
+
+	Posição geral[001]
+	06 dias tirados com 11 dias aproveitados e 10 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 9 de Fevereiro de 2018
+		Oficialmente: termino das férias 19 de Fevereiro de 2018
+		Realmente   : início  das férias 9 de Fevereiro de 2018
+		Realmente   : termino das férias 19 de Fevereiro de 2018
+
+23 de Março de 2018
+
+	Posição geral[002]
+	06 dias tirados com 11 dias aproveitados e 10 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 23 de Março de 2018
+		Oficialmente: termino das férias 2 de Abril de 2018
+		Realmente   : início  das férias 23 de Março de 2018
+		Realmente   : termino das férias 2 de Abril de 2018
+
+27 de Abril de 2018
+
+	Posição geral[003]
+	06 dias tirados com 11 dias aproveitados e 10 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 27 de Abril de 2018
+		Oficialmente: termino das férias 7 de Maio de 2018
+		Realmente   : início  das férias 27 de Abril de 2018
+		Realmente   : termino das férias 7 de Maio de 2018
+
+25 de Maio de 2018
+
+	Posição geral[004]
+	06 dias tirados com 11 dias aproveitados e 10 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 25 de Maio de 2018
+		Oficialmente: termino das férias 4 de Junho de 2018
+		Realmente   : início  das férias 25 de Maio de 2018
+		Realmente   : termino das férias 4 de Junho de 2018
+
+10 de Agosto de 2018
+
+	Posição geral[005]
+	06 dias tirados com 11 dias aproveitados e 10 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 10 de Agosto de 2018
+		Oficialmente: termino das férias 20 de Agosto de 2018
+		Realmente   : início  das férias 10 de Agosto de 2018
+		Realmente   : termino das férias 20 de Agosto de 2018
+
+31 de Agosto de 2018
+
+	Posição geral[006]
+	06 dias tirados com 11 dias aproveitados e 10 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 31 de Agosto de 2018
+		Oficialmente: termino das férias 10 de Setembro de 2018
+		Realmente   : início  das férias 31 de Agosto de 2018
+		Realmente   : termino das férias 10 de Setembro de 2018
+
+5 de Outubro de 2018
+
+	Posição geral[007]
+	06 dias tirados com 11 dias aproveitados e 10 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 5 de Outubro de 2018
+		Oficialmente: termino das férias 15 de Outubro de 2018
+		Realmente   : início  das férias 5 de Outubro de 2018
+		Realmente   : termino das férias 15 de Outubro de 2018
+
+26 de Outubro de 2018
+
+	Posição geral[008]
+	06 dias tirados com 11 dias aproveitados e 10 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 26 de Outubro de 2018
+		Oficialmente: termino das férias 5 de Novembro de 2018
+		Realmente   : início  das férias 26 de Outubro de 2018
+		Realmente   : termino das férias 5 de Novembro de 2018
+
+9 de Novembro de 2018
+
+	Posição geral[009]
+	06 dias tirados com 11 dias aproveitados e 10 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 9 de Novembro de 2018
+		Oficialmente: termino das férias 19 de Novembro de 2018
+		Realmente   : início  das férias 9 de Novembro de 2018
+		Realmente   : termino das férias 19 de Novembro de 2018
+
+21 de Dezembro de 2018
+
+	Posição geral[010]
+	06 dias tirados com 12 dias aproveitados e 10 dias esperados [alavancagem:1.20000]
+		Oficialmente: início  das férias 21 de Dezembro de 2018
+		Oficialmente: termino das férias 31 de Dezembro de 2018
+		Realmente   : início  das férias 21 de Dezembro de 2018
+		Realmente   : termino das férias 1 de Janeiro de 2019
+
+28 de Dezembro de 2018
+
+	Posição geral[011]
+	06 dias tirados com 11 dias aproveitados e 10 dias esperados [alavancagem:1.10000]
+		Oficialmente: início  das férias 28 de Dezembro de 2018
+		Oficialmente: termino das férias 7 de Janeiro de 2019
+		Realmente   : início  das férias 28 de Dezembro de 2018
+		Realmente   : termino das férias 7 de Janeiro de 2019

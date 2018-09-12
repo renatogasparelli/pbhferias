@@ -1,0 +1,74 @@
+[
+	{
+		"nome":"Barcelona",
+		"bigmac":"EUR 7.00",
+		"agua":"EUR 2.00",
+		"hotels":[
+			{
+				"nome":"Hotel legal",
+				"diaria":"EUR 50.00",
+				"traslado":"EUR 100.00"
+			},
+			{
+				"nome":"Hotel legal 2",
+				"diaria":"EUR 50.00",
+				"traslado":"EUR 100.00"
+			}
+		]
+	},
+	
+	{
+		"nome":"Atenas",
+		"bigmac":"EUR 7.00",
+		"agua":"EUR 2.00",
+		"hotels":[
+			{
+				"nome":"Hotel legal",
+				"diaria":"EUR 50.00",
+				"traslado":"EUR 100.00"
+			},
+			{
+				"nome":"Hotel legal 2",
+				"diaria":"EUR 50.00",
+				"traslado":"EUR 100.00"
+			}
+		]
+	},
+
+	{
+		"nome":"Bordeaux",
+		"bigmac":"EUR 7.00",
+		"agua":"EUR 2.00",
+		"hotels":[
+			{
+				"nome":"Hotel legal",
+				"diaria":"EUR 50.00",
+				"traslado":"EUR 100.00"
+			},
+			{
+				"nome":"Hotel legal 2",
+				"diaria":"EUR 50.00",
+				"traslado":"EUR 100.00"
+			}
+		]
+	},
+
+	{
+		"nome":"Milan",
+		"bigmac":"EUR 7.00",
+		"agua":"EUR 2.00",
+		"hotels":[
+			{
+				"nome":"Hotel legal",
+				"diaria":"EUR 50.00",
+				"traslado":"EUR 100.00"
+			},
+			{
+				"nome":"Hotel legal 2",
+				"diaria":"EUR 50.00",
+				"traslado":"EUR 100.00"
+			}
+		]
+}
+
+]
